@@ -44,13 +44,13 @@
    If the array has no elements (length is 0), then the function returns 0.
 */
 int addElement(int * array, int length)
-{ 
-   sum = 0;
+{
+   int sum = 0; //Variable to store sum of elements
    int i;
-   for (i = 0; i < length; i++) 
-     sum = sum + array[length]
+   for (i=0; i<length; i++) //For loop to go through each element of the array
+     sum = sum + array[i]; 
 
-   return sum;
+   return sum; //Returning value of sum
 }
 /*
  * =================================================================
@@ -76,7 +76,13 @@ int addElement(int * array, int length)
 */
 int countNegative(int * array, int length)
 {
-    return 0;
+    int count = 0; //Variable to keep count of the negative elements in the array
+    int i; 
+    for (i = 0; i < length; i++) //For loop to go through each element in the array
+      if (array[i] < 0)
+        count = count + 1;
+
+    return count; //Returning count value
 }
 /*
  * =================================================================
@@ -123,6 +129,15 @@ int countNegative(int * array, int length)
 
 */
 int isIncreasing(int * array, int length)
-{
-    return 0;
+{   int check = 0; //Variable to keep check of an element and the next
+    int i;
+    for (i = 0; i < (length-1) ; i++) //For loop to go through each element in the array
+      if (array[i] > array[i+1]) //If loop to check for increaing elements
+        check = check + 1;
+    
+    if (check > 0)
+      return 0;
+
+    else
+      return 1;
 }
