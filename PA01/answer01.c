@@ -44,8 +44,13 @@
    If the array has no elements (length is 0), then the function returns 0.
 */
 int addElement(int * array, int length)
-{
-    return 0;
+{ 
+   sum = 0;
+   int i;
+   for (i = 0; i < length; i++) 
+     sum = sum + array[length]
+
+   return sum;
 }
 /*
  * =================================================================
