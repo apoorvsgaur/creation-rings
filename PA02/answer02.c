@@ -1,5 +1,7 @@
 #include "pa02.h"
-
+# include <string.h>
+# include <stdio.h>
+# include <ctype.h>
 /**
  * Count the number of characters in a null-terminated string 's' 
  * (not counting the null character).
@@ -7,8 +9,14 @@
  * Example: my_strlen("foo") should yield 3.
  */
 int my_strlen(const char * s)
-{
-    return 0;
+{   
+    int count = 0;
+    while (s[count] != '\0')
+    {
+      count = count + 1;
+    }
+
+    return count;
 }
 
 /**
@@ -19,7 +27,17 @@ int my_strlen(const char * s)
  */
 int my_countchar(const char * s, char c)
 {
-    return 0;
+   int count = 0; 
+   int value = 0;
+   while (s[count] != '\0')
+   {
+     if (s[count] == c)
+     { value = value + 1;
+     }
+    count = count + 1;
+   }
+
+   return value;
 }
 
 /**
@@ -32,8 +50,16 @@ int my_countchar(const char * s, char c)
  * my_strupper(foobar) yields "FOOBAR".
  */
 void my_strupper(char * s)
-{
-
+{  
+   int count = 0;
+   while (s[count] != '\0')
+   { 
+      if (s[count] >= 97 && s[count] <=122)
+      { 
+        s[count] = s[count] - 32;
+      }
+      count = count + 1;
+   }
 }
 
 /**
@@ -47,7 +73,15 @@ void my_strupper(char * s)
  */
 void my_strlower(char * s)
 {
-
+  int count = 0; 
+   while (s[count] != '\0')
+   { 
+      if (s[count] >= 65 && s[count] <= 90)
+      {
+        s[count] = s[count] + 32;
+      }
+      count = count + 1;
+   }
 }
 
 /**
@@ -62,7 +96,7 @@ void my_strlower(char * s)
  */
 void my_strcpy(char * s1, const char * s2)
 {
-
+  strcpy (s1,s2);
 }
 
 /**
@@ -77,6 +111,13 @@ void my_strcpy(char * s1, const char * s2)
  */
 void my_strncpy(char * s1, const char * s2, int num)
 {
+  int i;
+  for (i = 0; i < num; i++)
+  {
+     s1[i] = s2[i];
+  }
+  
+  s1[i] = '\0';
     
 }
 
@@ -91,9 +132,26 @@ void my_strncpy(char * s1, const char * s2, int num)
  * my_strcat(foo, "bar") yields "foobar".
  */
 void my_strcat(char * s1, const char * s2) 
-{
-    
+{ 
+  int i = my_strlen (s1);
+  int j = 0;
+  for ( ;s2[j] != '\0'; i++,j++)
+  {
+    s1[i] = s2[j];
+  }
+
 }
+   
+ // int i = my_strlen (s2);
+ // int j;
+ // int k;
+ // for (j = i, k = 0; s2[k] != '\0' ;j++, k++)
+ // {
+ //   s2[j] = s1[k];
+ // }
+
+ // }
+
 
 /** 
  * Concatenate (append) the first n characters of a null-terminated
@@ -105,8 +163,8 @@ void my_strcat(char * s1, const char * s2)
  * my_strcat(foo, "bar", 1) yields "foob".
  */
 void my_strncat(char * s1, const char * s2, int num)
-{
-   
+{ 
+    
 }
 
 /**
