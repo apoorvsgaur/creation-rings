@@ -141,16 +141,6 @@ void my_strcat(char * s1, const char * s2)
   }
 
 }
-   
- // int i = my_strlen (s2);
- // int j;
- // int k;
- // for (j = i, k = 0; s2[k] != '\0' ;j++, k++)
- // {
- //   s2[j] = s1[k];
- // }
-
- // }
 
 
 /** 
@@ -164,7 +154,12 @@ void my_strcat(char * s1, const char * s2)
  */
 void my_strncat(char * s1, const char * s2, int num)
 { 
-    
+  int i = my_strlen (s1);
+  int j = 0;
+  for ( ;j < num; i++,j++)
+  {
+    s1[i] = s2[j];
+  }    
 }
 
 /**
@@ -178,8 +173,14 @@ void my_strncat(char * s1, const char * s2, int num)
  */
 
 const char *my_strstr(const char * s1, const char * s2)
-{
-    return NULL;
+{ int a;
+  a = strstr (s1,s2); 
+
+  if (a != -1)
+  return a;
+
+  else
+  return '\0';
 }
 
 
@@ -212,7 +213,25 @@ const char *my_strstr(const char * s1, const char * s2)
  */
 void my_strinsert(char *s1, const char *s2, int pos)
 {
-  
+  int a = my_strlen (s1);
+  if (pos >= a)
+  {
+     my_strcat(s1, s2);
+  }
+  else
+  { int b = my_strlen (s2); 
+    int i;
+    int j;
+    int k;
+    for (i = a-1; i >= pos; i--)
+      s1[i+b] = s1[i];
+    
+    for (j = pos, k = 0; k < b; j++, k++)
+      s1[j] = s2[k];
+  }
+  a = my_strlen (s1);
+  s1[a] = '\0';
+
 }
 
 /**
