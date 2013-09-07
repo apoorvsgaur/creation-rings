@@ -8,9 +8,9 @@
  *
  * Example: my_strlen("foo") should yield 3.
  */
-int my_strlen(const char * s)
+int my_strlen(const char * s) //Function to count no. of letters in a string
 {   
-    int count = 0;
+    int count = 0; //Variable to count no. of letters in a string
     while (s[count] != '\0')
     {
       count = count + 1;
@@ -25,10 +25,10 @@ int my_strlen(const char * s)
  *
  * Example: my_countchar("foo", 'o') should yield 2.
  */
-int my_countchar(const char * s, char c)
+int my_countchar(const char * s, char c) //Function to count no. of a specific type of a char
 {
-   int count = 0; 
-   int value = 0;
+   int count = 0; //Variable to go through each position of string
+   int value = 0; //Variable to count of no. of occurances of a character
    while (s[count] != '\0')
    {
      if (s[count] == c)
@@ -49,14 +49,14 @@ int my_countchar(const char * s, char c)
  * Example: char foobar[10] = "foobar";
  * my_strupper(foobar) yields "FOOBAR".
  */
-void my_strupper(char * s)
+void my_strupper(char * s)//Function to convert lowercase elements to uppercase elements in a string
 {  
-   int count = 0;
+   int count = 0;//Variable to go through each element in the string
    while (s[count] != '\0')
    { 
-      if (s[count] >= 97 && s[count] <=122)
+      if (s[count] >= 97 && s[count] <=122)//To check whether lowercase
       { 
-        s[count] = s[count] - 32;
+        s[count] = s[count] - 32;//Conversion into uppercase
       }
       count = count + 1;
    }
@@ -71,14 +71,14 @@ void my_strupper(char * s)
  * Example: char foobar[10] = "FOOBAR";
  * my_strupper(foobar) yields "foobar".
  */
-void my_strlower(char * s)
+void my_strlower(char * s) //Function to convert uppercase letters into lowercase letters in a string
 {
-  int count = 0; 
+  int count = 0; //Variable to go through each element in a string
    while (s[count] != '\0')
    { 
-      if (s[count] >= 65 && s[count] <= 90)
+      if (s[count] >= 65 && s[count] <= 90) //To check whether uppercase
       {
-        s[count] = s[count] + 32;
+        s[count] = s[count] + 32;//To convert to lowercase
       }
       count = count + 1;
    }
@@ -94,7 +94,7 @@ void my_strlower(char * s)
  * Example: char foo[10];
  * my_strcpy(foo, "foo") yields "foo".
  */
-void my_strcpy(char * s1, const char * s2)
+void my_strcpy(char * s1, const char * s2) //Function to copy one string into another
 {
   strcpy (s1,s2);
 }
@@ -109,7 +109,7 @@ void my_strcpy(char * s1, const char * s2)
  * Example: char foo[10];
  * my_strncpy(foo, "foo", 1) yields "f".
  */
-void my_strncpy(char * s1, const char * s2, int num)
+void my_strncpy(char * s1, const char * s2, int num)//Function to copy a certain no. of elements of a string into another
 {
   int i;
   for (i = 0; i < num; i++)
@@ -131,7 +131,7 @@ void my_strncpy(char * s1, const char * s2, int num)
  * Example: char foo[10] = "foo";
  * my_strcat(foo, "bar") yields "foobar".
  */
-void my_strcat(char * s1, const char * s2) 
+void my_strcat(char * s1, const char * s2) //Function to concatenate one string into another
 { 
   int i = my_strlen (s1);
   int j = 0;
@@ -140,7 +140,6 @@ void my_strcat(char * s1, const char * s2)
     s1[i] = s2[j];
   }
   s1[i] = '\0';
-  return s1;
 
 }
 
@@ -154,7 +153,7 @@ void my_strcat(char * s1, const char * s2)
  * Example: char foo[10] = "foo";
  * my_strcat(foo, "bar", 1) yields "foob".
  */
-void my_strncat(char * s1, const char * s2, int num)
+void my_strncat(char * s1, const char * s2, int num)//Function to concatenate one string into another from a specific postion
 { 
   int i = my_strlen (s1);
   int j = 0;
@@ -174,15 +173,16 @@ void my_strncat(char * s1, const char * s2, int num)
  * "bar" portion of the "foobar" argument.
  */
 
-const char *my_strstr(const char * s1, const char * s2)
-{ int a;
+const char *my_strstr(const char * s1, const char * s2) //Function to point a specific occurance of a string from another
+{ char *a;
   a = strstr (s1,s2); 
 
-  if (a != -1)
+  if (*a != -1)//If the string wasnt found
   return a;
 
   else
-  return '\0';
+  return NULL;
+
 }
 
 
@@ -214,10 +214,10 @@ const char *my_strstr(const char * s1, const char * s2)
  * my_strinsert(foo, "bar", 100) yields "foobar".
  */
 
-void my_strinsert(char *s1, const char *s2, int pos)
+void my_strinsert(char *s1, const char *s2, int pos)//Function to insert one string into another from a specific position
 {
   int a = my_strlen (s1);
-  if (pos >= a)
+  if (pos >= a)//If the position asked is great than the length of the string s1
   {
      my_strcat(s1, s2);
   }
@@ -228,11 +228,11 @@ void my_strinsert(char *s1, const char *s2, int pos)
     int j;
     int k;
 
-    for (i = a; i >= pos; i--)
+    for (i = a; i >= pos; i--)//Transferring string elements to the end
     {
        s1[i+b] = s1[i];
     }
-    for (j = pos, k = 0; k < b; j++, k++)
+    for (j = pos, k = 0; k < b; j++, k++)//Entering elements of s2 into s1
     {
        s1[j] = s2[k];
     }
@@ -273,19 +273,19 @@ void my_strinsert(char *s1, const char *s2, int pos)
  * Example(4): char foo[10] = "foobar";
  * my_strdelete(foo, 2, 30) yields "fo";
  */
-void my_strdelete(char *s, int pos, int length)
+void my_strdelete(char *s, int pos, int length)//Function to delete a specific part of a string
 {
   int a = my_strlen (s);
-  if (length > a)
+  if (length > a)//if the length given is greater than length of the string s
     s[pos] = '\0';
 
   int i;
   int j;
-  for (i = pos, j = length; j < a; i++, j++)
+  for (i = pos, j = length; j <= a; i++, j++)//Loop to copy elements present after the deleted spot
   {
     s[i] = s[j];
   }
-  s[j] = '\0';
+  s[j] = '\0';//Ending the array with NULL 
 }
 
 
