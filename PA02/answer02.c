@@ -139,6 +139,8 @@ void my_strcat(char * s1, const char * s2)
   {
     s1[i] = s2[j];
   }
+  s1[i] = '\0';
+  return s1;
 
 }
 
@@ -211,6 +213,7 @@ const char *my_strstr(const char * s1, const char * s2)
  * Example(2): char foo[10] = "foo";
  * my_strinsert(foo, "bar", 100) yields "foobar".
  */
+
 void my_strinsert(char *s1, const char *s2, int pos)
 {
   int a = my_strlen (s1);
@@ -218,20 +221,23 @@ void my_strinsert(char *s1, const char *s2, int pos)
   {
      my_strcat(s1, s2);
   }
+
   else
   { int b = my_strlen (s2); 
     int i;
     int j;
     int k;
-    for (i = a-1; i >= pos; i--)
-      s1[i+b] = s1[i];
-    
-    for (j = pos, k = 0; k < b; j++, k++)
-      s1[j] = s2[k];
-  }
-  a = my_strlen (s1);
-  s1[a] = '\0';
 
+    for (i = a; i >= pos; i--)
+    {
+       s1[i+b] = s1[i];
+    }
+    for (j = pos, k = 0; k < b; j++, k++)
+    {
+       s1[j] = s2[k];
+    }
+  }
+  
 }
 
 /**
@@ -269,6 +275,20 @@ void my_strinsert(char *s1, const char *s2, int pos)
  */
 void my_strdelete(char *s, int pos, int length)
 {
-  
+  int a = my_strlen (s);
+  if (length > a)
+    s[pos] = '\0';
+
+  int i;
+  int j;
+  for (i = pos, j = length; j < a; i++, j++)
+  {
+    s[i] = s[j];
+  }
+  s[j] = '\0';
 }
+
+
+   
+
 
