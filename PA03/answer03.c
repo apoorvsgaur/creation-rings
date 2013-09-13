@@ -61,10 +61,42 @@
  */
 
 int * readIntegers(const char * filename, int * numberOfIntegers)
-{
-    return NULL;
-}
+{  
+   FILE *integer; 
+   integer = fopen(filename, "r");
 
+   if (integer == NULL)
+   { 
+     fclose(integer); 
+     return NULL;
+   }
+
+   int size = 0;
+   int temp = 0;
+
+   while(fscanf(integer, "%d", &temp) == 1)
+   { 
+     size++;
+   }
+   
+   *numberOfIntegers = size;
+   
+   int *arr;
+   arr = malloc(sizeof(int) * size);
+   
+   fseek (integer, 0, SEEK_SET);
+
+   int pos = 0;
+   while (fscanf(integer,"%d", &temp) == 1)
+   { 
+     arr[pos] = temp;
+     pos++;
+   } 
+
+   fclose (integer);
+   return arr;
+} 
+   
 /**
  * Sort an (ascending) array of integers
  *
@@ -102,10 +134,65 @@ int * readIntegers(const char * filename, int * numberOfIntegers)
  * sort.
  *
  */
+void quick_sort (int *arr, int start, int last);
+
 void sort(int * arr, int length)
 {
-    
+  int start = arr[0]; 
+  int start_ele = 0;
+  int end_ele = length - 1; 
+  int left = 1; 
+  int right = 11;
+  int temp = 0; 
+ 
+
+  while (left < right)
+  { 
+    while (arr[left] < start) 
+    { 
+      left++; 
+    } 
+    while (arr[right] > start)
+    { 
+      right--;
+    }
+ 
+    temp = arr[left]; 
+    arr[left] = arr[right]; 
+    arr[right] = temp;
+  
+  
+    quick_sort (arr, start_ele, left); 
+    quick_sort (arr, right, end_ele);
+  }
 }
+
+void quick_sort (int *arr, int start, int last)
+{ 
+  int first = arr[start];
+  int left = start;
+  int right = last;
+  int temp = 0;
+ 
+  while (left < right)
+  {
+    while (arr[left] < first)
+    {
+      left++;
+    }
+    while (arr[right] > first)
+    {
+      right--;
+    }
+  }
+
+  temp = arr[left];
+  arr[left] = arr[right];
+  arr[right] = temp;
+
+}
+
+
 
 /**
  * Use binary search to find 'key' in a sorted array of integers
@@ -151,9 +238,41 @@ void sort(int * arr, int length)
  * }
  * return -1;
  */
+
 int search(int * arr, int length, int key)
 {
-    return -1;
-}
+   int first = 0;
+   int last = length - 1;
+   int loc = 0;
+   int mid = 0;
+   while (first <= last)
+   { 
+     mid = (first + last)/2; 
 
+     if (arr[mid] == key)
+     { 
+       loc++;
+       return mid;
+     }
+     else 
+     {
+       if (arr[mid] < key)
+       { 
+          last = mid - 1; 
+       }
+       else 
+       { 
+          first = mid + 1; 
+       }
+      
+     }
+   }
+
+   if (loc == 0)
+   {
+     return -1;
+   }
+
+   return 0;
+ }
 
