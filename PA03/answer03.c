@@ -142,10 +142,9 @@ void sort(int * arr, int length)
   int start_ele = 0;
   int end_ele = length - 1; 
   int left = 1; 
-  int right = 11;
-  int temp = 0; 
+  int right = length - 1;
+  int temp = 0;
  
-
   while (left < right)
   { 
     while (arr[left] < start) 
@@ -160,11 +159,10 @@ void sort(int * arr, int length)
     temp = arr[left]; 
     arr[left] = arr[right]; 
     arr[right] = temp;
-  
-  
+  }
     quick_sort (arr, start_ele, left); 
     quick_sort (arr, right, end_ele);
-  }
+  
 }
 
 void quick_sort (int *arr, int start, int last)
