@@ -37,18 +37,19 @@ void printarr (int *arr, int index);
 
 void partitionAll(int value)
 {  
-   printf("partitionAll %d\n", value);
-   int *arr = malloc (sizeof(int) * value);
-   partition (value, arr, 0);
+   printf("partitionAll %d\n", value); 
+   int *arr = malloc (sizeof(int) * value); //Creating array of a specific size
+   partition (value, arr, 0); //Calling recursive function
    free(arr);
 }
 
 void partition (int value, int *arr, int ind)
 {  
-   int num;
-   if (value == 0)
+   int num; //Variable controlling the recursive for loop 
+   
+   if (value == 0) //When all values have been checked for
    {
-     printarr (arr, ind);    
+     printarr (arr, ind); //Printing array
    }
     
    for (num = 1; num <= value; num++)
@@ -58,13 +59,14 @@ void partition (int value, int *arr, int ind)
    }
 }
 
-void printarr (int *arr, int index)
+void printarr (int *arr, int index) //Recieving array and size of array into print fucntion
 { 
-   int i;
+   int i; //Variable for going through each element in the for loop
    printf("= ");
+   
    for (i = 0; i < index - 1; i++)
    {  
-       printf ("%d + ", arr[i]);
+     printf ("%d + ", arr[i]);
    }
    printf("%d\n", arr[index - 1]);
 }
@@ -93,23 +95,23 @@ void partitionInc (int value, int *arr, int ind);
 void partitionIncreasing(int value)
 { 
   printf("partitionIncreasing %d\n", value);
-  int *arr = malloc (sizeof(int) * value);
-  partitionInc (value, arr, 0);
+  int *arr = malloc (sizeof(int) * value); //Creating array of a specific size
+  partitionInc (value, arr, 0); //Calling recursive function
   free(arr);
 }
 
 void partitionInc (int value, int *arr, int ind)
 {  
-   int num;
-   if (value == 0)
-   {	 
-       printarr (arr, ind);
-   }
+   int num; //Variable controlling the recursive for loop
    
-    
-   for (num = 1; num <= value; num++)
+   if (value == 0) //When all values have been checked for
+   {	 
+     printarr (arr, ind); //Printing the found array
+   }
+       
+   for (num = 1; num <= value; num++) //Going through values to be put in the array
    {
-     if (arr[ind-1] < num) 
+     if (arr[ind-1] < num) //if loop to check for increasing values
      { 
        arr[ind] = num; 
        partitionInc (value - num, arr, ind + 1);
@@ -140,20 +142,21 @@ void partitionDec (int value, int *arr, int ind);
 void partitionDecreasing(int value)
 {
   printf("partitionDecreasing %d\n", value);
-  int *arr = malloc (sizeof(int) * value);
-  partitionDec (value, arr, 0);
+  int *arr = malloc (sizeof(int) * value); //Creating array of a specific size
+  partitionDec (value, arr, 0); //Calling recursive function
   free(arr);
 
 }
 
 void partitionDec (int value, int *arr, int ind)
 {  
-   int num;
-   if (value == 0)
+   int num; //Variable controlling the recursive for loop
+   
+   if (value == 0) //When all values have been checked for
    {	 
      int i;
      printf("= ");
-     for (i = (ind - 1); i > 0; i--)
+     for (i = (ind - 1); i > 0; i--) //Printing values from behind
      {  
        printf ("%d + ", arr[i]);
      }
@@ -161,9 +164,9 @@ void partitionDec (int value, int *arr, int ind)
    }
    
     
-   for (num = value; num > 0; num--)
+   for (num = value; num > 0; num--) //Going through values to be put in the array
    { 
-     if (num > arr[ind-1]) 
+     if (num > arr[ind-1]) //if loop to check for decreasing values
      { 
        arr[ind] = num; 
        partitionDec (value - num, arr, ind + 1);
@@ -192,20 +195,21 @@ void partitionOddnum (int value, int *arr, int ind);
 void partitionOdd(int value)
 {
   printf("partitionOdd %d\n", value);
-  int *arr = malloc (sizeof(int) * value);
-  partitionOddnum (value, arr, 0);
+  int *arr = malloc (sizeof(int) * value); //Creating array of a specific size
+  partitionOddnum (value, arr, 0); //Calling recursive function
   free(arr);
 }
 
 void partitionOddnum (int value, int *arr, int ind)
 {  
-   int num;
-   if (value == 0)
+   int num; //Variable controlling the recursive for loop
+   
+   if (value == 0) //When all values have been checked for
    {	 
        printarr (arr, ind);
    }
        
-   for (num = 1; num <= value; num = num + 2)
+   for (num = 1; num <= value; num = num + 2) //Modified for loop that will only allow Odd values
    { 
         arr[ind] = num; 
         partitionOddnum (value - num, arr, ind + 1);
@@ -235,20 +239,21 @@ void partitionEvennum (int value, int *arr, int ind);
 void partitionEven(int value)
 {
   printf("partitionEven %d\n", value);
-  int *arr = malloc (sizeof(int) * value);
-  partitionEvennum (value, arr, 0);
+  int *arr = malloc (sizeof(int) * value); //Creating array of a specific size
+  partitionEvennum (value, arr, 0); //Calling recursive function
   free(arr);
 }
 
 void partitionEvennum (int value, int *arr, int ind)
 {  
-   int num;
-   if (value == 0)
+   int num; //Variable controlling the recursive for loop
+   
+   if (value == 0)  //When all values have been checked for
    {	 
        printarr (arr, ind);
    }
        
-   for (num = 2; num <= value; num = num + 2)
+   for (num = 2; num <= value; num = num + 2) //Modified for loop that will only allow Even values
    { 
         arr[ind] = num; 
         partitionEvennum (value - num, arr, ind + 1);
@@ -277,23 +282,24 @@ void partitionOandE (int value, int *arr, int ind);
 void partitionOddAndEven(int value)
 {
   printf("partitionOddAndEven %d\n", value);
-  int *arr = malloc (sizeof(int) * value);
-  partitionOandE (value, arr, 0);
+  int *arr = malloc (sizeof(int) * value); //Creating array of a specific size
+  partitionOandE (value, arr, 0); //Calling recursive function
   free(arr);
   
 }
 
 void partitionOandE (int value, int *arr, int ind)
 {  
-   int num;
-   if (value == 0)
+   int num; //Variable controlling the recursive for loop
+   
+   if (value == 0) //When all values have been checked for
    {	 
        printarr (arr, ind);
    }
        
-   for (num = 1; num <= value; num++)
+   for (num = 1; num <= value; num++) //For loop to enter values into arrays
    {    
-     if ((((arr[ind-1] % 2 == 0) && (num % 2 !=0))) || ((arr[ind-1] % 2 != 0) && (num % 2 ==0)))  
+     if ((((arr[ind-1] % 2 == 0) && (num % 2 !=0))) || ((arr[ind-1] % 2 != 0) && (num % 2 ==0))) //To check for even numbers to be entered after odd numbers or odd numbers to be entered after even numbers 
      {
 	arr[ind] = num; 
         partitionOandE (value - num, arr, ind + 1);
@@ -318,23 +324,24 @@ void partitionOandE (int value, int *arr, int ind)
  */
 
 
- void partitionPrimech (int value, int *arr, int ind);
+void partitionPrimech (int value, int *arr, int ind);
 void partitionPrime(int value)
 {
   printf("partitionPrime %d\n", value);
-  int *arr = malloc (sizeof(int) * value);
-  partitionPrimech (value, arr, 0);
+  int *arr = malloc (sizeof(int) * value); //Creating array of a specific size
+  partitionPrimech (value, arr, 0); //Calling recursive function
   free(arr);
 }
  void partitionPrimech (int value, int *arr, int ind)
 {  
-   int num;
-   if (value == 0)
+   int num;  //Variable controlling the recursive for loop
+   
+   if (value == 0) //When all values have been checked for
    {	 
        printarr (arr, ind);
    }
        
-   for (num = 1; num <= value; num++)
+   for (num = 1; num <= value; num++) //For loop to check for prime number condition for num
    { 
      int i;
      int checkprime = 0;
@@ -346,7 +353,7 @@ void partitionPrime(int value)
        }
      }
      
-     if (checkprime == 2)  
+     if (checkprime == 2)  //If a number is a prime number
      {  
 	arr[ind] = num; 
         partitionPrimech (value - num, arr, ind + 1);
