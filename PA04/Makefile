@@ -1,7 +1,7 @@
 
 GCC = gcc
 CFLAGS = -g -Wall -Wshadow
-LIBS =
+LIBS = -lm
 SOURCES = answer04.c pa04.c
 TARGET = pa04
 TESTN := $(shell seq 1 9)
@@ -62,13 +62,11 @@ ${TESTS}: test%: $(TARGET) | environment
 	@echo "test$*"
 	@echo '***************************************'
 	./$(TARGET) inputs/input0$* > outputs/output$*
-	diff expected/output$* outputs/output$*
+	cat outputs/output$* | sort | diff expected/output-sorted$* -
 	$(VALGRIND) --log-file=outputs/memoutput$* ./$(TARGET) inputs/input0$* > /dev/null
 	@echo
 	@bin/valgrind-checker.sh outputs/memoutput$*
 	@echo 
-
-
 
 testz01: $(TARGET) | environment
 	./$(TARGET) inputs/input01 > outputs/output1

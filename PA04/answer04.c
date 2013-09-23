@@ -31,11 +31,44 @@
  */
 
 
+
+void partition (int value, int *arr, int ind);
+void printarr (int *arr, int index);
+
 void partitionAll(int value)
-{
-  printf("partitionAll %d\n", value);
-  
+{  
+   printf("partitionAll %d\n", value);
+   int *arr = malloc (sizeof(int) * value);
+   partition (value, arr, 0);
+   free(arr);
 }
+
+void partition (int value, int *arr, int ind)
+{  
+   int num;
+   if (value == 0)
+   {
+     printarr (arr, ind);    
+   }
+    
+   for (num = 1; num <= value; num++)
+   { 
+      arr[ind] = num; 
+      partition (value - num, arr, ind + 1);
+   }
+}
+
+void printarr (int *arr, int index)
+{ 
+   int i;
+   printf("= ");
+   for (i = 0; i < index - 1; i++)
+   {  
+       printf ("%d + ", arr[i]);
+   }
+   printf("%d\n", arr[index - 1]);
+}
+     
 /*
  * =================================================================
  * This function prints the partitions that use increasing values.
@@ -55,11 +88,33 @@ void partitionAll(int value)
  *
  */
 
+void partitionInc (int value, int *arr, int ind);
 
 void partitionIncreasing(int value)
-{
+{ 
   printf("partitionIncreasing %d\n", value);
+  int *arr = malloc (sizeof(int) * value);
+  partitionInc (value, arr, 0);
+  free(arr);
+}
 
+void partitionInc (int value, int *arr, int ind)
+{  
+   int num;
+   if (value == 0)
+   {	 
+       printarr (arr, ind);
+   }
+   
+    
+   for (num = 1; num <= value; num++)
+   {
+     if (arr[ind-1] < num) 
+     { 
+       arr[ind] = num; 
+       partitionInc (value - num, arr, ind + 1);
+     }
+   }
 }
 
 /*
@@ -81,12 +136,39 @@ void partitionIncreasing(int value)
  *
  */
 
-
+void partitionDec (int value, int *arr, int ind);
 void partitionDecreasing(int value)
 {
   printf("partitionDecreasing %d\n", value);
-  
+  int *arr = malloc (sizeof(int) * value);
+  partitionDec (value, arr, 0);
+  free(arr);
 
+}
+
+void partitionDec (int value, int *arr, int ind)
+{  
+   int num;
+   if (value == 0)
+   {	 
+     int i;
+     printf("= ");
+     for (i = (ind - 1); i > 0; i--)
+     {  
+       printf ("%d + ", arr[i]);
+     }
+     printf("%d\n", arr[0]);
+   }
+   
+    
+   for (num = value; num > 0; num--)
+   { 
+     if (num > arr[ind-1]) 
+     { 
+       arr[ind] = num; 
+       partitionDec (value - num, arr, ind + 1);
+     }
+   }
 }
 
 /*
@@ -106,11 +188,28 @@ void partitionDecreasing(int value)
  * generates invalid partitions and checks validity before printing.
  */
 
-
+void partitionOddnum (int value, int *arr, int ind);
 void partitionOdd(int value)
 {
   printf("partitionOdd %d\n", value);
-  
+  int *arr = malloc (sizeof(int) * value);
+  partitionOddnum (value, arr, 0);
+  free(arr);
+}
+
+void partitionOddnum (int value, int *arr, int ind)
+{  
+   int num;
+   if (value == 0)
+   {	 
+       printarr (arr, ind);
+   }
+       
+   for (num = 1; num <= value; num = num + 2)
+   { 
+        arr[ind] = num; 
+        partitionOddnum (value - num, arr, ind + 1);
+   }
 }
 
 /*
@@ -132,10 +231,28 @@ void partitionOdd(int value)
  * generates invalid partitions and checks validity before printing.
  */
 
+void partitionEvennum (int value, int *arr, int ind);
 void partitionEven(int value)
 {
   printf("partitionEven %d\n", value);
+  int *arr = malloc (sizeof(int) * value);
+  partitionEvennum (value, arr, 0);
+  free(arr);
+}
 
+void partitionEvennum (int value, int *arr, int ind)
+{  
+   int num;
+   if (value == 0)
+   {	 
+       printarr (arr, ind);
+   }
+       
+   for (num = 2; num <= value; num = num + 2)
+   { 
+        arr[ind] = num; 
+        partitionEvennum (value - num, arr, ind + 1);
+   }
 }
 
 /*
@@ -156,11 +273,32 @@ void partitionEven(int value)
  * generates invalid partitions and checks validity before printing.
  */
 
-
+void partitionOandE (int value, int *arr, int ind);
 void partitionOddAndEven(int value)
 {
   printf("partitionOddAndEven %d\n", value);
+  int *arr = malloc (sizeof(int) * value);
+  partitionOandE (value, arr, 0);
+  free(arr);
   
+}
+
+void partitionOandE (int value, int *arr, int ind)
+{  
+   int num;
+   if (value == 0)
+   {	 
+       printarr (arr, ind);
+   }
+       
+   for (num = 1; num <= value; num++)
+   {    
+     if ((((arr[ind-1] % 2 == 0) && (num % 2 !=0))) || ((arr[ind-1] % 2 != 0) && (num % 2 ==0)))  
+     {
+	arr[ind] = num; 
+        partitionOandE (value - num, arr, ind + 1);
+     }
+   }
 }
 
 /*
@@ -180,9 +318,38 @@ void partitionOddAndEven(int value)
  */
 
 
-
+ void partitionPrimech (int value, int *arr, int ind);
 void partitionPrime(int value)
 {
   printf("partitionPrime %d\n", value);
-
+  int *arr = malloc (sizeof(int) * value);
+  partitionPrimech (value, arr, 0);
+  free(arr);
+}
+ void partitionPrimech (int value, int *arr, int ind)
+{  
+   int num;
+   if (value == 0)
+   {	 
+       printarr (arr, ind);
+   }
+       
+   for (num = 1; num <= value; num++)
+   { 
+     int i;
+     int checkprime = 0;
+     for (i = 1; i <= num; i++)
+     { 
+       if (num % i == 0)
+       { 
+	 checkprime++;
+       }
+     }
+     
+     if (checkprime == 2)  
+     {  
+	arr[ind] = num; 
+        partitionPrimech (value - num, arr, ind + 1);
+     }
+   }
 }
