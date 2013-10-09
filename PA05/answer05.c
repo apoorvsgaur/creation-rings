@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <ctype.h>
 #include "pa05.h"
 #define MAXIMUM_LENGTH 80
 
@@ -33,7 +34,7 @@
  * re-read the values from the file. To do this, you must reset the
  * file pointer to the beginning of the file using the function
  * "fseek". 
- *
+ *int
  * You should not use rewind (if you have learned it somewhere).  The
  * difference of rewind and fseek is that rewind does not tell you
  * whether it fails.  
@@ -63,6 +64,35 @@
 
 int * readInteger(char * filename, int * numInteger)
 {
+  FILE *ptr;
+  int val;
+  int count = 0;
+  ptr = fopen (filename,"r");
+  if (ptr == NULL)
+  { 
+    printf ("Cannot open file.");
+    return 0;
+  }
+  else
+  {
+    while(fscanf(ptr, "%d", &val) == 1)
+    {
+      count++;
+    }
+
+    *numInteger = count; 
+    fseek (ptr, 0, SEEK_SET);
+    int *size = malloc (sizeof(int) * count);
+    int ind = 0;
+    while (fscanf(ptr, "%d", &val) == 1)
+    {
+      size[ind] = val;
+      ind++;
+    }
+    fclose(ptr);
+    return size;
+  }
+  
 }
 
 /* ----------------------------------------------- */
@@ -133,6 +163,41 @@ int * readInteger(char * filename, int * numInteger)
 
 char * * readString(char * filename, int * numString)
 {
+  FILE *ptr;
+  char strings[MAXIMUM_LENGTH];
+  ptr = fopen (filename,"r");
+  int count = 0;
+  if (ptr == NULL)
+  { 
+    return NULL;
+  }
+  else
+  {
+    while(fgets(strings, MAXIMUM_LENGTH, ptr) != NULL)
+    {
+      count++;
+    }
+    *numString = count; 
+    fseek (ptr, 0, SEEK_SET);
+    char **size = malloc (sizeof(char*) * count);
+    int i;
+    for (i = 0; i < count; i++)
+    { 
+      size[i] = malloc (sizeof(char) * MAXIMUM_LENGTH);
+    }
+    
+    int ind = 0;
+    
+    while(ind < count)
+      {
+	fgets(size[ind], MAXIMUM_LENGTH, ptr); 
+
+      ind++;
+    }
+   
+    fclose(ptr);
+    return size;     
+  }
 }
 
 /* ----------------------------------------------- */
@@ -141,6 +206,11 @@ char * * readString(char * filename, int * numString)
  */
 void printInteger(int * arrInteger, int numInteger)
 {
+  int i;
+  for (i = 0; i < numInteger; i++)
+  {
+    printf ("%d\n", arrInteger[i]);
+  }
 }
 
 /* ----------------------------------------------- */
@@ -151,6 +221,11 @@ void printInteger(int * arrInteger, int numInteger)
  */
 void printString(char * * arrString, int numString)
 {
+  int i;
+  for (i = 0; i < numString; i++)
+  {
+    printf ("%s\n", arrString[i]);
+  }
 }
 
 /* ----------------------------------------------- */
@@ -159,6 +234,7 @@ void printString(char * * arrString, int numString)
  */
 void freeInteger(int * arrInteger, int numInteger)
 {
+  free (arrInteger);
 }
 
 /* ----------------------------------------------- */
@@ -169,12 +245,18 @@ void freeInteger(int * arrInteger, int numInteger)
  */
 void freeString(char * * arrString, int numString)
 {
+  int i; 
+  for (i = 0; i < numString; i++)
+  {
+    free(arrString[i]);
+  }
+  free (arrString); 
 }
 
 /* ----------------------------------------------- */
 /*
  * Write integers to a file, one integer per line
- *
+ *i
  * Arguments:
  *
  * filename: the name of a file.
@@ -191,6 +273,23 @@ void freeString(char * * arrString, int numString)
 
 int saveInteger(char * filename, int * arrInteger, int numInteger)
 {
+  FILE *ptr;
+  int i;
+  ptr = fopen (filename, "w");
+  if (ptr == NULL)
+  { 
+    return 0;
+  }
+  else
+  {
+    for (i = 0; i < numInteger; i++)
+    {
+      fprintf(ptr, "%d\n", arrInteger[i]);
+    }
+
+    fclose(ptr);
+    return 1;    
+  }
 }
 
 /* ----------------------------------------------- */
@@ -213,6 +312,22 @@ int saveInteger(char * filename, int * arrInteger, int numInteger)
 
 int saveString(char * filename, char * * arrString, int numString)
 {
+  FILE *ptr;
+  int i;
+  ptr = fopen (filename, "w");
+  if (ptr == NULL)
+  { 
+    return 0;
+  }
+  else
+  {
+    for (i = 0; i < numString; i++)
+    {
+      fprintf(ptr, "%s\n", arrString[i]);
+    }
+    return 1;
+    fclose(ptr);
+  }
 }
 
 /* ----------------------------------------------- */
@@ -222,9 +337,15 @@ int saveString(char * filename, char * * arrString, int numString)
  * read the Linux manual about qsort
  *
  */
+int cmpfunc (const void * a, const void * b);
+int cmpfunc (const void * a, const void * b)
+{
+   return ( *(int*)a - *(int*)b );
+}
 
 void sortInteger(int * arrInteger, int numInteger)
 {
+  qsort(arrInteger, numInteger, sizeof(int), cmpfunc);
 }
 
 
@@ -238,9 +359,19 @@ void sortInteger(int * arrInteger, int numInteger)
  *
  */
 
+int compare(const void* a, const void* b)
+{
+    //const char *ia = (const char *)a;
+    //const char *ib = (const char *)b;
+    return strcmp(*(char* const*)a, *(char* const*)b);
+}
 
 void sortString(char * * arrString, int numString)
 {
+
+    qsort(arrString, numString, sizeof(char*), compare);
+  
+  
 }
 
 
