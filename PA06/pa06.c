@@ -81,7 +81,6 @@ int main(int argc, char *argv[])
 
     const char * in_filename = argv[1];
     const char * out_filename = argv[2];
-
     struct Image * image = loadImage(in_filename);
     if(image == NULL) 
 	{

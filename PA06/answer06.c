@@ -109,7 +109,7 @@
  *
  * + 4 byte integer: "magic number" 0x21343632. 
  *                   The first 4 bytes of the file always start with
- *                   this number (in little-endian format). If this
+ *                   this number (in llsttle-endian format). If this
  *                   number is absent, then there is something wrong
  *                   with the file.
  * + 4 byte integer: width of the image
@@ -166,13 +166,91 @@
  *      to allocate a struct Image pointer, fill in its values and 
  *      return it.
  * 
- * LEAK NO RESOURCES
+ * LEAK NO RESOURCES* (2) When reading and writing binary files, it helps to look at the
+ *     files in a hex-editor. Hex editors show a file as a sequence
+ *     of hexidecimal (base-16) numbers. (If you don't yet understand
+ *     base-16 n
  *
  * Good luck.
  */
 struct Image * loadImage(const char* filename)
-{
+{  
+   struct ImageHeader *hdr1;
+   hdr1 = malloc(sizeof(struct ImageHeader));
+   
+   FILE *file_open;
+   file_open = fopen (filename, "r");
+   
+   if (file_open == NULL)
+   { 
+     return NULL;
+   }
+   
+   int retval;
+   retval = fread (hdr1, sizeof(struct ImageHeader), 1, file_open);
+   if (retval != 1)
+   { 
+     return NULL;
+   }
+   
+   if (hdr1 -> magic_bits != ECE264_IMAGE_MAGIC_BITS)
+   {
+     free (hdr1);
+     return NULL;
+   }
+   
+   if (hdr1 -> width == 0 || hdr1 -> height == 0)
+   { 
+     free (hdr1);
+     return NULL;
+   }
+     
+   struct Image *img;
+   img = malloc(sizeof(struct Image));
+   
+   if (img == NULL)
+   {
+     return NULL;
+   }
+   
+   img -> width = hdr1 -> width;
+   img -> comment = malloc(sizeof(char) * (hdr1 -> comment_len));
+   img -> data = malloc(sizeof(uint8_t) * (hdr1 -> width) * (hdr1 -> height));
+   
+   retval = fread (img -> comment, sizeof(char), hdr1 -> comment_len, file_open);
+   
+   if (retval != hdr1 -> comment_len)
+   {
+     free (hdr1);
+     free (img -> comment);
+     free (img -> data);
+     return NULL;
+   }
+   
+  int vol = hdr1 -> width * hdr1 -> height;
+  img -> data = malloc(sizeof(uint8_t)*vol);
+  if(img->data == NULL)
+  {
+    free(img);
+    free(hdr1);
+    fclose(file_open);
     return NULL;
+  }
+  int val2 = 0;
+  val2 = fread(img->data, sizeof(uint8_t), vol, file_open);
+  if(val2 != vol)
+  {
+    free(img);
+    free(hdr1);
+    fclose(file_open);
+    return NULL;
+  }	
+   
+   free (hdr1);
+   fclose (file_open);
+   
+   return img;
+   
 }
 
 
@@ -188,7 +266,13 @@ struct Image * loadImage(const char* filename)
  */
 void freeImage(struct Image * image)
 {
-
+  if (image != NULL)
+  { 
+    free (image -> data);
+    free (image -> comment);
+    free (image);
+  }
+  
 }
 
 /*
@@ -217,7 +301,30 @@ void freeImage(struct Image * image)
  */
 void linearNormalization(struct Image * image)
 {
+  int i;
+  
+  int max = 0;
+  int min = 0;
+  
+  max = image->data[0];
+  min = image->data[0];
 
+ for(i = 0; i < ((image->width)*(image->height)); i++)
+ {
+    if(image->data[i] > max)
+    {
+       max = image->data[i];
+    }
+    if(image->data[i] < min)
+    {
+      min = image->data[i];
+    }
+ }
+   
+  for(i = 0; i < ((image->width)*(image->height)); i++)
+  {
+      image->data[i] = (image->data[i] - min) * 255.0 / (max - min);
+  }
 }
 
 
