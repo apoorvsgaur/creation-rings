@@ -7,13 +7,14 @@
  *
  * NOTE: we have given the code for this function
  */
+
 void List_print(FILE * out, Node * head)
 {
- while(head != NULL)
-	{
-	    fprintf(out, "%5d: %6d\n", head -> index, head -> value);
-	    head = head -> next;
-	}
+    while(head != NULL)
+    {   
+         fprintf(out, "%5d: %6d\n", head -> index, head -> value);
+	 head = head -> next;
+    }
     printf("\n");
 }
 
@@ -33,9 +34,17 @@ void List_print(FILE * out, Node * head)
  * Destroys (frees memory for) the whole linked list. 
  * You can either use recursion or a while loop.
  */
-void List_destroy(Node * head)
-{
 
+void List_destroy(Node * head)
+{ 
+  Node * p;
+  while (head != NULL)
+  { 
+    printf ("2");
+    p = head -> next;
+    free (head);
+    head = p;
+  }
 }
 
 /**
@@ -51,10 +60,15 @@ void List_destroy(Node * head)
  * 
  * You should allocate memory in this function. 
  */
+
 Node * List_create(int value, int index)
 {
-
-    return NULL;
+    Node *ptr = malloc (sizeof(Node));
+    ptr -> value = value;
+    ptr -> index = index;
+    ptr -> next = NULL; 
+    
+    return ptr;
 }
 
 /**
@@ -85,7 +99,21 @@ Node * List_create(int value, int index)
  */
 Node * List_build(int * value, int * index, int length)
 {
+  int i;
+  if (length == 0)
+  {
     return NULL;
+  }
+  
+  Node *Front = NULL;
+  for (i = 0; i < length; i++)
+  { 
+    if (value[i] != 0)
+    { 
+      Front = List_insert_ascend (Front, value[i], index[i]);
+    }
+  }
+  return Front;
 }
 
 
@@ -110,7 +138,39 @@ Node * List_build(int * value, int * index, int length)
  */
 Node * List_insert_ascend(Node * head, int value, int index)
 {
-    return NULL;
+      
+	Node * node = List_create(value, index);
+	if (head == NULL)
+	{
+	  head = node;
+	  return head;
+	}
+	else if (head -> next == NULL)
+	{
+	  if (head -> index < index)
+	    {
+	      head -> next = node;
+	      return head;
+	    }
+	  else if (head -> index > index)
+	    {
+	      Node * temp = head;
+	      head = node;
+	      head -> next = temp;
+	      return head;
+	    }
+	  else
+	    {
+	      free(node);
+	      head -> value = head -> value + value;
+	      if (head -> value == 0)
+		{
+		  head = List_delete(head, head -> index);
+		  return head;
+		}
+	    }
+	}
+	return NULL;
 }
 
 
@@ -126,7 +186,18 @@ Node * List_insert_ascend(Node * head, int value, int index)
  */
 Node * List_delete(Node * head, int index)
 {
-    return NULL;
+  if (head == NULL)
+    {
+      printf ("10");
+      return NULL;
+    }
+  if ((head -> index) == index)
+    {
+      printf ("11");
+      List_destroy (head);
+    }
+  return List_delete (head -> next, index);    
+  return head;
 }
 
 /**
@@ -148,7 +219,24 @@ Node * List_delete(Node * head, int index)
  */
 Node * List_copy(Node * head)
 {
+  if (head == NULL)
+  {
     return NULL;
+  }
+  
+  Node *head_next = List_create (head -> value, head -> index);
+  Node *copy = head_next;
+  head = head -> next;
+  
+  while (head != NULL)
+  { 
+    copy -> next = List_create (head -> value, head -> index);
+    copy = copy -> next;
+    head = head -> next;
+  }
+  
+  return head_next;
+  
 }
 
 
@@ -172,8 +260,49 @@ Node * List_copy(Node * head)
  * This function should not modify either "head1" or "head2". You only
  * need to make a clone of "head1".
  */
+Node * Merge_Helper(Node *merger_list, int index, int value);
+
 Node * List_merge(Node * head1, Node * head2)
 {
-    return NULL;
+  Node *merger_list = List_copy (head1);
+   while (head2 != NULL)
+   {  
+      merger_list = Merge_Helper(merger_list, head2 -> index, head2 -> value);
+      head2 = head2 -> next;
+   }
+   
+  Node *merger_list_final = merger_list;
+  merger_list = merger_list -> next;
+  
+  while (merger_list != NULL)
+  { 
+    if (merger_list -> value == 0)
+    {
+      List_destroy (merger_list);
+    }
+    merger_list = merger_list -> next;
+  }
+    
+  return merger_list_final;
 }
 
+Node * Merge_Helper(Node *merger_list, int index, int value)
+{
+  if (merger_list == NULL)
+  { 
+    return List_create(index, value);
+  }
+  if ((merger_list -> index) == index)
+  {
+    merger_list -> value += value;
+  }
+  if ((merger_list -> index) > index)
+  {
+    Node * p = List_create(index, value);
+    p -> next = merger_list;
+    return p;
+  }
+  merger_list -> next = Merge_Helper(merger_list -> next, index, value);
+  return merger_list;
+
+}
