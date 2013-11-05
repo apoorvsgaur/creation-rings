@@ -7,10 +7,11 @@
 #include "pa08.h"
 
 int main ( int argc , char ** argv )
-{
-  int i; //index
+{   printf ("\n67sadasdasdasd");
+printf ("1");printf ("1");
+  int i; //indexprintf ("1");printf ("1");
 
-  //check arguments
+  //check argumentsprintf ("1");
   if (argc != 3)
     {
       printf("usage: ./pa04 <input file> <output file>\n");
@@ -60,11 +61,12 @@ int main ( int argc , char ** argv )
       fscanf(fptr, "%d", &values_1[i]);
       printf("%d ", values_1[i]);
     }
+    
   printf("\n");
-  
+ 
+ 
   SparseNode * array_1 = NULL ;
   array_1 = SparseArray_build(indices_1, values_1, number_of_value_1);
-
 
   /************************************
    //initialize array 2
@@ -72,14 +74,14 @@ int main ( int argc , char ** argv )
   int number_of_value_2 = 0;
   fscanf(fptr, "%d", &number_of_value_2);
   printf("\nlength: %d\n", number_of_value_2);
-
+  
   int* indices_2 = malloc(sizeof(int)* number_of_value_2);
   if (indices_2 == NULL)
     {
       printf("Array_2 indices malloc error!\n");
       return EXIT_FAILURE;
     }
-
+  
   int* values_2 = malloc(sizeof(int)* number_of_value_2);
   if (values_2 == NULL)
     {
