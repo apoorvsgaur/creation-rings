@@ -7,8 +7,8 @@
 #include "pa08.h"
 
 int main ( int argc , char ** argv )
-{   printf ("\n67sadasdasdasd");
-printf ("1");printf ("1");
+{ 
+  printf ("1");printf ("1");
   int i; //indexprintf ("1");printf ("1");
 
   //check argumentsprintf ("1");

@@ -21,7 +21,10 @@
 SparseNode *SparseNode_create(int index, int value)
 { 
     if (value == 0) 
-    { return NULL; } 
+    { 
+      return NULL; 
+    } 
+    
     SparseNode *New_node = malloc(sizeof(SparseNode)); 
     
     New_node -> index = index; 
@@ -58,16 +61,17 @@ SparseNode * SparseArray_insert ( SparseNode * array, int index, int value )
     {
       SparseNode *Tree_Array;
       Tree_Array = SparseNode_create(index, value);
+      return Tree_Array;
     }
     
-    if (array -> index == index) 
+    else if (array -> index == index) 
     { 
       array -> value = value; 
     } 
     
     else if (array -> index < index) 
     { 
-      if (array -> left == NULL && index < array -> index) 
+      if (array -> left == NULL) 
       { 
         SparseNode *New_Node = SparseNode_create(index, value); 
         array -> left = New_Node; 
@@ -81,7 +85,7 @@ SparseNode * SparseArray_insert ( SparseNode * array, int index, int value )
     
      else if (array -> index > index)
      { 
-       if (array -> right == NULL && index > array -> index) 
+       if (array -> right == NULL) 
        { 
 	 SparseNode *New_Node = SparseNode_create(index, value); 
 	 array -> right = New_Node; 
@@ -257,16 +261,16 @@ SparseNode * SparseArray_getNode(SparseNode * array, int index )
 */
 SparseNode * SparseArray_remove ( SparseNode * array, int index )
 {
+  SparseNode *Start_Node; 
+  Start_Node = array; 
+  array = SparseArray_getNode(array, index);
+  
   if (array == NULL) 
   { 
     return NULL; 
   } 
   
-  SparseNode *Start_Node; 
-  Start_Node = array; 
-  array = SparseArray_getNode(array, index); 
-  
-  if (array -> left == NULL && array -> right == NULL) 
+  else if (array -> left == NULL && array -> right == NULL) 
   { 
     array = NULL; 
   } 
@@ -329,9 +333,14 @@ SparseNode * SparseArray_copy(SparseNode * array)
 {
   SparseNode *Tree_Array;
   Tree_Array = NULL;
+  if (array == NULL)
+  {
+    return NULL;
+  }
+  
   if (Tree_Array == NULL)
   {
-    SparseArray_insert (Tree_Array, array -> index, array -> value);
+    Tree_Array = SparseArray_insert (Tree_Array, array -> index, array -> value);
   }
   else
   {
@@ -374,11 +383,26 @@ SparseNode * SparseArray_copy(SparseNode * array)
 SparseNode * SparseArray_merge(SparseNode * array_1, SparseNode * array_2)
 {
   SparseNode *Tree_Array;
+  SparseNode *Get_Node;
   Tree_Array = SparseArray_copy(array_1);
+  
+  if (array_2 == NULL)
+  {
+    return NULL;
+  }
   
   SparseArray_merge(Tree_Array, array_2 -> left);
   SparseArray_merge(Tree_Array, array_2 -> right);
   
+  Get_Node = SparseArray_getNode(Tree_Array, array_2 -> index);  
+  if (Get_Node == NULL)
+  {
+    Tree_Array = SparseArray_insert (Tree_Array, array_2 -> index, array_2 -> value);
+  }
+  else
+  {
+    return Get_Node;
+  }
   
   return NULL;
 
