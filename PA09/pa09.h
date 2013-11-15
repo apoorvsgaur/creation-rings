@@ -12,5 +12,6 @@ typedef struct _stack {
     HuffNode * node;
 } Stack;
 
+
 #endif
 

@@ -21,8 +21,9 @@ void Huff_postOrderPrint(HuffNode *tree)
     Huff_postOrderPrint(tree->right);
 	printf("Back\n");
     // Visit node itself (only if leaf)
-    if (tree->left == NULL && tree->right == NULL) {
-		printf("Leaf: %c\n", tree->value);
+    if (tree->left == NULL && tree->right == NULL) 
+    {
+      printf("Leaf: %c\n", tree->value);
     }
     
 
