@@ -1,6 +1,7 @@
-#include "pa09.h"
 #include <stdio.h>
 #include <stdlib.h>
+#include "pa09.h"
+
 
 HuffNode *Huffman_Tree_create (int value)
 {
@@ -11,33 +12,41 @@ HuffNode *Huffman_Tree_create (int value)
   New_Node -> right = NULL;
   
   return New_Node;
-  
 }
 
-void *Huff_postOrderPrint(FILE *output_file, HuffNode *tree)
+void HuffNode_destroy (HuffNode *tree)
 {
-    // Base case: empty subtree
+ if (tree == NULL)
+ {
+  return;
+ }
+ 
+ HuffNode_destroy (tree -> left);
+ HuffNode_destroy (tree -> right);
+ free (tree);
+}
+
+void Huff_postOrderPrint(FILE *output_file, HuffNode *tree)
+{
     if (tree == NULL) 
     {
-      return NULL;
+       return;
     }
 
-    // Recursive case: post-order traversal
-
-    // Visit left
     fprintf(output_file, "Left\n");
-    Huff_postOrderPrint (output_file, tree->left);
-	fprintf(output_file, "Back\n");
-    // Visit right
+    
+    Huff_postOrderPrint(output_file, tree->left);
+    fprintf(output_file, "Back\n");
+
     fprintf(output_file, "Right\n");
     Huff_postOrderPrint(output_file, tree->right);
-	fprintf(output_file, "Back\n");
-    // Visit node itself (only if leaf)
+    fprintf(output_file, "Back\n");
+ 
     if (tree->left == NULL && tree->right == NULL) 
     {
       fprintf(output_file, "Leaf: %c\n", tree->value);
     }
-    
+   return;
 }
 
 Stack * Stack_push(Stack * st, HuffNode * t)
@@ -61,35 +70,31 @@ Stack *Stack_pop(Stack * st)
   return b;
 }
 
-Stack *Huffman_Tree_build (FILE *build)
+HuffNode *Huffman_Tree_char (FILE *build)
 {
-  FILE *build_file = fopen (build, "r");
-  unsigned char ch = fgetc(build_file);
+
+  Stack *Stack_values = NULL;
+  unsigned char command = fgetc(build);
   
-  unsigned char masks[] = 
-  { 0X80, 0X40, 0X20, 0X10,
-    0X08, 0X04, 0X02, 0X01
-  };
-  
-  Stack *Stack_values;
+  if (build == NULL)
+  {
+    return NULL;
+  }
   
   do 
   {
-    unsigned char command = (ch & masks[cmdloc]);
-    
-    if (command == 1)
+    if (command == '1')
     {
-      int val;
-      fseek(build_file, 1, SEEK_SET);
-      val = fgetc (build_file);
+      unsigned char val;
+      val = fgetc (build);
       
       HuffNode * Tree_Node = Huffman_Tree_create(val);
       Stack_values = Stack_push(Stack_values, Tree_Node);
     }
 
-    if (command == 0)
+    if (command == '0')
     {
-      HuffNode * NextNode = Stack_values -> next;
+      HuffNode *NextNode = Stack_values -> node;
       Stack_values = Stack_pop(Stack_values);
       
       if (Stack_values == NULL)
@@ -99,7 +104,7 @@ Stack *Huffman_Tree_build (FILE *build)
       
       else
       {
-        HuffNode * NextNode = Stack_values -> next;
+        HuffNode * Stack_Next = Stack_values -> node;
 	
         Stack_values = Stack_pop(Stack_values);
 	
@@ -107,12 +112,109 @@ Stack *Huffman_Tree_build (FILE *build)
 	
         NewNode -> value = ' '; // doesn't matter
         NewNode -> right = NextNode;
-        NewNode -> left = ;
+        NewNode -> left = Stack_Next;
 	
         Stack_values = Stack_push(Stack_values, NewNode);
       }
     }
-    
-  } while (ch != EOF)
+    command = fgetc (build);
+   } while (Stack_values != NULL);
+   
+  return NULL;
+}
+
+HuffNode *Huffman_Tree_bit_to_byte (FILE *build)
+{
+  unsigned char ch = fgetc (build);
+  int cmdloc = 1;
+  int ct = 0;
+  unsigned char command;
+  unsigned char buffer;
+  unsigned char buffer_temp;
+  unsigned char value;
+  unsigned char masks[] = { 0X80, 0X40, 0X20, 0X10, 0X08, 0X04, 0X02, 0X01};
+  Stack *st = NULL;
+  
+  while(1)
+  {
+   command = (ch & masks[ct]);
+   if (command != 0) // command is 1
+   {
+      buffer = fgetc(build);
+      value = ch << cmdloc;
+      buffer_temp = buffer >> (8 - cmdloc);
+      value = value | buffer_temp;
+      
+      HuffNode *New_Node = Huffman_Tree_create (value);
+      st = Stack_push(st, New_Node);
+      ch = buffer; 
+      
+   }
+   
+    else
+    {
+      HuffNode * NextNode = st -> node;
+      st = Stack_pop(st);
+      
+      if (st == NULL)
+      {
+	return NextNode;
+      }
+      
+      else
+      {
+        HuffNode * Stack_Next = st -> node;
+	
+        st = Stack_pop(st);
+	
+        HuffNode * NewNode = malloc(sizeof(HuffNode));
+	
+        NewNode -> value = ' '; // doesn't matter
+        NewNode -> right = NextNode;
+        NewNode -> left = Stack_Next;
+	
+        st = Stack_push(st, NewNode);
+      }
+    }
+   
+    if (cmdloc == 8)
+    {
+     ch = fgetc (build);
+     cmdloc = 1;
+     ct = 0;
+    }
+   
+    else
+    {
+      cmdloc++;
+      ct++;
+    }
+   
+  }
+  return NULL;
   
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
