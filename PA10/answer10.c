@@ -13,7 +13,9 @@
  */
 Stack * Stack_create()
 {
-    return NULL;
+  Stack *New_Stack = NULL;
+  
+  return New_Stack;
 }
 
 /**
@@ -23,15 +25,38 @@ Stack * Stack_create()
  */
 void Stack_destroy(Stack * stack)
 {
-
+  if (stack == NULL)
+  {
+    return;
+  }
+  
+  else
+  {
+    ListNode *delete = stack -> list;
+    
+    while (delete != NULL)
+    {
+      ListNode *delete_next = (delete -> next);
+      free (delete);
+      delete = delete_next;
+      free (delete_next);
+    }
+  }
+  free (stack);
 }
 
 /**
  * Returns TRUE (something other than zero) if the stack is empty.
  */
+
 int Stack_isEmpty(Stack * stack)
 {
-    return FALSE;
+  if (stack == NULL)
+  {
+    return 1;
+  }
+  
+  return FALSE;
 }
 
 /**
@@ -43,7 +68,14 @@ int Stack_isEmpty(Stack * stack)
  */
 int Stack_pop(Stack * stack)
 {
-    return -1;
+  int val;
+  ListNode *NewNode = stack -> list -> next; 
+  val = (stack -> list) -> value;
+  free (stack -> list);
+  stack -> list = NewNode;
+  free (NewNode);
+  
+  return val;
 }
 
 /**
@@ -55,7 +87,10 @@ int Stack_pop(Stack * stack)
  */
 void Stack_push(Stack * stack, int value)
 {
-
+  ListNode *NewNode = malloc (sizeof(ListNode));
+  NewNode -> value = value;
+  NewNode -> next = stack -> list;
+  
 }
 
 /**
@@ -80,6 +115,26 @@ void Stack_push(Stack * stack, int value)
  */
 void stackSort(int * array, int len)
 {
+  int write_index;
+  Stack * stack = malloc(sizeof(Stack));
+  int value;
+  
+  for (write_index = 0; write_index < len; write_index++)
+  {
+    while (stack != NULL && (array[write_index] > (stack -> list -> value)))
+    {
+      value = Stack_pop(stack);
+      array[write_index] = value;
+      write_index ++;
+    }
+    Stack_push(stack, array[write_index]);
+  }
+  
+  while (stack != NULL)
+  {
+    value = Stack_pop(stack);
+    array[write_index] = value;
+  }
 
 }
 
@@ -99,9 +154,62 @@ void stackSort(int * array, int len)
  * sequence in the sortable files, and you must return FALSE for every
  * sequence in the unsortable files.
  */
+
+int get_Max_loc(int * array, int len);
+int get_Min_loc(int * array, int start, int len);
+
 int isStackSortable(int * array, int len)
 {
-    return FALSE;
+  if (len < 3)
+  {
+    return TRUE;
+  }
+  
+  int left_max_loc;
+  int right_min;
+  int loc = get_Max_loc(array, len);
+  left_max_loc = get_Max_loc(array, loc);
+  
+  int max_left = array[left_max_loc];
+  
+  right_min = get_Min_loc(array, loc + 1, len);
+  
+  if (max_left < right_min)
+  {
+    return TRUE;
+  }  
+  
+  return FALSE;
+}
+
+int get_Max_loc(int * array, int len)
+{
+  int loc = 0;
+  int  max = array [0];
+  int i;
+  for (i = 1; i < len; i++)
+  {
+    if (array[i] > max)
+    {
+      max = array[i];
+      loc = i;
+    }
+  }
+  return loc;
+}
+
+int get_Min_loc(int * array, int start, int len)
+{
+  int  min = array [start];
+  int i;
+  for (i = start; i < len; i++)
+  {
+    if (array[i] < min)
+    {
+      min = array[i];
+    }
+  }
+  return min;
 }
 
 /**
@@ -121,7 +229,44 @@ int isStackSortable(int * array, int len)
  */
 void genShapes(int k)
 {
+  int i;
+  int *array = malloc(sizeof(int) * k);
+  
+  for(i = 1; i <= k; i++)
+  {
+    array[i-1] = i;
+  }
+  
+}
 
+void swap ( char * a , char * b )
+{
+  char t = * a ;
+  * a = * b;
+  * b = t;
+}
+
+void permuteHelper ( char * charset , int len , int ind )
+{
+  if ( ind == len )
+  {
+    printPermutation ( charset , len );
+  }
+  int pos ;
+  
+  for ( pos = ind ; pos < len ; pos ++)
+  {
+    swap (& charset [ pos ] , & charset [ ind ]); // first call of swap
+    permuteHelper ( charset , len , ind + 1);
+// remove the following line ( second call of swap )
+   swap (& charset [ pos ] , & charset [ ind ]); // <--- remove this line
+// remove the previous line
+  }
+}
+
+  
+  
+  
 }
 
 
