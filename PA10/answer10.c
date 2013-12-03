@@ -1,6 +1,7 @@
 
 #include "pa10.h"
 #include "tree.h"
+#include "tree.c"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -13,7 +14,8 @@
  */
 Stack * Stack_create()
 {
-  Stack *New_Stack = NULL;
+  Stack *New_Stack = malloc(sizeof(Stack));
+  New_Stack -> list = NULL;
   
   return New_Stack;
 }
@@ -23,26 +25,29 @@ Stack * Stack_create()
  * Don't forget that you _must_ free the entire contained linked-list.
  * Also, you must safely to _nothing_ if stack == NULL. 
  */
-void Stack_destroy(Stack * stack)
+void Stack_destroy_helper (ListNode *link);
+
+void Stack_destroy(Stack *stack)
 {
   if (stack == NULL)
   {
     return;
   }
   
-  else
-  {
-    ListNode *delete = stack -> list;
-    
-    while (delete != NULL)
-    {
-      ListNode *delete_next = (delete -> next);
-      free (delete);
-      delete = delete_next;
-      free (delete_next);
-    }
-  }
+  Stack_destroy_helper (stack -> list);
+
   free (stack);
+}
+
+void Stack_destroy_helper (ListNode *link)
+{
+  if (link == NULL)
+  {
+    return;
+  }
+  
+  Stack_destroy_helper(link -> next);
+  free(link);
 }
 
 /**
@@ -69,12 +74,16 @@ int Stack_isEmpty(Stack * stack)
 int Stack_pop(Stack * stack)
 {
   int val;
-  ListNode *NewNode = stack -> list -> next; 
+  if ((stack -> list) == NULL)
+  {
+    return 0;
+  }
+  
+  ListNode *temp = stack -> list -> next;
+  
   val = (stack -> list) -> value;
   free (stack -> list);
-  stack -> list = NewNode;
-  free (NewNode);
-  
+  stack -> list = temp;
   return val;
 }
 
@@ -86,11 +95,12 @@ int Stack_pop(Stack * stack)
  * (2) Push that new ListNode onto the front of the stack's list.
  */
 void Stack_push(Stack * stack, int value)
-{
-  ListNode *NewNode = malloc (sizeof(ListNode));
+{  
+  ListNode *temp = stack -> list;
+  ListNode *NewNode = malloc(sizeof(ListNode));
   NewNode -> value = value;
-  NewNode -> next = stack -> list;
-  
+  NewNode -> next = temp;
+  stack -> list = NewNode;  
 }
 
 /**
@@ -113,29 +123,44 @@ void Stack_push(Stack * stack, int value)
  * is stack-sortable. You can find files full of stack-sortable and
  * stack-unsortable arrays in the 'expected' folder.
  */
+
 void stackSort(int * array, int len)
 {
-  int write_index;
-  Stack * stack = malloc(sizeof(Stack));
-  int value;
+  int i = isStackSortable(array, len);
   
-  for (write_index = 0; write_index < len; write_index++)
+  if (i == FALSE)
   {
-    while (stack != NULL && (array[write_index] > (stack -> list -> value)))
+    return;
+  }
+  
+  else 
+  {
+    int write_index = 0;
+    int loop;
+    Stack * stack = Stack_create();
+    int value;
+  
+    for (loop = 0; loop < len; loop++)
+    {
+	  while ((stack -> list) != NULL && (array[loop] > (stack -> list -> value)))
+	  { 
+	    value = Stack_pop(stack);
+            array[write_index] = value;
+            write_index ++;
+          }
+          Stack_push(stack, array[loop]);
+	
+    }
+  
+    while ((stack -> list) != NULL)
     {
       value = Stack_pop(stack);
       array[write_index] = value;
-      write_index ++;
+      write_index++;
     }
-    Stack_push(stack, array[write_index]);
+    
+    
   }
-  
-  while (stack != NULL)
-  {
-    value = Stack_pop(stack);
-    array[write_index] = value;
-  }
-
 }
 
 /**
@@ -160,6 +185,11 @@ int get_Min_loc(int * array, int start, int len);
 
 int isStackSortable(int * array, int len)
 {
+  if (array == NULL)
+  {
+    return 0;
+  }
+  
   if (len < 3)
   {
     return TRUE;
@@ -167,9 +197,14 @@ int isStackSortable(int * array, int len)
   
   int left_max_loc;
   int right_min;
-  int loc = get_Max_loc(array, len);
-  left_max_loc = get_Max_loc(array, loc);
   
+  int loc = get_Max_loc(array, len);
+  if (loc == 0 || loc == len - 1)
+  {
+    return TRUE;
+  }
+  
+  left_max_loc = get_Max_loc(array, loc);
   int max_left = array[left_max_loc];
   
   right_min = get_Min_loc(array, loc + 1, len);
@@ -202,7 +237,7 @@ int get_Min_loc(int * array, int start, int len)
 {
   int  min = array [start];
   int i;
-  for (i = start; i < len; i++)
+  for (i = (start + 1); i < len; i++)
   {
     if (array[i] < min)
     {
@@ -227,47 +262,69 @@ int get_Min_loc(int * array, int start, int len)
  * The correct outputs for sizes [1..9] are in the 'expected' 
  * directory.
  */
+void permuteHelper (int * charset , int len, int ind, int *count);
+void swap (int * a , int * b );
+
 void genShapes(int k)
 {
   int i;
   int *array = malloc(sizeof(int) * k);
+  int count = 0;
   
-  for(i = 1; i <= k; i++)
+  for(i = 0; i <= k; i++)
   {
-    array[i-1] = i;
+    array[i] = i;
   }
   
+  permuteHelper (array, k, 0, &count);
 }
 
-void swap ( char * a , char * b )
+void swap ( int * a , int * b )
 {
-  char t = * a ;
+  int t = * a ;
   * a = * b;
   * b = t;
 }
 
-void permuteHelper ( char * charset , int len , int ind )
+void permuteHelper (int * charset , int len, int ind, int *count)
 {
-  if ( ind == len )
-  {
-    printPermutation ( charset , len );
-  }
-  int pos ;
   
-  for ( pos = ind ; pos < len ; pos ++)
-  {
-    swap (& charset [ pos ] , & charset [ ind ]); // first call of swap
-    permuteHelper ( charset , len , ind + 1);
-// remove the following line ( second call of swap )
-   swap (& charset [ pos ] , & charset [ ind ]); // <--- remove this line
-// remove the previous line
+  if ( ind == len )
+  {   
+      int j;
+      for (j = 0; j < len; j++)
+      {
+	printf ("%d", charset[j]);
+      }
+	printf ("\n");
+      int i = isStackSortable(charset, len);
+      printf ("%d\n\n", i);
+      if (i == TRUE)
+      {
+	TreeNode *Tree;
+        Tree = Tree_build(charset, len);
+        Tree_printShape(Tree);
+        Tree_destroy(Tree);
+      }   
   }
+  
+  else 
+  {
+    int pos ;
+    for ( pos = ind; pos < len; pos ++)
+    {
+      swap (& charset [pos] , & charset [ind]);
+      permuteHelper ( charset , len , ind + 1, count);
+      swap (& charset [pos] , & charset [ind]); 
+    }
+  }
+  
 }
 
   
   
   
-}
+
 
 
 
