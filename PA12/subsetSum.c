@@ -34,5 +34,60 @@ typedef struct{
 */
 int subsetSum(int * intset, int length, int N, int numThread)
 { 
- 
+  pthread_t sub_set; 
+  int j = 0;
+  int *set_of_sets = gensets (intset, length); 
+  
+  for (i = 0; i < numThread; i++)
+  {
+    pthread_create (&sub_set, NULL, subset_bring, (void *)
+  }
+}
+
+int generate_powerset(int* arr, int size, int *temparr, int level, int start)
+{
+	int i, j = 0;
+	int *sets;
+	for(i=start; i<size; i++)
+	{
+	  temparr[level] = arr[i];
+	  
+	  int sets[j] = malloc(sizeof(int) * level);
+	  set [j] = temparr;
+	  j++;
+	  
+	  if( i < size-1)
+	  {
+	    generate_powerset(arr, size, temparr, level+1, i+1);
+	  }
+	}
+	return sets;
+}
+
+int gensets(int *intset, int length)
+{
+	int temparr[length] = {0};
+	int *set_gen;
+	set_gen = generate_powerset(intset, length, temparr, 0, 0);
+	return set_gen;
+}
+
+void subset_bring ()
+{
+  int i;
+  int sum = 0;
+  int counter;
+  int lock;
+  
+  for (i = 0; i < length; i++)
+  {
+    sum = sum + array[i];
+  }
+  
+  if (sum == N)
+  {
+    pthread_mutex_lock(&lock);
+    counter++;
+    pthread_mutex_unlock(&lock);
+  }
 }
