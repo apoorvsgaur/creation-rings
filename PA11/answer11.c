@@ -50,10 +50,36 @@ int main(int argc, char * * argv)
  * (2) Sort the characters in your buffer. (Use qsort.)
  * (3) Check that buffer is equal to "-123456789ABCDEF"
  */
-int isValidState(const char * state)
+
+int cmpfunc (const void * a, const void * b)
 {
-    return 0;
+   return ( *(char*)a - *(char*)b );
 }
+int isValidState(const char * state)
+{ 
+
+  if(strlen(state) != 16)
+  {
+      return 0;
+  }
+  char buffer[17];
+  strcpy(buffer, state);
+  int length = strlen (buffer);
+  
+  qsort(buffer, length, sizeof(char), cmpfunc);
+  
+  if (strcmp(buffer, "-123456789ABCDEF") == 0)
+  {
+    return 1;
+  }
+  
+  return 0;
+}
+
+
+
+
+
 
 /** 
  * Return TRUE iff all characters in 'moves' are in "RLUD"
@@ -63,7 +89,24 @@ int isValidState(const char * state)
  */ 
 int isValidMoveList(const char * moves)
 {
-    return 0;
+  int len = strlen (moves);
+  int count = 0;
+  int i;
+
+  for (i = 0; i < len; i++)
+  {
+    if (moves [i] == 'R' || moves [i] == 'L' || moves [i] == 'U' || moves [i] == 'D')
+    {
+      count++;
+    }
+    
+    if (count == len)
+    {
+      return 1;
+    }
+  }  
+  return 0;
+  
 }
 
 /**
@@ -107,8 +150,58 @@ void printPuzzle(const char * state)
  * (5) Swap the characters at 'position' and 'target_position'
  */
 int move(char * state, char m)
-{    
-    return TRUE;
+{
+  char *a = strstr (state, "-");
+  int loc = a - state;
+  
+  int row = (loc / SIDELENGTH); 
+  int col = (loc % SIDELENGTH);
+  int new_row;
+  int new_col; 
+  
+  if (m == 'U')
+  {
+    new_row = row - 1;
+    new_col = col;
+  }
+  
+  if (m == 'D')
+  {
+    new_row = row + 1;
+    new_col = col;
+  }
+  
+  if (m == 'R')
+  {
+    new_row = row;
+    new_col = col + 1;
+  }
+  
+  if (m == 'L')
+  {
+    new_row = row;
+    new_col = col - 1;
+  }
+  
+  if ((new_row < 0 || new_row >= 4) )
+  {
+    return FALSE;
+  }
+  if ((new_col < 0 || new_col >= 4) )
+  {
+    return FALSE;
+  }
+  
+  
+  int target_pos = (new_row * SIDELENGTH + new_col);
+  int temp; 
+  
+  temp = state[loc];
+  state[loc] = state[target_pos];
+  state[target_pos] = temp;
+  
+  
+  return TRUE;   
 }
 
 /**
@@ -126,7 +219,22 @@ int move(char * state, char m)
  */
 void processMoveList(char * state, const char * movelist)
 {
-
+  int len = strlen(movelist);
+  int i;
+  int j = 1; 
+  for (i = 0; i < len; i++)
+  {
+    j = move (state, movelist[i]);
+    if (j == 0)
+    {
+      printf("I\n");
+      return;
+    }
+  }
+  if (j == 1)
+  {
+    printf("%s", state);
+  }
 }
 
 /**
@@ -134,7 +242,13 @@ void processMoveList(char * state, const char * movelist)
  */
 MoveTree * MoveTree_create(const char * state, const char * moves)
 {
-    return NULL;
+  MoveTree *New_Node;
+  New_Node -> state = strdup(state);
+  New_Node -> moves = strdup(moves);
+  New_Node -> left = NULL;
+  New_Node -> right = NULL;
+  
+  return New_Node;
 }
 
 /**
@@ -142,7 +256,16 @@ MoveTree * MoveTree_create(const char * state, const char * moves)
  */
 void MoveTree_destroy(MoveTree * node)
 {
+    if (node == NULL)
+    {
+      return;
+    }
     
+    MoveTree_destroy(node -> left);
+    MoveTree_destroy(node -> right);
+    free (node -> state);
+    free (node -> moves);
+    free(node);
 }
 
 /**
@@ -151,25 +274,67 @@ void MoveTree_destroy(MoveTree * node)
  * (2) If we attempt to insert a duplicate state, then we keep the
  *     node with the shortest move sequence.
  */
-MoveTree * MoveTree_insert(MoveTree * node, const char * state,
-			   const char * moves)
+MoveTree * MoveTree_insert(MoveTree * node, const char * state, const char * moves)
 {
-    return NULL;
+  if (node == NULL)
+  {
+      return MoveTree_create(state, moves);
+  }
+  
+  int a = strcmp (node -> state, state);
+    
+  if (a > 0)
+  {
+    node -> left = MoveTree_insert(node -> left, state, moves);
+  }
+  
+  else if (a < 0)
+  {
+    node -> right = MoveTree_insert(node -> right, state, moves);
+  }
+  
+  else if (strlen(node -> moves) > strlen(moves))
+  {
+    strcpy(node -> moves, moves);
+  }
+  
+  return node;  
 }
 
 /**
  * Search the tree (rooted at 'node') for a node whose
  * state is 'state'
  */
+
 MoveTree * MoveTree_find(MoveTree * node, const char * state)
 {
+  int compare;
   
+  if (node == NULL)
+  {
+    return NULL;
+  }
+  
+  compare = strcmp (node -> state, state);
+  
+  if (compare > 0)
+  {
+    return MoveTree_find(node -> left, state);
+  }
+  
+  if (compare < 0)
+  {
+    return MoveTree_find(node -> right, state);
+  }
+  
+  return node;
 }
 
 /**
  * Print the moves in a move-tree.
  * This function is supplied to you.
  */
+
 void MoveTree_print(MoveTree * node)
 {
     if(node == NULL)
@@ -227,9 +392,47 @@ void MoveTree_print(MoveTree * node)
  * This is the most complex function to write... make sure you break
  * it down, and TEST EACH PART.
  */
+
+void generateAllHelper(MoveTree * root, int n_moves, const char * state, char * movelist, int ind);
 MoveTree * generateAll(char * state, int n_moves)
 { 
-    return NULL;
+  char *movelist = malloc(sizeof(char) * (n_moves + 1));
+  MoveTree *Tree = MoveTree_create(state, "");
+  generateAllHelper(Tree, n_moves, state, movelist, 0);
+  
+  return NULL;
+}
+
+void generateAllHelper(MoveTree * root, int n_moves, const char * state, char * movelist, int ind)  
+{
+  if (ind == n_moves)
+  {
+    return;
+  }
+  
+  int i; 
+  int move_check;
+  char *dup_state;
+  char state_move[4] = {'U','D','L','R'};
+  for (i = 0; i < 4; i++)
+  {
+    dup_state = strdup(state);
+    move_check = move(dup_state, state_move[i]);
+    if (move_check == 0)
+    {
+      free (dup_state);
+      return;
+    }
+    
+    movelist[ind] = state_move[i];
+    movelist[ind + 1] = '\0';
+    
+    MoveTree_insert(root, dup_state, movelist);
+    
+    generateAllHelper(root, n_moves, dup_state, movelist, ind + 1);
+    free(dup_state);
+  }
+  
 }
 
 /**
@@ -239,6 +442,7 @@ MoveTree * generateAll(char * state, int n_moves)
  * (3) If FINAL_STATE isn't found, return NULL
  * (4) If FINAL_STATE is found, then return a copy of the moves.
  */
+
 char * solve(char * state)
 {
     return NULL;
