@@ -1,0 +1,29 @@
+﻿Project 4 – Report
+
+File -Name
+Run-time
+Height
+Width
+r0.po
+0.000000e+00
+1.000000e+01
+1.100000e+01
+r6.po
+0.000000e+00
+1.500000e+01
+1.100000e+01
+r1.po
+0.000000e+00
+1.812356e+06
+1.663549e+06
+r2.po
+0.000000e+00
+3.411589e+06
+4.923995e+06
+
+I was unable to make my reroot function work. I have commented it out, so it doesn't get called.
+
+The reroot function I was making has time complexity O(n) because it's going to each edge and making the required changes to calculate the width and height of the smallest room of each configuration. 
+
+The space complexity is O(1), as no new space gets allocated in to the binary tree during the reroot process.
+
