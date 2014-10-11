@@ -1,0 +1,9 @@
+﻿Apoorv Gaur
+
+Project 5 – Report
+
+The data structure I've chosen to store and traverse information is specialized two-dimensional arrays of structures. I treat the line in between two poles as a node, and directly store the values obtained in the file in a variable 'weight' in a uniform structure. I declare a 2-D matrix of size (2*n – 1)(2*n + 1), where n is the number of lines. I store the originally created nodes into every even number of rows and even number of columns. The first column, stores in ALL starting points Jena can begin from, and their weight is initialized to be zero. All odd number of rows and columns (except the first column) are filled with possible nodes of rotation, hence their weight is assigned to be 1. 
+
+The way this works is, there is also a variable called 'current' in the structure. We begin from the originally created nodes and update 'current' by comparing the currents of the previous two nodes connected to it. The smaller 'current' of the previous two nodes will be chosen and the weight of the selected node will be added to it to store it in the selected nodes 'current'. This keeps happening until till all the nodes are updated. From the last set of nodes onto the right, the minimum value of 'current' is chosen to be the minimum. 
+
+The time and space complexity of this program is O(n^2). We declare (2*n – 1)(2*n + 1) in the initial matrix and utilize half of this space. While traversing, we visit each of this these nodes once and update 'current'. 
