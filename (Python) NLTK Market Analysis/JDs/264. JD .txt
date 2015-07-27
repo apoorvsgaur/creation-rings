@@ -1,0 +1,16 @@
+
+Responsibilities:
+
+Design, architect, implement, and QA the Redfoodie app from start to finish
+Own the product, including the bugs you create
+
+Critical Requirements:
+
+1+ years work experience as a software engineer
+Computer Science degree or equivalent experience
+Understanding of scalability, systems engineering, and algorithms
+Strong knowledge of Java
+Prior knowledge of Android or equivalent experience
+Good product sense and design sense
+
+

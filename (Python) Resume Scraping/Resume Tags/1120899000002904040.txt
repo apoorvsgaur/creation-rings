@@ -1,0 +1,1 @@
+android,bootstrap,c,css,html,java,javascript,mysql,php,python,sql,virtualization

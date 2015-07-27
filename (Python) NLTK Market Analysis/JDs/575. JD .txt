@@ -1,0 +1,28 @@
+
+Meet Tenmiles, one of the coolest places to work at!
+If you are an ingenious person, who loves challenges and mac (yes, we provide a macbook to each employee to work on!) and do not shy away from taking responsibility, then this is the place to be. We're on the look out for exceptional Front End Developers who have:
+
+
+Production experience with Backbone / Ember
+
+
+A strong Javascript foundation and clear understanding of Javascript classes, prototype based inheritance, modules, etc.
+
+
+Worked with fairly large codebases and know when to write abstractions and when not to.
+
+
+Experience writing semantic HTML markup and CSS, preferably with preprocessors such as SASS / LESS
+
+
+A working knowledge of cross-browser and cross-platform design issues.
+
+
+Worked with a REST API, and know which status codes are good and which are bad.
+
+
+Awareness of current trends and best practices in front-end community.
+
+
+If you think this matches with your interests and expertise, then do write to us and we will evaluate your candidature for the opportunity available with us.
+

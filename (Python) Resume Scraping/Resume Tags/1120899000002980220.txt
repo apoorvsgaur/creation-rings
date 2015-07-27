@@ -1,0 +1,1 @@
+ajax,c,dom,hibernate,java,jira,jsp,junit,lucene,mysql,network,orm,scrum,selenium,sql,svn,testing,trading,ui,xml

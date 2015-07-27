@@ -1,0 +1,4 @@
+
+The Satra Technologies team is developing the world's best platform for restaurateurs. We are growing and adding additional engineers to our engineering team. We work in a modest open plan office in the heart of Chennai.Sastra Technologies is predominently a Drupal and PHP shop. We are an agile shop and are focussing on making Sastra Technologies one of the best places. Our technology stack helps restaurateurs share their tables with millions of diners.If you are a seasoned PHP developer that is passionate about solving problems using code, collaborating, learning and developing industrial strength software products then we'd love to hear from you.
+Candidates with 2 years experience in writing php code (PHP 5.0, MYSQL, HTML, CSS, DHTML, JavaScript and JQuery)Experience writing scalable and efficient code for large production web applicationsKnowledge of pushing and pulling from GIT repositories
+

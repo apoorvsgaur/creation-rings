@@ -1,0 +1,11 @@
+
+Cricbuzz, the most popular destination for Cricket in India, provides all round coverage of international, domestic and T20 cricket tournaments from around the world. Alongside its extremely popular website and mobile site, Cricbuzz's mobile applications for Android, iOS, Windows Phone and Blackberry are the no. 1 cricket apps on the respective app stores.We are looking for designers who can create wonderful user experiences (not just visual interfaces) across our web sites (desktop &amp; mobile) and apps.
+Requirements:
+
+At least 2 years of experience with designing consumer-centric products for Web, iOS, and Android.
+Strong visual design skills.
+Excellent at communication, be able to explain ideas clearly regardless of the audience (engineers, PMs, executives, other designers, etc).
+Experience with at least one prototyping tool (Framer, Origami, Pixate etc) is a plus.
+Knowledge of HTML, CSS and JS is a plus.
+
+

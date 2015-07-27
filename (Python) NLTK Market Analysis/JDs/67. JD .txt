@@ -1,0 +1,5 @@
+
+We are looking for an Android Developer to join us at Twyst.in, to help build out a beautiful Android app.You need to collaborate within our team to build a beautiful and engaging app experience. Starting with understanding and taking over the current app, you will plan, build and release updates to features and functionality. Also, collaborate with backend engineering, design team, and product management to understand business requirements and translate them into app design and execution. A bit of experience helps - you should have 1+ year(s) of experience developing Android apps, and have a few published apps on Play Store. We want to see great coding skills that are showcased in the quality products that you have shipped. 
+What you should be good at - good knowledge of Java, Android Design, Mobile app development, Eclipse, and strong knowledge of version control systems (Git preferred; we use GitHub) is required. Must have experience with working in an agile development environment. 
+And, as a bonus - experience with AngularJS, NodeJS, HTML5, CSS3, Javascript, REST, JSON, frontend responsive frameworks (such as Bootstrap or Foundation).
+

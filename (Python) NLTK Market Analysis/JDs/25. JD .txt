@@ -1,0 +1,30 @@
+
+As a Senior Software Developer, you will be a part of the technology team at CACTUS to build cloud based enterprise class web applications.
+ 
+Responsibilities:
+
+Contribute to the Software development and architecture team to take the development to the next level
+Help introduce modern standards into the team and act as a solution architect
+Meet aggressive deadlines while working under pressure, dedication to building high-quality deliverables while being thorough in all aspects of the development lifecycle
+
+Requirements:
+
+Hands-on experience in Core PHP (5.3+) is a must. 4+ years of experience with PHP and familiar with XHTML, HTML 5, JavaScript, CSS, Ajax, jQuery etc.
+Hands-on experience with Object oriented programming and thorough understanding of design patterns
+Hands-off experience with TDD and Unit testing and standards based development
+Thorough understanding of database modling and at least 4 years of experience with MySQL, PostgreSQL OR any other Relational database
+At least 1 year experience with one or more of the NoSQL datastores (MongoDB, CouchDB) and KV storage engines (redis, dynamodb, memcached etc.)
+Exposure and understanding of distributed applications
+At least 3 years of experience with one or more of the modern PHP frameworks
+Thorough understanding of git and gitflow. Experience with continuous build/test and integration systems
+Understanding of payment systems, internationalization and localization
+
+ 
+Preferred skills:
+
+Understanding of Infrastructure and operations
+Experience with AWS cloud
+Experience with nodejs, angular, express and the concept of single page webapp
+Good communication and presentation skills
+
+

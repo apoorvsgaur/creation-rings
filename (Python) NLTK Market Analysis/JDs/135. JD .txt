@@ -1,0 +1,8 @@
+
+The selected intern will work on following during the internship:
+1. Customise WordPress installation for business needs. 2. Integrate the Website with third-party services for Analytics, Advertising etc.3. Handle basic AWS operations
+Anyone with demonstrated technical chops on WordPress. We'll be able to accommodate if you're new to WordPress, but great at PHP/MySQL.
+Why you'll love it?
+TipTapGo! is an online marketplace that connects users to right tutors. Simply put, we are building an Airbnb for Home Classes.
+Additionally, if you're curious about how startups are build and are looking to work on a real-world product, this opportunity could be the perfect match for you.
+

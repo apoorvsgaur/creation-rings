@@ -1,0 +1,8 @@
+
+- 1 to 3 years of experience in django and python
+- Good control over the backend development
+- Database management with MySQL
+- Familiarity with the AWS platform
+- Good knowledge of CSS and Java Script
+- Enthusiastic, brimmming with energy and passionate to create something unqiue with the aid of technology
+

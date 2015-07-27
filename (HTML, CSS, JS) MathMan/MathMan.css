@@ -1,0 +1,233 @@
+#bg {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    bottom: 20px;
+    right: 20px;
+    background-color: #000000;
+    outline: 20px solid red;
+    /* Preserve aspet ratio */
+    min-width: 90%;
+    min-height: 89%;
+}
+#target {
+    display: none;
+    color: red;
+    position: absolute;
+    top: 100px;
+    left: 250px;
+}
+#title {
+    font-family:"Courier New", Courier, monospace;
+    font-size: 50px;
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    /*left: 300px;*/
+    /* top: 70px; */
+    top: -10 px;
+    color: white;
+}
+#rules {
+    font-family:"Courier New", Courier, monospace;
+    font-size: 50px;
+    position: absolute;
+    text-align: center;
+    font-weight: bold;
+    top: 40px;
+    left: 175px;
+    color: red;
+    opacity: 0;
+}
+.button {
+    -webkit-border-radius: 7;
+    -moz-border-radius: 7;
+    border-radius: 7px;
+    font-family:"Courier New", Courier, monospace;
+    color: #ffffff;
+    font-size: 20px;
+    background: #ff0000;
+    padding: 15px 25px 15px 25px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.button:hover {
+    background: #fc3c3c;
+    background-image: -webkit-linear-gradient(top, #fc3c3c, #ff002b);
+    background-image: -moz-linear-gradient(top, #fc3c3c, #ff002b);
+    background-image: -ms-linear-gradient(top, #fc3c3c, #ff002b);
+    background-image: -o-linear-gradient(top, #fc3c3c, #ff002b);
+    background-image: linear-gradient(to bottom, #fc3c3c, #ff002b);
+    text-decoration: none;
+}
+#How-to {
+    position: absolute;
+    top: 175px;
+    left: 160px;
+    opacity: 0;
+}
+#Play {
+    position: absolute;
+    top: 175px;
+    left: 360px;
+    opacity: 0;
+}
+#Play_Again {
+    position: absolute;
+    top: 260px;
+    left: 200px;
+    display: none;
+}
+
+#Play_Again2 {
+    position: absolute;
+    top: 260px;
+    left: 200px;
+    display: none;
+}
+
+#Bonus_Level {
+    position: absolute;
+    top: 260px;
+    left: 420px;
+    display: none;
+}
+
+#Back {
+    position: absolute;
+    top: 260px;
+    left: 55px;
+    opacity: 0;
+}
+ol {
+    display: none;
+    color: white;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    font-size: 15px;
+    position: absolute;
+    top: 90px;
+    left: 35px;
+}
+#equation {
+    position: absolute;
+    top: 190px;
+    left: 170px;
+    font-size: 45px;
+    color: white;
+    opacity: 0;
+    text-align: left;
+}
+form {
+    display: none;
+    color: white;
+    position: absolute;
+    top:275px;
+    left: 180px;
+    font-family: Verdana, Geneva, sans-serif;
+}
+#button2 {
+    display: none;
+    height:20px;
+    width:60px;
+    background-color:red;
+    font-family:arial;
+    font-weight:bold;
+    color:#ffffff;
+    border-radius: 5px;
+    text-align:center;
+    position: absolute;
+    top:275px;
+    left:500px;
+}
+#image {
+    position: absolute;
+    top: 30px;
+    left: 200px;
+    display: none;
+    content:url(http://s27.postimg.org/j7azh9skv/Paint_1_new.jpg);
+}
+#wentries {
+    display: none;
+    position: absolute;
+    top:40px;
+    left: 400px;
+    color: white;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+#status {
+    display: none;
+    position: absolute;
+    top: 100px;
+    left: 400px;
+    color: white;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+#misses {
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: yellow;
+}
+#win {
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: green;
+}
+#loss {
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+}
+#int {
+    color: red;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-weight: bold;
+    font-size: 18px;
+    opacity: 0;
+    position: absolute;
+    top:160px;
+    left: 400px;
+}
+#notes{
+    position: absolute;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-weight: bold;
+    font-size: 13px;
+    top:  40px;
+    left: 40px;
+    color: white;
+    opacity: 0;
+}
+
+#gif1 {
+  /*
+  background-image:url(http://winnerhun.uw.hu/vigyorpofa.gif);
+  background-repeat:no-repeat;
+  */
+  display: none;
+  width: 170px;
+  height: 150px;
+  position: absolute;
+  top:35px;
+  left:25px;
+  background: url(http://i.imgur.com/8nVqVr9.gif) no-repeat center center;
+}
+#gif2 {
+  /*
+  background-image:url(http://winnerhun.uw.hu/vigyorpofa.gif);
+  background-repeat:no-repeat;
+  */
+  display: none;
+  width: 300px;
+  height: 100px;
+  position: absolute;
+  top: 225px;
+  left: 300px;
+  background: url(http://i.imgur.com/FSlAs4I.gif) no-repeat center center;
+}

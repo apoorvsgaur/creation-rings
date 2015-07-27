@@ -1,0 +1,5 @@
+
+LET’S GROW TOGETHER !!!
+ RESPONSIBILITIES:•Understanding the requirement and design/develop sustainable and agile application architecture.•Provide API to various platforms to build apps.•Optimise query and implement caching at various levels to improve the application performance.•Collaborate and work with the team and communicate with the rest of the organisation as well
+REQUIREMENTS:• Extensive Java experience•Object Oriented Programming•Model View Controller Architecture•Knows and has worked with the Laravel Framework•Worked with / developed RESTFul API's for Mobile devices•Test Driven Development•Ajax•Unobtrusive Javascript•Javascript guru•Worked with and knows jQuery as well as any front end framework like EmberJS or AngularJS.•Understands using aggregate caches•Elasticsearch engine•Experience with Amazon Web Services and EC2 a major plus plus.•Experience with payment gateways and SSL•Database normalization and optimization with MySQL
+

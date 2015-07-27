@@ -1,0 +1,1 @@
+ajax,analytics,aws,bigdata,c,c++,hadoop,hbase,hibernate,hive,html,java,javascript,jquery,linux,map,mssql,mysql,nlp,nosql,oracle,postgresql,r,redshift,sql,tester,testing,visualization

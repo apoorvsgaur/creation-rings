@@ -1,0 +1,17 @@
+
+At Field Assist we are looking for an enthusiastic Web Developer to join our team. Field Assist is a next generation SFA platform which is developed with the vision of revolutionising the way, how secondary sales happen in developing countries like India. Field Assist has been incubated at world's largest incubator program, Start-up Chile and has already been used by a number of top notch companies in India.
+
+What are we looking for
+
+Appetite to learn and grow.
+2-5 years in Web development/relevant related technology.
+Excellent in C#, ASP.Net MVC, Entity Framework.
+Excellent in JavaScript, jQuery.
+Good knowledge of SQL, CSS and Bootstrap.
+Working experience with Git, Cloud Coputing.
+Self motivated, should be able to take independent decisions.
+Knowledge of Mobile developement or experience in Enterprise software development is a plus.
+
+Job Perks
+Work in a friendly and flexible environment, enjoy free beer and pizza and join us to our trekking trips.  You will be working closely with the founders and will be involved in major decision makings. And yeah, we offer a decent salary and stock options as well.
+

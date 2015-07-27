@@ -1,0 +1,15 @@
+
+We’re looking for someone to independently manage our marketplace, www.edukart.com, which has been built on top of Wordpress &amp; Woocommerce. We are a team passionate about providing access to high quality education to everyone in India. Be it your kid in K12 or preparing for IIT JEE prep, or someone you know who wants to do a MBA program, their first stop has to be EduKart.com to start their selection process. 
+We work with top course providers who are equally excited to promote their courses to everyone. Come join and build the platform with us!
+As for the formal role... 
+
+Should have built at least one large scale website using Wordpress &amp; Woocommerce
+Should be comfortable with extending &amp; bending Woocommerce to do things that it wasn’t meant to do (think about multiple “vendors” managing their inventory independently using Woocommerce in a marketplace model)
+Should be very comfortable with Wordpress &amp; Woocommerce internals &amp; APIs
+Should be comfortable with writing responsive HTML &amp; CSS
+Should be comfortable with other assorted frontend technologies/frameworks, like Bootstrap, LESS, jQuery, etc.
+Knowledge of dev-ops will be a definite advantage (deploying and monitoring a production site on AWS/Digital Ocean/Linode etc)
+Should have handled a small team of 2-4 developers
+BTech from IIT
+
+

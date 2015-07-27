@@ -1,0 +1,20 @@
+
+We are an angel funded (Mumbai Angels) cloud products company with our office in Bangalore, India. We are also part of the Alchemist Accelerator program in San Francisco. 
+Our SaaS platform helps enterprises bring in their large scale data processing workloads onto Amazon Web Services without the complexities of managing and monitoring the infrastructure. Our patented algorithm ensures that the cloud infrastructure is always optimized for cost and time.
+We are looking for a senior .net developer, who will join our collaborative agile team building world class platform for big data and batch processing. You'll be using the latest technologies and tools available to develop a unified platform for processing large data sets. You'll be responsible for building a framework that supports executing programs developed using multiple programming languages and integrate with varied internet scale data services.
+The Environment
+- Public Cloud - Amazon Web Services, Google Compute Engine, Windows Azure
+- Big Data - Hadoop, Spark, HTC, HPC- Agile
+- The best of breed .Net stack, HTML Tech, AngularJS, LESS, NPM, Bower, Grunt
+- Highly collaborative and Innovative culture
+Requisite Skills and Experience
+- 3-6 years .Net Software Experience (C# / ASP.Net / WCF / WebAPI)
+- Good understanding of Web applications, Databases
+- Diagnose complex system problems and provide solutions
+- Interest in Distributed Systems and Architecture
+- Script Junkie
+- AWS understanding is a definite plus.
+Check us out at www.batchly.net to get an idea of what we do and if it sparks an interest, we would love to chat.
+Job Perks
+Stock options, No hierarchy, Table Tennis and Xbox Gaming in the office!
+

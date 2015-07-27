@@ -1,0 +1,24 @@
+
+Role: Application Developer
+Experience: 3+ years
+
+What are we looking for?
+Our languages and technical environments range across Java, Ruby, Scala, Clojure, C#, Python, iOS, Android and Javascript. We would also like:
+* Strong knowledge of design patterns, refactoring and unit testing
+* Experience working with Agile methods, including Extreme Programming (XP).
+* Experience with picking and applying good software practices like test driven development (TDD), continuous integration and continuous delivery
+* Active participation in the professional community as a speaker, author or online contributor
+* Analysis, design, coding and implementation of large-scale custom-built OO applications
+
+Why should you join us?
+1) Are you creative and free thinking?
+2) Like playing with different technologies?
+3) Getting involved with different office projects?
+4) Are you a proud code geek looking for a home?
+5) Do you want to work on custom-designed, multi-tier, business applications that use the very latest technologies to build scalable and critical systems?
+
+Then join ThoughtWorks!! Change the world with software. Amaze us with what you can do.
+
+About ThoughtWorks:
+We’re a global IT consulting firm with almost 3,000 employees, on six continents, and with no plans of stopping. We’ve made a name for ourselves during our 20 years of business. Our clients know that we’ll deliver amazing custom software and that we’ll never compromise on excellence. As we grow, we take extreme care to preserve our culture and the excitement of being a ThoughtWorker. ThoughtWorks isn’t your average company, so we don’t hire average people.
+

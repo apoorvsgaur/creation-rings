@@ -1,0 +1,12 @@
+
+We are a team of web-artisans. If working in a High performance Delivery environment is your passion, call us...
+Hashworks is a UI/UX Development Studio. We do everything under the roof of frontend-development.
+Analytics Dashboards, User Experience Design/Development, Anything under the hood UI - JS frameworks, Web-template engines, Boilerplates, Fullstack javascript development, Web-services and more....
+Currently we are working on a Realtime data analytics dashboard for one of our Large enterprise clients. This requires ace python specialist for integration work with the service layers. The specalist we are looking for, should be a kickass developer having worked in the Tornado/Django web frameworks, read more for details below....
+-       Need  developer with 6-8 years demonstrable experience of Web development, especially expert at Web 3.0 programing &amp; development paradigm
+-       Extremely good in Python
+-       Experience with django frameworks
+-       Hands on experience &amp; at least 2 implementations on Tornado webserver
+-       Very good experience on Real-time web development using Web sockets
+Contact: GK (9663427408)
+

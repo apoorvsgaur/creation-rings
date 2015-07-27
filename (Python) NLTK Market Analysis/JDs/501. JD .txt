@@ -1,0 +1,30 @@
+
+Skills required for the job
+- Deep understanding of WordPress
+- Extensive experience with WP architecture, custom content type and plugins
+- Excellent in theme development
+- Understanding of WordPress coding and its best practices
+- Solid foundation in frontend technologies such as Html5, Css3, Javascript and Ajax is a plus.
+- Strong understanding of PHP
+- Ability to be creative and contribute based on your own merit
+- Sound knowledge of creating websites from PSD design files into functional responsive websites.
+- Proficient in English Language
+- Good Communication skills
+- Comfortable working with version control like GIT
+- Good understanding of template system in WordPress
+- Familiar with WooCommerce
+- Familiar with SEO best practices
+- Knowledge of Internet and Social Media
+- Implement new features, enhancements and improving old features into the theme
+- Documentation of your work for frontend users and commenting and proper organization of code, so other team members can work with your code.
+- Willingness to share and receive knowledge with the rest of the development team through collaboration and peer review.
+- Our developers work on creating new themes and maintaining old ones. This includes taking PSD files and building them into complete, functional, responsive themes built on the top of our framework. Our developers are also tasked with fixing bugs and addressing whatever issues our customers bring to our attention.
+- We are working in sub teams where you will be assigned specific tasks
+
+Bonus Skills:
+- An unhealthy love for customer support
+- An eye for typography, white space and other at the intersection of design and code
+- If you have a strong sense for usability, aesthetic and deep knowledge of frontend design then that would be good.
+Job Perks
+We have a tradition, where the whole team eats lunch together. Lunch is free for anyone who is a part of our startup.
+

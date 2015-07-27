@@ -1,0 +1,39 @@
+
+bidPress is on the lookout for Senior Software Engineers to join our Engineering team and help bidPress become the largest marketplace for custom printed t-shirts and other apparel in the United States. So, if you’re interested in rolling up your sleeves and being an early member of a small team that has a huge market and an exciting roadmap ahead, you’ve come to the right place!
+Responsibilities:
+
+Ensure our customers receive the best web experience possible
+Develop high-quality code and create automated tests
+Build and improve systems and tools to boost the efficiency of our operations
+Collaborate in one of our agile teams, learning anything necessary to deliver exceptional technology
+
+Minimum Qualifications:
+
+4+ years of programming experience with web technologies
+Proficiency in Ruby on Rails, HTML, CSS, and Javascript
+Ability to work on multiple teams and communicate effectively to both technical and non-technical teammates
+Flexibility to work within a rapidly evolving environment
+
+Preferred Qualifications:
+
+Passion for learning new technologies and systems
+Obsession for figuring out solutions to challenging problems
+Experience with and interest in a pair-programming environment and test-driven development
+Experience making major contributions to the design/architecture of one or more projects
+Experience using Chef and Capistrano to quickly deploy servers
+Experience mentoring junior developers
+Entrepreneurial ambition
+
+About bidPress:
+bidPress is an online marketplace where you can create &amp; buy custom t-shirts and other apparel made by the best print shops in the U.S. We are rethinking the way the market for custom t-shirts and other apparel works.
+At bidPress, you can choose a garment, create a design, and then instantly choose a printer in our network based on price, rating &amp; delivery date. You can save up to 30% at bidPress vs. other shops, since printers in our network have extra capacity and will print at low margins to stay busy. At bidPress, you can also buy from the best local and/or smaller print shops, if these attributes are important to you.
+Job Perks
+
+Competitive compensation: salary, bonuses, and performance based equity/cash awards
+Top-of-the-line company-issued laptop: new Apple MacBook Pro
+Frequent team lunches and outings
+Flexible vacation policy
+Free t-shirts!
+Opportunities to travel to the bidPress HQ in New York City, New York
+
+

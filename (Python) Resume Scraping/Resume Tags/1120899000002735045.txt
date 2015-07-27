@@ -1,0 +1,1 @@
+c,c++,jsp,kanban,linux,network,oracle,rdbms,scripting,scrum,sdk,shell,smpp,sql,testing

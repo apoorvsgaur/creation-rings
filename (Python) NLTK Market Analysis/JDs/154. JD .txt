@@ -1,0 +1,9 @@
+
+We are building a simple application called SnackNEat , to enable consumers arrange their kitchen shelf with snacks/eatables that can consumed on a daily basis.
+Our aim is to make helthy snack eating a habit.
+What am looking for: A real good passion for solving interesting problems. good programming ethics, have been keen on developing apps in Android and also if you know how to build HTML5 apps it will be a plus. 
+Technology stack: Android SDk, HTML5, CSS3, good design sense.
+Please be : Patient, cheerful and a person who can solve problems with interest.
+
+
+

@@ -1,0 +1,26 @@
+
+What will you be doing
+
+Understand customers, develop superior user interface and animations 
+Strive to the best of your ability to improve UX, like syncing data for offline experience or using background tasks for seamless UI flow
+Work on various technical problems to make the app faster and smarter
+Designing app architecture, for e.g. database structure to support all the restaurant menus or controlling app UI from the server
+Follow agile development, implies that you develop, test, deploy, get feedback from users and go back to development
+Support multiple devices and platforms
+
+We are looking for
+
+Capability for a great learning curve
+Passion to write good code
+Core focus in UI Development
+Experience in Mobile App Development
+Knowledge of Software Design and Architecture
+
+ 
+Job Perks
+Perks:
+
+A platform to learn and innovate with like minded peers
+A MacBook Pro with Retina Display
+
+

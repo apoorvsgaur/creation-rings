@@ -1,0 +1,9 @@
+
+Fratmart, a revolutionary peer-to-peer marketplace for college students, is looking to hire a front-end ninja as an intern for the summer. College student, fresher, dropout, we don't care about whats written in your CV, you just need to be crazy about the following technologies:
+1) HTML5 &amp; CSS32) Javascript &amp; Jquery3) Bootstrap 3.0+4) Responsive web design5) Adobe Photoshop/Illustrator(Experience/knowledge of AngularJS will be a big plus)
+What you'll be doing at Fratmart?
+1) Handle the complete front-end of the web application, under the supervision of two experienced coders.2) Use the magic of Jquery &amp; JS to create mind-blowing animations3) Use your bags of creativity to transform the UI/UX of the web app4) Learn, apply, relearn.
+Why us?
+1) We're a bunch of young and crazy entrepreneurs trying to redefine the way college students buy, sell and connect with their peers. No sir, no maam, we're all equals in this effort.2) We believe that work is the most underrated way of having fun. Infact, working with Fratmart will inspire you, motivate you and it would never feel like work.3) Learning is limitless. We're all self-made entrepreneurs/coders/hustlers and whatever we've built thus far has been through dedicated self-learning and self-improvement.4) Future potential. Our idea has the potential to be the next big thing in the tech space, and we're constantly in touch with investors. The future is very bright. We can offer passionate people a role for the future (equity, PPO, ESOPs etc)
+Come, change the world with us.
+

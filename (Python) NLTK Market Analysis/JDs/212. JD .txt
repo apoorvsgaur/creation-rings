@@ -1,0 +1,26 @@
+
+We are looking for a full stack Ruby on rails developer (with strong front end skills - HTML5, CSS3, jQuery, AJAX, Bootstrap)
+What will you be doing?
+
+Working with a senior developer to build and enhance features on CollegElf. We use Ruby on Rails with MySQL database for back end and Bootstrap, jQuery for front end.
+Build RESTful web APIs using Ruby on Rails framework which is used by web applications and also by mobile apps in future
+Building UI libraries and adding smooth transitions using CSS3 and jQuery animations.
+Build mobile optmized pages using HTML5. You may also work on building HTML5 based mobile apps.
+Work on bug fixes and new feature enhancements on Get A Plan for SAT (Ruby on Rails, MySQL, Bootstrap, HTML5, jQuery, CSS3)
+Optimizion : A) Optimizing data base queries i.e. analyzing query plans, adding indexes etc. B) Optimizing client side code to reduce load time i.e. JS minification, HTML compression, reducing HTTP requests etc.
+Working with document database like mongoDB (i.e. integrating it with Rails) to store, retrieve and search knowledge base articles used for CollegElf
+Working external APIs like HelpScout, Slack etc. Integrating web and mobile apps with these APIs
+
+An ideal candidate is someone who,
+
+is a quick learner and can adapt to emerging technologies very fast (we mean real fast)
+needs minimal supervision, who can take responsibility of the task given and deliver it on time.
+can work in a fast paced environment - we are a start up and things move very quickly here.
+can handle chaos and is able to perform under high pressure.
+gets along with the team very well and is able to co-ordinate with every one in the company (even people outside of the team).
+fun loving, passionate and a curios soul.
+
+We work on a lean model and we iterate very quickly. You will get a chance to work with very talented and highly motivated team.
+We are a funded startup into ed-tech domain and are based in Singapore. We are building a new product (CollegElf) that aims to make the college application process very easy and efficient. We have also built a gamified app for SAT learning (Get A Plan for SAT) and have a good user base already using the app.
+Note: Since we are based in Singapore, it may be required for the person to re-locate to Singapore.
+

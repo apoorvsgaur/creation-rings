@@ -1,0 +1,1 @@
+.net,android,c,c++,eclipse,java,kernel,mysql,php,qa,sap,security,stack,unix

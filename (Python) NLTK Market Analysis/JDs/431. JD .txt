@@ -1,0 +1,38 @@
+
+If yes... then join us @ Equal Experts.
+Equal Experts does not work on support &amp; maintenance projects.
+It creates enterprise software applications &amp; products for its global clients... from scratch.
+------------------------------------------------------------------------------------------------------------------------
+Excited ?... Here's what else you can look forward to:
+Freedom - Freedom to explore new technologies &amp; implement them on projects.
+Responsibility &amp; ownership - Writing elegant code everyday. Taking design &amp; architectural decisions.
+Agile expertise - TDD, CI, XP practices. Working with experts &amp; thought-leaders in Agile.
+Cutting edge - Work on Scala, Hadoop, MongoDB, Neo4j, Groovy, Java 8, iOS 7, Angular JS, Cucumber, Calabash and the likes...
+Consulting exposure - Travel onsite frequently. Interact with clients everyday. Work directly with them from inception stages to go-live..
+Open culture - No hierarchy. No cubicles. No formal dress code.
+------------------------------------------------------------------------------------------------------------------------
+Things you will NOT get at Equal Experts:
+Fancy designation - You will be called a Software Engineer here, regardless of your experience / expertise.
+Projects on only 1 language - Today you might code in Java, tomorrow in Groovy, the day after in Scala... :-). At Equal Experts, we work on diverse tech-stacks and you simply have to be a polyglot.
+A routine "desk job" - As a consultant, you WILL travel onsite...quite often. You are expected to work directly with clients whether you are onsite / offshore. You may not live out of your suitcase here..but will have to keep your passport handy.. :-)
+"Management" role - We don't hire dedicated PMs, IMs, DMs ..or any other Ms out there... :-). If you are part of Equal Experts, you'll always be a hands-on techie..
+Spoonfeeding... :-)
+------------------------------------------------------------------------------------------------------------------------
+Some cool apps we've created recently:
+1self - Collect, compare, correlate and comment on all of your data to live a smarter life.
+Giftbak - An app that enables you to get exclusive offers from the retail brands you love.
+O2 Priority - An award winning loyalty app that rewards O2 customers with exciting offers.
+O2 Shop - A one-stop eCommerce solution for O2, the largest consumer brand in UK.
+------------------------------------------------------------------------------------------------------------------------
+Want to become a fellow "Equal Expert" ? Here's what you must possess:
+Exceptional OOP skills - Solid, Grasp, Kiss and Dry should mean more than words to you... :-). Your daily code must be clean, simple, modular, extensible and.. always.. thoroughly test driven.
+Conceptual understanding of whatever you've worked on - We're more interested in knowing how &amp; why you used a particular technology / approach to solve a problem. Definitions and theory don't interest us that much... :-)
+Tech leadership experience - We need you to tech-lead new projects from scratch. Accordingly, you must have the experience of taking design &amp; architectural decisions on projects and leading distributed teams of highly opinionated experts.
+Strong online technical presence - And we don't mean FB here.. :-). Regular contributions to forums like Stack Overflow, or open source projects on GitHub or a tech blog highlighting your own opinions tend to impress us much more...
+Consulting skills - How you present yourself, your team &amp; your organization in front of a client defines your success at EE. Needless to say, your communication &amp; consulting skills are expected to nothing short of exceptional...
+Humility - You will pair with fellow developers everyday. You must be willing to learn from them and share your knowledge with them everyday. Our unique culture thrives on open feedback and humility of team members. There's a reason why we are "Equal" Experts... :-)
+Job Perks
+Profit shares - As soon as you complete 2 years in Equal Experts, you get entitled to the company's annual profit share.
+Cab service - To and fro cab services from office to home.
+Professional development benefit - EE reimburses investments you make towards your professional development (...certifications, courses, books, conferences etc...)
+

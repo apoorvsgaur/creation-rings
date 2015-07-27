@@ -1,0 +1,18 @@
+
+Skills required : SAP PI/PO
+Should have at least 3+ yrs of experience
+Experience of at least 2 end to end implementations.
+Should have experience in writing Technical Design documents based o Functional documents.
+Should be able to do solution design based on a functional document.
+Experience in IDoc, BAPI, Proxy, Mail, File, SFTP, Data Base and B2B integration
+Should be excellent in graphical mapping, writing UDF's and Java mapping.
+Should have experience of SLD setup, for ex creation of technical and business system, creation of products, business system mapping for transport and transporting SLD objects
+Should have experince of using CTS+ and File transports.
+Good experience with monitoring on integration scenarios and root cause analysis of production issues.
+Experience in SAP Module configuration.
+Self-starter, independent, but also team oriented.
+Optional Skills:
+XSLT mapping
+ABAP 
+Experience with REST adapterXI/PI certified
+

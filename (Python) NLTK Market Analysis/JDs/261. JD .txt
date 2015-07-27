@@ -1,0 +1,33 @@
+
+UEducation is a very early stage education technology company focussed on bringing quality online programs for working professionals in India and over time, in rest of Asia in new industries such as Big Data Analytics and management of tech businesses. The founding team comprises of IIT alumni and we are backed by Ronnie Screwvala (founder of UTV) with committed investment capital. UEducation will innovate in content, technology and service to create a deigital first learning experience for students.
+What will you be doing:
+At this stage, we are looking for people who are excited about tackling complex tech challenges and building a new product from scratch
+
+Conceptualising the experience and interaction layer of products and new features
+Convert design specifications to HTML and Javascript code
+Third Party API integrations
+Performance Optimizations
+
+Skills Required:
+
+HTML, CSS3
+Strong hold of key concepts of Javascript and basic libraries like JQuery
+Working knowledge of MVC Javascript framework like Angular, Backbone, Knockout, Ember, etc
+Experience in writing optimized javascript
+Working knowledge of NodeJS (desirable)
+2+ years of work experience in front-end technologies
+
+Job Perks
+
+Unparalleled freedom to execute, with an opportunity to build and grow your own team
+Opportunity to build and grow an exciting new product with a great founding team
+Attractive compensation
+ESOPs
+Apple equipment
+Fun loving team
+Lots of food and drink in office
+Friday Happy Hours
+Health Insurance
+Much more...
+
+

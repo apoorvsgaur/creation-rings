@@ -1,0 +1,24 @@
+
+We are looking for a 4+year’s experienced Web Developer to join the Capital Float’s team in building a unique “Online Financing Platform”.
+Job Responsibilities and Skills Needed: 
+If you’ve built web and/or mobile products which you believe are on the cutting edge of UI/UX design; if you are fanatical about improving user experience and if you are excited about working on a one of a kind product where the learning is limitless, we would love to meet you.
+
+Plan and execute UI design projects, contribute as an independent member to create innovative user interfaces for mobile, web and desktop applications
+Create information architectures, user interaction models, wire-frames &amp; navigation flows, build prototypes, design briefs, design specifications and design guidelines
+Develop client side applications whereby the required skills are as follows – Required Skills HTML/HTML5, CSS/CSS 3,JavaScript Libs: ExtJS ,Bootstrap, knockout, angular, jQuery, AJAX,Dojo, Cross-browser implementation / Browser Compatibility, XML 
+Working knowledge in PHP, Apache, Android, iOS stack would be added bonus
+Ability to develop and communicate UI design guidelines, templates and standards. Proficient and working knowledge in prototyping tools - Photoshop, Visio, Illustrator, SVN
+Experience with the conceptualization and design of navigation, labelling, search, and organization systems for websites and applications.
+High Proficiency with visual design, creating all the inputs needed for design that is ready for development
+Appreciation of what’s possible in user flows, using latest technologies on the development side
+
+Qualifications:
+
+Should hold a Bachelor’s degree in Computer Science or equivalent from a reputed university
+Must have prior work experience with a Product Company and exposed to building end to end web products
+
+About Capital Float
+Capital Float is a high energy early stage company that offers a unique online platform, which provides working capital finance to Small &amp; Medium Enterprises in India. We originate flexible, short-term loans to growing SMEs that require funds to purchase inventory, service new orders or optimize cash cycles. Borrowers can apply online in minutes and receive funds with minimal hassle.
+Location: Mumbai &amp; Bangalore (1 resource in each location)
+
+

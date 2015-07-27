@@ -1,0 +1,37 @@
+
+Your skillset:
+If you want to get a response do the following:
+
+Read the entire job description scrolling all the way down.
+See if your skill set matches, if it does not match, do not apply.
+If it matches, and you read the entire job description send me a cover letter as why this is a good fit for you.
+Hint - If you read the entire job description your cover letter should show that.
+Send me your phone number and a time to call.
+
+If you are applying for iOS developer position:
+You have worked on iOS phone apps using Swift or objective C. You have released apps in the "real" world. You have coded for a year at least. Very strong in Data Structures and Algorithms.
+If you are applying for Android Developer:
+You have developed apps using java.  Very strong java skills. You have read Effective Java by Joshua bloc. You have released apps in the real world. You know the best practices in Android development. Very strong in Data Structures and Algorithms.
+You are interested in Big Data technologies and are aware of the problems involved in storing and processing large amounts of data.
+Your Personality: 
+Cultural fit is a must for us. So check the following before you scroll down.
+You are someone who takes solving the business problem seriously.
+You keep asking, so what is that we are trying to solve?
+You think how will you can change the world with one infrastructure improvement at a time. One performance upgrade, one security improvement, one new piece of technology that will make life better for your co workers and customers.
+But you are not just a talker. You ask how you can get this done?
+Then you roll up your sleeves start putting the pieces together in an agile manner. You take testing seriously and do not release anything into production without having tested it to breaking point.
+When asked to deliver a project, you will go deep in your tool kit and get it done!
+You know that customers mean everything in the real world.
+You know it matters to take the middle path between creating something that is aesthetic and just getting the job done now!
+You are also humble &amp; have a big picture in mind. You go back to fixing your own projects by yourself in an iterative fashion so it gets more beautiful the next time around.
+You love Test Driven Development, you think if it is not testable then there is a code "stink".
+What can you expect in R&amp;D @ Evive?
+Experience the entire spectrum of software development.
+Design and build infrastructure for solutions that will improve the lives of millions.
+Interacting with fun people like yourself.
+Work with not just great minds, but with great human beings, helpful, compassionate and wicked smart.
+A multicultural team head quartered in Chicago.
+Perks:
+TT, XBox, Cricket, free snacks
+Located in the premium location - Koramangala 4th block, lots of restaurants, easy to commute.
+

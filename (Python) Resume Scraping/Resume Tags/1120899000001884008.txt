@@ -1,0 +1,1 @@
+.net,android,api,asp.net,azure,balsamiq,c,c++,codeigniter,css,css3,eclipse,html,html5,ios,java,javascript,jquery,json,linux,middleware,modeling,mysql,netbeans,php,qt,r,rest,restful,saas,sap,sdk,spring,sql,svn,testing,ui

@@ -1,0 +1,1 @@
+.net,angular,c,c++,css3,eclipse,html5,java,javascript,jquery,js,linux,mvc,mysql,oracle,perl,scripting,sdlc,sql,ui,unix

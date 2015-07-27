@@ -1,0 +1,6 @@
+
+A python geek who's managed development teams in the past (ideally around 8-10 years of programming experience) who's excited to work on a new-age finance technology platform with a team of crack python commandos.  Python on Django, angular.js are the foundation we've built the platform on.  We've just raised a round of financing, and are well capitalised to expand the platform and business over the next 15-18 months.
+Looking for a self-starter who's looking for not just exciting technical work, given the solid platform we've built, but also at making a difference to a business model which is unique and first-of-its-kind in the personal finance/fintech space.
+We are looking to double  the developement team from 8, and possibly more.  Development team in India, while Sales &amp; Marketing are in Singapore. Will also have Operations team based in Chennai, India
+The role is a leadership role, core focus on owning the Technology platform end-to-end,i.e Design,Dev, Management &amp; infrastructure/SE improvements.  Expect to be part of Core leadership team, and be involved in product direction, and management calls.
+

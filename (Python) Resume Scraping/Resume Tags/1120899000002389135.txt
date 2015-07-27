@@ -1,0 +1,1 @@
+apex,c,c++,cassandra,eclipse,git,java,jenkins,linux,maven,mysql,network,oracle,perl,php,qa,ruby,scripting,scrum,shell,solaris,sql,svn,testing,trading,unix

@@ -1,0 +1,31 @@
+
+Requirements:
+
+2+ years of experience in developing high-scale web applications using PHP
+1+ year experience in Laravel Framework
+1+ year experience in AngularJS
+Minimum 3+ different applications
+Knowledge of business domain models
+Understanding of building systems for high availability
+Strong Understanding of MVC, ORM, and RESTful
+Solid expertise using JavaScript and jQuery framework
+Understand modern web standards, browser compatibility and web development best practices
+Experience using Linux/Unix command line
+Experience developing applications using MySQL/PostgreSQL
+Good understanding of web application security and secure coding practices
+Familiarity with continuous integration
+Able to implement automated testing platforms and unit tests
+Proficient understanding of code versioning tools {{e.g. Git, Mercurial or SVN}}
+Familiarity with development aiding tools {{such as Bower, Bundler, Rake, etc}}
+Ability to work in a very fast-paced startup environment
+Good communications and collaboration skills
+Fluent in English language
+Degree in Computer Science or equivalent experience
+
+Added Advantage:
+
+Good Knowledge on Docker, Capistrano, Ansible
+Cloud provisioning with AWS or similar
+Virtualization
+
+

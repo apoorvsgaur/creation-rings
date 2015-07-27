@@ -1,0 +1,34 @@
+
+LeadSquared is looking for Senior Android Developer in Bangalore.
+What we do? 
+We build software for marketers and sales professionals in SMBs to help them acquire more customers.
+Why we exist? 
+With most purchase decisions of services and products influenced or made online, marketers and sales pros cannot do their jobs without technology and tools. Naturally, there are dozens of business ventures trying to address these needs.  Most of them are taking an approach of solving one or two problems at a time.  That still leaves a big challenge for the marketers to integrate them and get the analytics right. This is neither easy nor affordable for most of them.  LeadSquared tries to integrate all critical marketing and sales processes in one system so they don’t have to spend money and time in integrating myriad systems.
+Quick Facts about LeadSquared: 
+
+Has been recognized as the No.1 Marketing Automation Software in India by NASSCOM.
+Featured in Deloitte's Technology Fast 50 India 2014
+We are in Red Herring Asia's Top 100 Finalists - 2014
+Has been ranked as one of the Top 20 Most Popular Marketing Automation Software Solutions by CAPTERRA
+ G2 Crowd Grid has recognized us as one of the top performers in Marketing Automation software. 
+Featured in India’s Most Promising Startups in NextBigWhat List 2013 100+ Indian Startups
+
+For more details about the product, please visit http://www.leadsquared.com
+Here are some other online resources that you can look at:
+www.facebook.com/leadsquared
+www.linkedin.com/leadsquared
+Why should I consider this role? 
+We are a well-funded startup with a very ambitious goal of becoming a globally successful marketing and sales automation platform.  The opportunity is immense and this role directly impacts the growth and adoption of the software. The opportunity is to be part of a venture that brings difference to millions of users worldwide.
+What you will be doing? 
+LeadSquared is looking to build its next generation Mobile-First sales automation app enhanced by marketing data.  Lead Android Developer would be part of the engineering team and would be responsible to define, design, build and own the release of the app on Google Play Store.  
+The key job responsibilities are:
+
+Work closely with the leadership team to define the v1 of the product.
+Collaborate with the UI design team to build app in short iterations
+Follow best practices of product development to build a world-class high quality app
+Guide the QA team to prepare a fool-proof test plan
+Own the release of the product in agreed timelines
+
+Ideal background for the role:
+The ideal candidate would have experience of designing, developing, debugging and releasing a high quality B2B mobile app on play store.  We are looking for at least 6 years of overall software development experience with atleast 4 years of experience in handling UI development, custom widgets, push notifications, location based services and working with REST and JSON.
+

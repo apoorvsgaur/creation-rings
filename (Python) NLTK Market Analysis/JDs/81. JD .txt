@@ -1,0 +1,26 @@
+
+
+
+About Us
+Cellent Technologies is a leading global service provider offering mobile marketing and communication solutions through SMS and value added service (VAS) solutions for enterprises and MNCs in every industry across the globe. Over the last ten plus years, we have helped several global organizations, both big and small, deploy effective mobile-based marketing campaigns as well as facilitate robust communication with clients. Mobile messaging is our core competency. Our team focuses on providing the best possible solutions and service so that you, our clients, can focus on your core business. No two clients are alike. We know each of you have individual needs so our Business Development Consultants, along with our Tech Team, can customize our platform to make life easier for you. Give us a call or drop us an email to let us know what your needs are and we will provide you with a complete customized end to end solution along with ideas for uses that may not have crossed your mind yet!
+Qualifications: 
+Bachelor's degree in Engineering / MCA / Science graduates with 2+ years of experience.
+General Description:
+Responsible for developing, enhancing, modifying and/or maintaining applications. Software developers code, test, debug and document programs as well as support activities for the corporate systems architecture. Employees are expected to have in-depth capital markets product knowledge, and manage a high level of risk. Employees typically have in-depth knowledge of development tools and languages. Is clearly recognized as a content expert by peers. Individual contributor role. Typically requires 2-3 years of applicable experience.
+Qualifications
+Required Skills: 
+
+2+ years of NET application programming experience.
+MS .Net 2.0 /3.5/ 4.0, ASP.NET/ C#, WCF, WPF, Web Services
+CSS, Java Script, Jquery, Ajax
+Design Pattern (MVC)
+Object-Oriented Design (OOD)
+Experience in database platforms is preferred: SQL Server, SSRS, SSIS
+Must be able to handle multiple tasks and adapt to a constantly changing environment.
+Must have excellent organization and team skills.
+Ability to learn quickly and work with minimal supervision.
+Able to communicate effectively across varied areas including technology, business and leadership.
+
+
+
+

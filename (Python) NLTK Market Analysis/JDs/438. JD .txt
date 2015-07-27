@@ -1,0 +1,27 @@
+
+Skills
+
+Successful track record of providing production support for large-scale distributed systems, with experience in creating software/scripts to automate production systems with some or any of the following:  Python, Bash, Shell, Perl, etc.
+Experience with Linux administration and software development process.
+Experience with monitoring tools like Nagios, Monit, etc.
+Experience with cloud computing platforms (e.g. Amazon AWS, Microsoft Azure, Google Cloud, Rightscale, etc.) and relational database systems a big plus.
+Experience in Continuous Integration implementation with Jenkins, Ansible, Bamboo will be an added advantage.
+
+We also look for the following soft skills
+
+Energetic and motivated self-starter
+Ability to learn quickly and intellectually curious
+Desire to work in a fast-paced, dynamic environment
+Strong focus and drive to solve problems
+Good communication skills (oral and written)
+
+Nice to have skills:
+
+Certified in AWS
+Networking and web services (DNS, TCPIP, RESTFul Services)
+Experience with Provisioning tools such as chef, puppet, etc. and log management tools like Splunk, LogRhythm, etc.,
+Experience with Hadoop and HBase clusters, and all the associated tools (Pig, Hive, Oozie, etc.).
+Experience with NoSQL databases like Cassandra, MonogDB, etc.
+Experience with ElasticSearch, Lucene, Solr, etc.
+
+

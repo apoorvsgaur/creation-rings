@@ -1,0 +1,38 @@
+
+If you are in the third or fourth year of an engineering college, and enjoy programming using one or both of Go (Golang) or JavaScript/HTML5, read on!
+Blackbuck Computing is looking for a summer engineering intern at its​ ​Bangalore office (NASSCOM Startup Warehouse in Domlur). We are on a mission ​to​ make the mobile internet more joyful.
+Our first product, Fastah is an app that makes internet browsing on smartphones faster and more fun. No more waiting for minutes before a page loads or a video plays. Fastah ensures that it speeds up your internet so that you get to the information you seek as quickly as possible.
+What you need to demonstrate:
+​1. Demonstrable projects in one or both of:
+
+Go programming language (http://golang.org)
+Modern web tech development (JavaScript, HTML5, CSS, SVG)
+
+2. ​Pleasant personality and high integrity: this is ​very​ important​ :) ​
+3. ​Willingness and ability to learn, and be mentored extensively
+4. Interest in any of: Networked systems programming, Design and UX, Web apps and microsites for mobile.
+​
+What this Internship offers:
+
+Learning opportunity with Go, HTML 5 and JavaScript. Developing internet scale computing infrastructure using AWS, Creating single-purpose+fast web experiences for smartphones.
+Extensive mentoring from the startup Founder, Siddharth, alumnus of NSIT, Delhi and University of Arizona. He has 12 years of experience across two countries. (LinkedIn: https://in.linkedin.com/in/simathur) 
+Exposure to the startup ecosystem in Bangalore, specifically Nasscom's 10,000 Startups program. ​
+
+
+Suggested reading before you apply:
+
+Latency: The New Web Performance Bottleneck: https://www.igvita.com/2012/07/19/latency-the-new-web-performance-bottleneck/
+Content Optimization for mobile written in Go (Golang): http://research.google.com/pubs/pub43447.html
+Chrome Dev Tools: <a href="https://developer.chrome.com/devtools/docs/videos#elements_resources" rel="nofollow">https://developer.chrome.com/devtools/docs/videos#elements_resources<a href="https://developer.chrome.com/devtools/docs/videos#elements_resources" rel="nofollow">
+Video: Commerce, brands and the "emerging internet": https://www.youtube.com/watch?v=KM50Nj82AQw
+
+
+
+About the startup and founder:
+Blackbuck's office is at the NASSCOM 10,000 Startup Warehouse at Diamond​ District, Bangalore, a co-working space. The intern will be required to come in all or most days during regular business hours. Our team currently consists of the technical founder and a marketing advisor who works out of the same office.
+Siddharth Mathur, the founder, is an experienced smartphone and mobile web engineer​ and technical leader. He has extensive product engineering and mobile internet experience​ in both the US and India. He is a committer-status contributor to the​ WebKit open source project. The selected intern will be​ working with Siddharth directly during this internship. (LinkedIn:​ https://in.linkedin.com/in/simathur)
+PS: Here's why you should intern for a startup this summer:
+http://yourstory.com/2015/04/8-solid-reasons-why-you-should-intern-with-startups/
+Job Perks
+Professionalism, Learning opportunity, Respect. 
+

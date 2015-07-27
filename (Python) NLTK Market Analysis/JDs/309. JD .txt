@@ -1,0 +1,9 @@
+
+About Tagos:
+www.tagos.in
+We are an exciting startup working in intersection of video discovery, monetization and engagement platform. Tagos lets viewers explore video by touch, opening up whole new ways to interact, engage, advertise, shop or learn.
+Responsibilities:
+Candidate will be working with engineers in Bangalore Office in areas of computer vision, machine learning and video discovery platform.He/ She will be building this from scratch involving work in cloud, server side and client side of software development.Will be using and modifying lot of open source softwares.Coming up with ideas and algorithms in recommendation and video engagement.Involve in software development, design and testing. 
+Requirements:B.Tech/ M.Tech / MS in computer science related branchesStrong fundamentals in computer science and programming.Knowledge in PHP, python, Javascript and HTML5 web technologies.Some one who has knowledge in SQL and / or NoSQL databases.Very good problem solving and communication skills.Looking at 1-4 years of experience but can make exception if candidate is excellent in programming, software developement skills.
+Majors:Computer Science, Information Science, Electronics and Electrical Branches from IIT, NIT and Tier I colleges.
+

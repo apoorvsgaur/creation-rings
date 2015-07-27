@@ -1,0 +1,15 @@
+
+About the Company:
+Citrix Citrix (NASDAQ:CTXS) is leading the transition to software-defining the workplace, uniting virtualization, mobility management, networking and SaaS solutions to enable new ways for businesses and people to work better. Citrix solutions power business mobility through secure, mobile workspaces that provide people with instant access to apps, desktops, data and communications on any device, over any network and cloud. With annual revenue in 2014 of $3.14 billion, Citrix solutions are in use at more than 330,000 organizations and by over 100 million users globally. Learn more at www.citrix.com.
+Requirements:
+
+Bachelor of Engineering degree or equivalent in computer science or related field is preferred; equivalent experience may be substituted for formal education.  Post-graduate work is desireable.
+6-9 years of experience in Web-based interactive development.
+Expertise in HTML, JavaScript and CSS. Extensive experience with development and deployment of dynamic Web sites.
+Knowledge and experience with Windows and/or Unix required.
+Knowledge and experience with Photoshop required.
+Knowledge of and experience with Internet technologies (e.g. HTTP, TCP/IP, XML, Flash) required.
+Expertise in SW Engineering Process and Configuration Management tools.
+Good understanding of Project Management methodologies.
+
+

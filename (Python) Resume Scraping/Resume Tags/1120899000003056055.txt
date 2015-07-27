@@ -1,0 +1,1 @@
+3d,android,api,c,c++,cms,css,drupal,eclipse,embedded,graphics,html,java,linux,matlab,mysql,opencv,photoshop,php,r,vmware,wordpress

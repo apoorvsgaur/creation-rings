@@ -1,0 +1,1 @@
+android,asp.net,c,css,css3,debian,eclipse,flash,graphics,html5,illustrator,java,linux,mysql,oracle,photoshop,python,sdk,sql,testing,ubuntu,virtualization,vmware

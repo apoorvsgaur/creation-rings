@@ -1,0 +1,45 @@
+
+About Us:
+GadflyZone’s mission is to ensure that our customers in the chemicals and plastics industry find winning segments – of products, markets, applications, &amp; customers – using data sciences.
+We believe that Industrial Marketing – which is rightfully driven by expertise and insights – can be empowered by a data-driven approach, built on the solid tenets of mathematical robustness, painless usability and obvious insightfulness. Chemicals and plastics can lead this transformation of industrial marketing into the new age. Considering that approximately 35% of world’s GDP, amounting to about $25T, is driven by industrial output, of which the ubiquitous Chemical Industry is a $4T chunk, there is a huge opportunity for value addition.
+Chemical companies are striving to be solution providers in an industry that is seeing a rapid transformation from being product-centric to market-facing. Data-driven segmentation is an ideal starting point for the transformation. GadflyZone partners with chemical companies to accelerate this transformation. With deep domain expertise on the one hand, and passion for data sciences and technology on the other, we are here to deliver solid value and growth.
+Does this combination of machine learning, technology and industry value, stir your passion? Do get in touch. We need ace problem solvers at the intersection of chemical engineering, data sciences and software development to deliver domain-specific value using algorithms and heuristics.
+Learn more at www.gadflyzone.com, and do watch our introductory video.
+GadflyZone Inc. is a privately held corporation headquartered in the Greater Chicago Area, with its India Centre in Bangalore.
+Responsibilities:
+You would be responsible for building the data sciences application(s) for segmentation. This would consist of understanding the problem space of industrial strategy, developing the application, and building the user interface for effective visualization and analysis. Typical aspects of ownership would include:
+
+Understanding the problem and designing the solution flow
+Building a solid application foundation
+Designing and implementing crisp user experience - simplicity over excessive functionality in interface design
+Developing the "responsive" user interface ground up, for web and mobile, including implementing the precise visualizations, for the best of understanding and analysis
+Building a world class application, by thinking in the shoes of the user
+
+Requirements:
+
+Problem Solver (This is Key!)
+Firm application development background
+Keen interest in visual design &amp; analytics based visualizations
+Good understanding of R, including all the oft used charting libraries like ggplot and shiny
+Portfolio of projects demonstrating your passion and skill
+Passionate builder, who thrives on customer delight
+
+Educational Qualifications:
+
+Bachelor's or Master's Degree in Engineering or Sciences
+
+Nice to have:
+
+Experience with Machine Learning based applications
+Understanding of industrial value chains
+Mastery of HTML, CSS, and JavaScript, and related (emerging) web and mobile technologies
+
+Job Perks
+
+Fun and Solid work environment
+Real Startup, Real Day1, Real Value Addition
+Purpose and Autonomy from day 1, leading to Mastery
+Flexi Timings
+Insurance Benefits
+
+

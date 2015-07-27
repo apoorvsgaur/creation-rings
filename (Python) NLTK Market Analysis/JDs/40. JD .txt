@@ -1,0 +1,34 @@
+
+Customer Labs is a predictive customer analytics platform that helps businesses understand their customers better and enables them to pro-actively target, engage and personalise the customer life cycle. We help businesses get better conversions and eventually increase the revenue.
+We're looking to hire 2 Web Developers
+Requirements
+
+Self motivated quick learner.
+Experience in programming and development in Ruby and javascript.
+You are comfortable with Git version control system.
+Experience working with ruby frameworks like Rails or Sinatra
+Knowledge of OOP, MVC
+Love for good UX &amp; Design
+Good verbal, written and technical skills
+
+Nice to have
+
+Knowledge of configuring and setting up server. Eg. Apache and phusion passenger or Nginx and unicorn.
+Familiarity with AWS, Google compute engine or Azure
+Experience writing high quality javascripts, building APIs, running and maintaining background jobs and full-stack performance tuning
+Familiar with node.js, angular JS and related technologies
+
+Experience/Education
+
+2+ years of relevant technical experience is required.
+A Bachelor’s degree in Computers / Technology / Science Even no degree or having arrears is fine, we value the depth of knowledge than anything else. Are you a drop out and obsessed about web applications? We are happy to talk to you.
+
+Dont have ruby or rails experience but you have worked with other technologies like php or java and want to learn other technologies. We're okay with that too but you have to be a fast learner and have deep passion for technology/web.
+What do we offer?
+
+Good Salary
+A Satisfying startup life - you will be just like the founders, working close with the team and customers. Go out and hangout for a while, discuss about technology, startups, movies and gossips.
+You will be part of the core team of a growing company.
+We have remote working policies for our kind of people (you can work from home or beach or anywhere once in a while)
+
+

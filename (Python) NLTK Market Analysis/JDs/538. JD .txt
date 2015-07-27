@@ -1,0 +1,25 @@
+
+Experience: ~6 years Work Location: New Delhi Joining: ASAP 
+Required
+- At least 6 years mobile development experience with 2 years full stack development experience.
+- Strong knowledge of Native development technologies on Android.
+- Excellent knowledge of Web Technologies (HTML5, CSS, Javascript) and some cross platform development tools like Phone gap/Intel XDK.
+- Proficient in use of web services for server communication (REST, SOAP).
+- Strong coding knowledge of Back end server (mandatory: PHP, optional: Java EE/.Net) and MySQL.
+- Strong at OOP and OOAD concepts.
+- Work to Develop and architect the High Level Design.
+- Take full ownership of the implementation plan.
+- Deliver product features as per release schedule and quality expectations.
+- Enhance efficiency of dev/test/release process and develop tools, frameworks as required.
+- Research &amp; track developments in the mobile and application segments for education personalization
+- Participate in the full life-cycle development process from product definition, through design, development, test, release and maintenance.
+
+Personal Traits:
+- Self-motivated &amp; ability to help set and achieve deadlines.
+- Be an individual contributor (very hands on).
+- Ability to work in Start-up environment
+
+
+About TotSmart
+Join and become an integral part of a company which - Is trying to transform the K12 education in India by introducing personalized teaching solutions at the grass root level - Has ambitious plans &amp; has already successfully tested out a business model to help achieve that. - Has already gained the confidence of around 200 Schools (revenue generating customers) with just the Beta offering &amp; has broken even - Is Founded &amp; Advised by IIM &amp; IIT Alumni - Is being mentored by some of the leading professionals in the industry
+

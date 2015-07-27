@@ -1,0 +1,1 @@
+asic,c,c++,dsp,linux,network,optimization,oracle,perl,r,scripting,sdlc,shell,soa,solaris,sql,stack,statistics,svn,testing,unix

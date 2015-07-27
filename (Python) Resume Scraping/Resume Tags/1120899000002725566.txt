@@ -1,0 +1,1 @@
+android,c,embedded,html5,java,javascript,jquery,linux,mysql,nosql,oracle,php,python,ubuntu,unity

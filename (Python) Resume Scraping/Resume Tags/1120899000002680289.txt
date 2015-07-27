@@ -1,0 +1,1 @@
+eclipse,git,java,jenkins,junit,maven,scripting,selenium,stack,testing,ui

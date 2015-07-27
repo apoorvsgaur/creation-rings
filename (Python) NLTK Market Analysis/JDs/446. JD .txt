@@ -1,0 +1,18 @@
+
+Our goal is to get over a million local merchants use our application daily to manage their marketing, communication and business. This will require building elegant, sexy and performant UI across multiple devices and screens.
+We're looking for a Frontend Developer who is passionate about design aesthetic and performance. You'll "own" all of the frontend code on our applications, web, mobile and others.
+The ideal candidate:
+- Is proficient with any JS framework (Angular, Node) as well as HTML / CSS - Has great design aesthetic - Has built interactive UIs before that look and feel awesome 
+What Is Synup?
+Our product helps local businesses spend less time obsessing over their marketing and enables them to focus on the stuff that matters - keeping their customers happy. We help the small guy, your local restaurant, salon or dentist leverage cutting-edge tools that will make them stand out and thrive.
+Over 10,000 merchants use the Synup application every day to:
+- Control all of their digital assets - Keep their business information in sync - Monitor customer feedback - Improve their online presence - Get real-time insights and analytics they can use to run a better business.
+Our technology analyzes millions of interactions and data points weekly to provide insights and easy to follow recommendations to businesses on how they can improve and do better. We also power marketing agencies that are focused on local by providing them with tools and tech they can use to do their job effectively.
+Why Us?
+We're doing stuff that really matters. Helping David take on Goliath. Enabling your favorite local business to grow and provide better service to their customers.
+Our goal is to be able to have a direct impact on over one million merchants over the next 24 months. This isn't easy, in fact, some would call it impossible. But, we have the product and the distribution to take us there.
+It's no fun being "yet another", we're making history. And, you can be part of that - helping build one of the fastest growing startups in the world, out of India.
+We've just raised a seed round and have grown 2000% in the past 11 months.
+Job Perks
+- Early employee stock. - Fully stocked snack bar, beer on Fridays and regular team outs - The tools you need to make magic happen - Mac, 24" Displays and anything else - The ability to shape the direction of the company and the application. - Make decisions that'll impact product, engineering and growth; it's okay if you make mistakes. We'd much rather have you make mistakes and learn from them rather than not make decisions. - We're going to be growing FAST. And, you get the experience being part of a high-growth startup first hand. You'll be part of our BHAG (Big Hairy Audacious Goal) - Work on a transformative idea that could directly impact hundreds of thousands of businesses globally.
+

@@ -1,0 +1,42 @@
+
+Are you a passionate techie with 2-3 years of experience, who thinks, “I don’t want to just keep pushing paper or doing dumb work and want to create product that change people’s lives”. Someone who has the passion to create and not just the mentality to maintain. An Entrepreneurial spirit with a startup mentality, who will take pride in what he/she will help create. A believer and not a skeptic with an ability to wear multiple hats that is required in a startup.
+We are one of the few deep tech companies working in Computer Vision and Artificial Intelligence. We have been covered by Economic times for the HiTech products that we are creating. (Aindra Systems putting Hi-Tech to commercial use and Aindra selected for incubation by Villgro  )
+We want you if you are:
+
+Capable of implementing scalable and high-performance systems
+Want to be involved in product development from an early stage of product conceptualization
+Capable of implementing solutions to be hosted on the Cloud.
+Cloud computing knowledge and experience with deploying applications on any of the well known IAAS/PAAS providers.
+Capable of providing reliable solutions to a variety of problems using sound problem-solving techniques
+Capable of performing technical root cause analysis and outlining corrective action for problems using debuggers, log files etc
+A quick learner (must) and who is willing to work on new programming languages depending on requirement
+A person who has great aptitude skills
+The ability to communicate technical information clearly and succinctly to both technical and non-technical teams
+
+
+Required Skills :
+
+Strong expertise in Java, JEE, JSP, Servlets, JDBC, XML, Spring Framework, Hibernate, MVC, SQL, REST APIs, JAX-RS, Web Services&amp;design patterns
+Hands-on experience of using HTML, CSS, and JavaScript.
+Hands-on experience in Mysql or Postgres with excellent understanding of SQL queries, stored procedure, DB Design etc
+Hands-on experience in Tomcat and JBoss
+Hands-on experience in Linux/Ubuntu platform
+Should have experience in using tools such as Eclipse/IntelliJ/NetBean, ANT/Maven, Jenkin/Cruisecontrol, JUnit etc.
+
+
+Highly Desirable:
+
+Strong knowledge or working experience with REST APIs, frameworks and components is big plus
+Experience of working in one of the JavaScript frameworks Backbone.js/ Angular.js/ ember.js/ node.js) is big plus.
+Knowledge/Experience of NoSQL database (MongoDB, CouchDB, Cassandra etc
+
+Job Perks
+
+Access to top acedemic research profs from a few IIT's
+Entrepreneurship mentorship sessions
+Beer punch with the team at every second Friday's of the month.
+Endless Teas and Coffees
+Performance based Stock options
+Company sponsored passes to technical &amp; entrepreneurship events and meet ups
+
+

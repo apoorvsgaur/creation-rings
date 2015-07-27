@@ -1,0 +1,1 @@
+android,apache,c,c++,digital,embedded,html,ios,java,javascript,linux,mysql,network,oracle,php,r,rdbms,scripting,sdlc,shell,sql,testing,unix

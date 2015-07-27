@@ -1,0 +1,33 @@
+
+DigiCollect GIS is on the lookout for exceptional UI Developer with strong aptitude and the willingness to learn and contribute in a highly skilled and research oriented environment.
+Role:
+The role requires you to contribute writing high quality code in a team oriented environment involving research and continuous improvements towards building highly scalable Mobile GIS products and services using the latest and greatest web and mobile technologies.
+Technology skills:
+
+ Strong programming knowledge in JavaScript, Coffee Script, Flash (Preferably JavaScript)
+ Strong knowledge of HTML5, CSS.
+Exposure to at least one web development framework. (jQuery  / NodeJS / Angular / KnockOut / Django / Any PHP framework)
+Strong knowledge of Web Frameworks I.e (Bootstrap, Kendo UI, Jquery UI, Touch etc.)
+ Strong knowledge of User interface design patterns and techniques such as Responsive Design, Grid Based Layouts, Mobile Friendly Web Pages etc.
+Knowledge of Photoshop, Dreamweaver will be preferred.
+Comfortable working on Linux and Windows operation systems.
+Basic knowledge or exposure to GIS technologies will be advantageous but not mandatory.
+Good understanding of mobile / and web technologies.
+Exposure to the software development life cycle will be a great plus with focus on building great software through iterations.
+Willingness to learn and work on open source web technologies / frameworks / reporting systems / analytics / infrastructure will be desirable.
+
+ Personal Skills:
+
+ Highly passionate individual willing to have fun solving some of the industry’s complex problems.
+Good communication skills, ability to listen and communicate effectively.
+Must be a team player and willing to support team members and work as a team.
+Excellent analytical skills in understanding the specifications, design challenges and ability to analyse problems to give quick scalable solutions on a constant basis.
+Quick learner who is able to get the job done with minimal guidance
+
+Educational Qualifications:
+B.E / B.Tech / M.Tech / MCA / MSc with a strong aptitude towards computing, programming, web and mobile technologies.
+What to expect:
+A great start-up environment with ability to work on a variety of challenges on large scale and a chance to directly make an impact on the industry with your good work.
+About DigiCollect GIS:
+DigiCollect GIS is a NASSCOM 10K Start-up, which builds great products and services on the GIS platform using cutting edge technologies and research. For more, please visit www.digicollectgis.com
+

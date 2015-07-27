@@ -1,0 +1,1 @@
+hibernate,j2ee,java,javascript,linux,mysql,scripting,shell,spring,struts,testing

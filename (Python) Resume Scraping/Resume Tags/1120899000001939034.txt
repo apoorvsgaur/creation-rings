@@ -1,0 +1,1 @@
+.net,a+,ajax,asp.net,c,c++,flash,ios,java,javascript,jsf,json,matrix,network,oracle,qtp,selenium,sql,svg,tester,testing,vb.net,webserver,xml

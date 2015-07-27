@@ -1,0 +1,33 @@
+
+A California developer is looking for a mid/senior level Ruby on Rails Developer to join the team. This is a 100% remote work position. To be considered you should be able to work 40 hours/week Monday-Friday (9 am to 6 pm IST). Expected to commit code daily to the project Git Repository and be available for a daily stand up call.
+Someone who has the following qualifications will be given a serious consideration -
+
+a self starter who constantly keeps up with the latest development trends
+is open to a dynamic agile environment and willing to improve the processes
+a good collaborator and team player, with excellent communication skills
+has significant experience in Ruby on Rails
+Javascript (jQuery/Coffeescript) is a must
+Object Oriented programming fundamentals
+end-to-end application development experience (frontend/backend/databases and anything involved to launching a scalable app)
+Postgres Database, and direct SQL writing skills
+Bootstrap 3 based UI design
+Google Maps
+Experienced in distributed architecture, scaling and multithreading
+Git knowledge
+
+Other desirable skills -
+
+at least one additional language - Java, Android, Objective-C or Python
+Ubuntu Systems Administration skills
+Security awareness
+Performance related problem solving skills (caching, etc)
+Capistrano / Multi-config deployment, Queues, Monitoring, content delivery experience
+AWS - EC2, S3, SQS, SES, SNS, Cloudfront, IAM, Lambda, ElastiCache
+Metrics and Analytics exposure
+BS Degree in Computer Science or related field.
+
+
+If this position interests you please forward your Github profile, an introduction to your background, your salary expectations, and when you can start work.
+Thanks for your time.
+
+

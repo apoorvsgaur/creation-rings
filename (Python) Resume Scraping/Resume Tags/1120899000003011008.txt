@@ -1,0 +1,1 @@
+angularjs,css,django,html,illustrator,jquery,linux,photoshop,ubuntu

@@ -1,0 +1,52 @@
+
+About Beaconifi
+Beaconifi is a promising start-up which was selected as one of the Top 20 Hottest Tech Startups of 2014 by India's premier Tech-focused magazine Exhibit from over 500+ entries. Brick and mortar Retailers are struggling in India (and worldwide) to compete with the online eTailers. They need to understand the demographic profile of their users, their buying habits depending on time/day of the week and able to roll out personalized and instant offers accordingly when the customer is in the vicinity or inside the Store/Mall. They need to customize the offers optimally utilizing the Inventory and PoS data. Otherwise they are going to keep losing market share to the online eTailers ! This is where Beaconifi products will help Brick and mortar Retailers gain market share from online eTailers.
+Beaconifi Delivers solicited localized content to consumers enhancing their discoverability &amp; responsiveness to Retail deals and promotions. We have 2 Android Apps - Merchant App (BeeKoun Merchant) and Customer App (Beekoun) available for free download from Google Play Store (see links below) within India and is in active use in many areas of Bangalore  <a href="https://play.google.com/store/apps/details?id=com.beaconifi.gobee&amp;hl=en" rel="nofollow">https://play.google.com/store/apps/details?id=com.beaconifi.gobee&amp;hl=enhttps://play.google.com/store/apps/details?id=com.beaconifi.beekounmerchant
+Being a young, technology driven startup we provide employees with tremendous potential for growth and opportunities to work and learn on cutting edge technologies. About our Founders - One founder is an IIT graduate with a rich experience in IT industry and the other Founder has MS in Computer Science from Illinois Institute of Technology, USA and several patents in his name.
+Our office is located at Bangalore, Karnataka
+Job Profile
+We are looking for an talented Android Developers who can quickly understand the current product’s vision, goals and modules once they are onboard. He/She would work closely with the backend-server team and deliver high quality code and test modules to develop the next generation Mobile App for Retail industry.
+Responsibilities :
+
+Design and build advanced applications for the Android platform
+Collaborate with cross-functional teams to define, design, and ship new features
+Unit-test code for robustness, including usability, and general reliability
+Continuously discover, evaluate, and implement new technologies to push the envelope
+
+Basic candidate profile :
+
+Experience with:
+
+
+
+0-1+ years of Native Android development
+Or strong background in JAVA
+
+Desirable experience:
+
+Knowledge of “Best Practices” in Mobile App development in Android
+Author of at least one published Native Android App
+
+
+
+Other Requirements:
+
+B.Tech/M.Tech/MCA/BCA with previous experience in Android App development
+Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies
+Solid understanding of the full mobile development life cycle
+
+
+
+Personal Attributes :
+
+Quick Learner
+High energy level
+Excellent team work
+Ability to smartly deliver on deadlines
+
+Job Perks
+Tremendous opportunity for growth
+Employee Stock options, based on performance and merit
+Interact with thousands of users and see direct impact of your decision making
+Work in conducive environment and culture based on mutual respect
+

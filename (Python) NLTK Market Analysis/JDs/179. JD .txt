@@ -1,0 +1,15 @@
+
+
+Must haves:
+-  Good understanding of Data Structures and Algorithms.
+-  experience of developing, deploying and maintaining at least one web application in Python.
+-  must be accustomed to working in Linux ecosystem.
+-  Version control (preferably git) should be an integral part of their workflow.
+
+Requirement:
+- familiarity with fabric, ansibile, vagrant, docker, AWS, Linode etc.
+- Working knowledge of ElasticSearch, Redis, MongoDB
+- creating and consuming restful apis.
+- know how of asynchronous programming
+
+

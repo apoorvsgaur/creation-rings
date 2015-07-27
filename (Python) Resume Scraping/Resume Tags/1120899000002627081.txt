@@ -1,0 +1,1 @@
+.net,android,api,asp.net,c,c++,css3,eclipse,embedded,git,graphics,html,html5,java,javascript,mysql,netbeans,network,oracle,photoshop,python,shell,sql,testing,ubuntu,ui,unix

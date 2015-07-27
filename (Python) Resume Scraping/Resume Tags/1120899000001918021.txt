@@ -1,0 +1,1 @@
+asp.net,c,j2ee,java,linux,mysql,oracle,photoshop,php,postgresql,scripting

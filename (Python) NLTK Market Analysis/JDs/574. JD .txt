@@ -1,0 +1,37 @@
+
+Come be a part of a disruptive startup in consumer internet space. We are looking for software artists who have the intellect and drive to create world class commerce products.  We are a stealth mode tech start-up in consumer internet space backed by one of the top tier VCs in the country.
+ 
+We are looking for Front End experts with in-depth knowledge and experience in Javascript, AngularJS, JQuery and other JS libraries.
+ 
+You should be: 
+ - Passionate about programming and delivering, clean, test-covered, well-designed, scalable code. 
+ - Excited to work in a fast paced tech start-up with opportunity to build from ground-up using latest and coolest technologies. 
+ - Self-starter and self-motivated to be able to work in a start-up environment. Able to take complete ownership and responsibility without much oversight. 
+ - Trend setter and have the aptitude for constant technical innovation 
+ 
+You should have: 
+ - Front-end expertise with native JavaScript, JQuery, AngularJS 
+ - Experience with HTML5 and CSS 
+ - Knowledge of caching and CDN
+ - Experience with Magento. Should be able to integrate themes, plug-ins and build customizations 
+ - Good grasp on programming fundamentals including OOPs, Design Patterns, Algorithms, Data structures, etc. 
+ - Impressive problem solving skills, sharp reasoning and a logical bent 
+ - B.Tech/ BE in Computer Science 
+ 
+You would have an edge if you have: 
+- Mobile web development experience 
+- Knowledge of responsive design concept 
+- Prior experience with e-commerce/ consumer internet companies 
+- Graduated from a top engineering institute 
+- Post-graduation in computer science 
+- Hunger to learn as you build the product from inception 
+ 
+You will get: 
+- To work in an early stage consumer internet start-up in disruptive space 
+- To directly work with founding team of graduates from IIT/ IIM and experience at top internet brands like Yahoo/ eBay 
+- Silicon Valley like culture 
+ - Competitive salary 
+ - Stock options 
+ 
+If you find this exciting drop us a note with your resume and LinkedIn profile at tech (_at_) turtlemint.com and we will get back to you soon.
+

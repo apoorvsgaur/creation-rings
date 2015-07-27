@@ -1,0 +1,23 @@
+
+About us 
+At Specadel we are revolutionizing Indian education. We are building disruptive products in education and e-commerce verticals. In education space we are developing platform for delivering digital content on tablets and web. We are expanding our technical team and looking for developers having entrepreneurial mindset, good aptitude and logical skills. Some of the products we are working on
+1) http://www.samsung.com/in/galaxytab4/byju.html 2) http://www.thinktab.com3) https://play.google.com/store/apps/details?id=com.tarladalal.android.app
+We use a unique blend of data, design and technology. Come join us in our mission of revolutionizing Indian education
+Requirements
+- 4+ years of experience in developing enterprise web applications in PHP , Python and MySQL
+- Experience with at least one web framework
+- Good understanding of OOP, MVC architecture, design patterns, REST web services, Git, Nginx, Memcache and Amazon Web Services.
+- Should know your way around *nix environments
+- Ability to architect, design, and program large applications and write modular code
+- Understands the importance of good programming practices - test driven development, code reviews etc
+- Ability to work independently and ship production ready code
+- Self driven and motivated. Good to have previous experience in working with product startups not mandatory tough
+Responsiblities
+- You will be responsible for defining, building, and scaling our products.
+- Take ownership of end-to-end product strategy
+What you will get
+- Opportunity to work with highly motivated team comprising alumnus of IITs/IIMs
+- Extensive learning. You will get chance to learn technical as well as business challenges of building products
+- Opportunity to interact directly with end users
+- Rapid career growth path
+

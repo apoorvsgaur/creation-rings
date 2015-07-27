@@ -1,0 +1,35 @@
+
+We are looking for an extremely talented, motivated and skilful person to lead our web team and bring the product development effort in our company to a new level.
+If you are enthusiastic, easy-going, crazy-about-technology person, who happens to enjoy producing beautiful, efficient and re-usable code, we’d be happy to have you on board.
+Depending on where you are based, we might consider you working from your place or even opening up an office there (if you're ready to run it and build the team).
+
+Responsibilities
+Do the awesome stuff. Improve your skills. Share the knowledge. Enjoy.
+
+Compensation package
+If you fit in, we will offer these goodies:
+
+a very competitive salary
+work in a nice cozy office or a chance to open up and run a new office
+self-improvement opportunities
+work on the products we build (http://leavebuddy.com/)
+cookies, soda and weekly / monthly company lunches
+a team of well-motivated and fun people
+
+
+About the company
+Soda In Mind is a technology startup developing quality software and aiming to change the perception of outsourced software development from India. We believe that it is all about the work culture: if people are allowed and encouraged to think, make decisions and be critical to their work, the result will be of much higher quality. We want our people to love what they do and feel responsible for it. We want to employ and nurture personalities, not robots.
+We currently split our workload between working on some interesting client projects (think airlines or other startups), and work on our own products as well. Our firstborn is http://leavebuddy.com/
+
+Here is what we expect from you:
+
+Expert knowledge of PHP and/or Python (you'll have to learn both like your mother tongue eventually)
+Working knowledge of PHP and Python frameworks like Laravel, CakePHP and Django
+Good understanding of Javascript and front-end technologies and practices. Ability to build a full site from scratch.
+Ability to write clean, commented and maintainable code. Spaghetti is only good in the dish.
+Good understanding of the full technology stack, and the experience of collaboration with back end team.
+Having a basic understanding of usability and UX is a plus
+
+As a team leader are obviously expected to show good leadership skills including resource planning, task delegation and research.
+
+

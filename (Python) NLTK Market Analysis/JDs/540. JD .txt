@@ -1,0 +1,10 @@
+
+klenty.com is a B2B Saas Product startup.
+We are looking for a Tech Lead  with 2-5 years experience in building web software products and has understanding &amp; experience around managing team, coding best practices &amp; QA Process. 
+Atleast one full product development in node.js,angular.js &amp; mongodb is highly preferred.
+Also looking for 1-3 years Hands On Developer.
+Should be open to learn &amp; implement new technologies.
+
+About Klenty - Klenty is an IIM/SRM Alumni startup. Klenty is a Customer Knowledge &amp; Sentiment Intelligence Tool for B2B Service companies using Emails for Client Communication. 
+Klenty is part of IBM's Global Entrepreneurship Program. Klenty is gaining traction/interest among potential companies/users. Bootstrapped initially, Klenty is finalising seed-funding stage.
+

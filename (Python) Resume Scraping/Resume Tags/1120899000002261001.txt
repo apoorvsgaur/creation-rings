@@ -1,0 +1,1 @@
+c,c++,digital,embedded,graphics,linux,mysql,network,phishing,php,python,qt,scripting,security,sql,tester,ubuntu,unix

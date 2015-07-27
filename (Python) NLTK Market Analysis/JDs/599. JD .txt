@@ -1,0 +1,15 @@
+
+If you're a great developer who wants to make a bunch of money working somewhere awesome then keep reading. We're a New Delhi Design &amp; Tech Studio that's looking for one awesome developer. So digest this ad, accept your fate, and take one last lap around your office to say goodbye to your friends because you're about to upgrade.
+The Job
+Our current stack runs on Java, XML, PHP, HTML, Javascript, SQL &amp; Android Studio. If you think you can handle that, then it'd be awesome if you also knew a few design consepts and can judge for yourself what looks good and what doesnt. Mostly looks great but you've never touched PHP or Javascript? That happens, so check them out and include a blurb with your job app with why you're excited to learn and use them.
+What You'll Be Doing
+You'll be working on our current internal projects and also on some client projects. These projects are unique and depending on your ability, you'll get to influence the design of most products. Every few months there'll be a new project and a new challenge put in front of you.
+Hiring Process1) You e-mail us the things requested in this job ad.
+2) We video skype and figure out if you know what you said you know.
+3) You come meet the team for a vibe check.
+4) Tell everybody about how great your life just became when you're hired.
+Good Ideas
+Send us some self assessed scores for the job requirements listed above. -- Don't you bullshit us, we're going to find out during the Skype call so don't waste your time or ours. -- Answer honestly, maybe we don't give as much importance to SQL as you think so 6/10 is fine. E-mail us an excerpts of some code you've written that you're proud of. -- Tell us why out of all the code you've written in your life you decided to send us that. Type something to us. Anything. Tell us something about yourself. -- This section will not be graded.
+You're Doing It Wrong
+I have to go read through my notes on algorithm efficiency and study up on logic brain teasers. -- Nope. I need to update my resume. -- Nah, if it's out of date just put NEEDS updating. I better get my interview clothes dry cleaned. -- Slow your roll, after the e-mail screen it's a Skype video call.
+

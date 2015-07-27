@@ -1,0 +1,1 @@
+angularjs,bootstrap,css,css3,git,html,javascript,jquery,js,knockoutjs,linux,photoshop,python,sass,sql

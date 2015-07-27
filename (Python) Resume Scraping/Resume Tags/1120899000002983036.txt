@@ -1,0 +1,1 @@
+c,css,eclipse,html,java,javascript,jsp,mysql,oracle,phishing,photoshop,php,security,sql

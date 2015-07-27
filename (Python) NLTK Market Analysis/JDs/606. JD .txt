@@ -1,0 +1,24 @@
+
+Rockmetric (www.rockmetric.com) is the next generation analytics platform to help you understand how each customer uses your product across web and mobile.
+Our sophisticated platform provides flexible reporting on engagement trends, user paths and retention levels for user segments across device type and location. Our actionable metrics will help also identify user drop-offs and target them to drive growth in conversion, retention and engagement. 
+We already have top-notch users from sectors like financial services, education, media and publishing, consumer apps and SaaS applications.
+The founder of Rockmetric is an alumnus from the Indian School of Business with significant experience in strategy consulting, data driven research and technology. Our office is located at the Digital Media Zone at the Bombay Stock Exchange. 
+Job Description
+
+Participate in architecture and technical discussions to build an enterprise level application
+Possesses deep understanding of web application development and agile development practices
+Must have practical experience with design patterns, especially, MVC based frameworks
+Should understand object oriented development, and apply OOP concepts to everything they do
+Must have experience in database design and performance optimization as well as proficiency in data structures and algorithms
+Good understanding of building robust backend systems i.e. web services, APIs and RDBMS from a consumer perspective
+
+Skills and Expertise
+
+Bachelors/ Masters degree in computer science or equivalent from a premier engineering institute
+1-4 years of experience in buidling highly scalable products (preferable in SaaS or Analytics product startups)
+Web development experience using LAMP (Linux / Apache / MYSQL / PHP) architecture
+Strong database skills, SQL, NOSQL
+HTML5, CSS3, JavaScript, XML, AJAX and Bootstrap
+Strong analytical and problem solving skills
+
+

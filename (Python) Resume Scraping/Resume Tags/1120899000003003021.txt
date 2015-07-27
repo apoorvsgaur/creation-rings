@@ -1,0 +1,1 @@
+angularjs,css,django,frontend,git,html,html5,javascript,linux,mysql,php,postgresql,python,security,sql,stack,trading,wordpress

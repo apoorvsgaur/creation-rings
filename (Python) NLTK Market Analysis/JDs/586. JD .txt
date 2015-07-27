@@ -1,0 +1,9 @@
+
+Tookitaki is a marketing analytics/intelligence company. We work on consumer behaviour prediction and modeling. To augment our ongoing work,  we want to hire a senior programmer in our backend team. 
+The right candidate for this job will have built large scale machine learning based systems using some map-reduce paradigm and infrastructure. For example - You could have implemented a clustering algorithm that uses unstructured data sets of a couple gigs. You could have done this using Spark or Mahout or just your own implementation on top of a map reduce framework such as Hadoop.
+What we are trying to solve is very open ended - so you have to be ok with a lot of ambiguity and randomness. More than anything you should be willing to experiment a lot and fail fast. 
+Should this pique your interest, please reach out to us and apply. We are a very open company and we have raised a million $ seed round. We are generous with salary and other perks. We are located in a very serene neighbourhood in Koramangala. 
+What will the interview be like - Well there will be no interviewing - We have tried telephonic and other interviewing techniques in the past and we have realized the best way to hire is to plainly see how you work with us. So we want you to spend a day with us and hack on our problems. 
+Obviously we cannot ask everyone who applies to come and spend a day with us. So our first filter is your github/bitbucket profile. If you don't have such a profile just send us a plain text of your resume and some code that you have written.
+We really are not interested in the number of years you have worked - what we are interstesd is in your ability to build large scale learning systems. So the senior tag in the JD is not for the number of years of experience but for your collective ML skill set. 
+

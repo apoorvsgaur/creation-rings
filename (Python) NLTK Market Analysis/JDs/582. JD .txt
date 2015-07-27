@@ -1,0 +1,17 @@
+
+Required Skills:
+Android UI ,App Development from Scratch, NDK, REST API,XML/JSON , Git/Svn,
+If you are a Android Developer, a person who loves to be be both a Developer and Innovator .Please read on!
+Theatro is listed as one of the top 10 IoT startups in CIO magazine. Come be part of an exciting new company and grow your skills with us.
+Candidate will get to work on state-of-the-art technology, being built in-house.We need enthusiasm for problem solving, as we have plenty to be solved here.
+What are we looking for?
+4+ years of Android Application development experience preferably from scratch.
+Ability to develop optimized UI .
+Must have experience on application which have background execution enabled.
+Knowledge of how to debug and tune applications for performance.
+Experience with Android framework
+Experience in consuming web services (SOAP/REST/AXIS) and processing data (XML/JSON) is essential.
+Experience in Voip Technologies is an added advantage.
+Bachelor's degree in Computer Science or related field or equivalent experience.
+
+

@@ -1,0 +1,6 @@
+
+Mandatory Skills : PHP, MySQL and any one of the CMS (Magento, Joomla, Drupal etc.) knowledge 
+1. Trained or Experienced in PHP, MySQL, HTML, CSS, JavaScript and CMS.2. Must have capacity to work independently and also as a part of team.
+3. Experience in analyzing requirements and estimate for assigned work
+4. Knowledge on eCommerce applications
+

@@ -1,0 +1,21 @@
+
+Who :  Geeks (you know who you are) .  0 - 4 years experience.
+Know-how : 
+ESSENTIAL 
+
+ GIT : Version control. 
+ Linux : Comfortable with major distributions and the command line.
+
+EVERYTHING ELSE (we're not picky about this; more the merrier)
+
+ Javascript / Coffeescript in the browser and/or node.js
+ Node.js with popular open source libraries.
+ Any / all of these data stores : MySQL / Redis / MongoDB / Neo4J
+ Any /all of major smartphone platforms - Android, iOS, Windows phone 8, BlackBerry
+ HTML5 web applications with MVC architecture - BackBone / Angular
+ Java / Ruby / Python.
+ Smartphone/online / agile product development.
+
+What you will get :
+ Competitive salary in a cool and fun working environment along with additional perks and benefits.
+

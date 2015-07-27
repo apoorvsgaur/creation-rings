@@ -1,0 +1,19 @@
+
+Overview:-
+Eventus Brand Labs Engineering (brandlabs.co.in) is a small, fast-moving team dedicated to fundamentally changing the way enthusiast communities buy and interact online. We’re looking for team players with natural product intuition who can work harder, faster, and smarter without sacrificing technical excellence. Given our distinct hybrid of community commerce, you should be comfortable in uncharted territories, and you should be pumped to build systems that could scale to millions of users one day. As a full-stack android engineer, you’ll have a direct impact on the social, mobile &amp; technical experience that will empower users to choose to best products at the right prices.
+Skills :-
+
+Strong OOPs fundamentals, Java , XML, JSON, Web Services, SQLite databases
+Proficient with developing optimised UI for different android versions and device
+Web Services (REST &amp; SOAP) experience
+Excellent command over Android SDK
+Sound knowledge of Android Activity life-cycle and different application components.
+Exposure to Location-Based Services, Supporting multiple screens, Security and Permissions,
+Widgets and social APIs integration will be an added advantage
+DetaiIed-oriented (where is the spelling mistake in this bullet point?)
+Consider rapid &amp; high-quality development both requirements, not trade-offs
+
+P.S.: If the candidate is good enough, we are open to include some equity in the deal.
+Job Perks
+Working with young like-minded individuals who want to build something special, No formals, Work at your own timings but get the job done
+

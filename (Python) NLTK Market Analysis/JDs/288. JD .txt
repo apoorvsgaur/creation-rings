@@ -1,0 +1,36 @@
+
+We are looking for passionate backend programmers to join us at OoBI, recently acquired by PropTiger to build next generation applications. We are transforming the way real estate is bought and sold online and offline.
+Role
+
+Design, build, test and deploy complete backend applications
+Closely work with front end team for end to end solution execution
+Work with Database design team
+Work with design and business team to understand requirements and translate them to functional requirements
+Develop backend application keeping functional requirements in mind
+Test new frameworks and build prototypes to do comparative analysis and make the final one as a part of deployable application
+Develop apis to be used by different front end application for different form factors
+
+Skills
+
+PHP, JSON, XML, MYSQL, MSSQL
+Strong Knowledge of core PHP
+Ability to work in PHP with any framework like CodeIgniter, CakePHP, ownCloud etc.
+Hands on experience with LAMP/XAMP platform (PHP, MySQL)
+Hands on and intermediate knowledge of HTML, CSS, Javascript, AJAX and JQuery etc
+Have worked on or can switch to work on AngularJS, reactJS
+
+
+We are looking for people with
+
+Rapid prototyping attitude - examples to show for, break stuff, build new things 
+Good and sanitized coding standards
+Pays attention to detail
+Desire to build high quality web products
+Top down analytical approach
+Dependent in the times of need
+Eager to work in fast paced startup environment
+Good communication skills
+
+Qualifications: B.E./B. Tech / M.Tech / MCA (IITs and NITs preferred)
+Experience: atleast 2 years of coding experience. Freshers may apply with good programming background with examples to prove
+

@@ -1,0 +1,14 @@
+
+DataGorilla is an early stage VC funded company that aims to change how companies look at their data.
+DataGorilla's Big Data Platform has been designed to scale to massive data volumes of order 100s of TBs of data, hundreds of dimension and support real-time, ad-hoc and pre-canned analytics requirements in a holistic manner. Technology stack is based on Big Data/Hadoop and NoSQL systems (Mongo, ElasticSearch), Graph Databases etc.Data Platform Team is responsible for building massively scalable Big Data platform to manage all data feeds . Duties will include development and delivering various features, managing and enhancing large-scale data pipelines, debugging and supporting production &amp; operability issues. You will work within a cross-functional product development teams through all steps of the development process.
+Job Perks
+
+Free food, snacks and drinks
+Free MBP or iMac
+Competitive salary
+Free gym membership
+Flextime
+All-expense-paid technical conferences
+
+
+

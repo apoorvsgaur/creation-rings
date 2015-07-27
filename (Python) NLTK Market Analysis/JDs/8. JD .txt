@@ -1,0 +1,23 @@
+
+You want to learn at a fast pace, work on niche projects, a lot of new things in the world of tech. then you need to apply right now! But ensure that you are very good  in these skills and have an overall experience of 3-4 years in IT
+
+Asp.net MVC,
+Jquery, SQL, Stored Procedures
+Architecture and Design, Best practices in coding
+TFS/ SVN/ VSS
+JSON, XML, Ajax
+HTML, CSS
+WCF, REST API/ web services/ Web Api
+Entity Framework
+
+We would love it if you also have a good knowledge on
+
+IIS
+JS Frameworks such as Angular.Js/ KnockOUT.Js
+. Design patterns
+Microsoft Enterprise Library
+Log4Net
+nHibernate
+
+
+

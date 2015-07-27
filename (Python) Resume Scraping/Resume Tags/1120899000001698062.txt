@@ -1,0 +1,1 @@
+bootstrap,c,c++,css,html,javascript,jquery,python,rdbms,sap,shell,unix

@@ -1,0 +1,26 @@
+
+Requirements
+
+Intense, proven experience with PHP, MySQL databases, and JavaScript.
+Highly values passion, openness, and giving.
+Demonstrated enthusiasm for open source philosophy and community involvement, at web forums and Drupal events for instance.
+Takes ownership and pride in on time, top quality product delivery.
+3 years experience in developing automated backend database as well as web portal design and implementation
+Familiarity with Meteor.js, Backbone.js, or Node.js JavaScript frameworks.
+Loves automated testing and techniques using PHPUnit, Simple Tests, and Selenium.
+Bachelor’s or higher in a technical, scientific, or engineering discipline.
+Knowledge of Ruby, Python, or other modern programming or scripting language.
+Works with other modern application development frameworks.
+Good communication skills with possibility of Leadership role
+
+Bonus Points
+
+Experience building websites / dashboards
+Experience working with large, high-performance website.
+Know’s the difference between 'echo' and 'print'.
+Understand differences of HTML and HTML5, CSS and CSS3.
+Contribution to open source projects. If you have a github id and a linkedin id, please provide
+Knowledge of Julia
+
+ 
+

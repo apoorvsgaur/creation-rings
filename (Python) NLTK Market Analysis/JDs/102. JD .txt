@@ -1,0 +1,5 @@
+
+Senior and Junior positions open for enterprising, young Android developers at a fast growing innovative product startup working on game changing video delivery platforms.
+1. 1+ years of solid experience in Android Development2. Proficient in Android SDK, ADT, Eclipse/Android Studio3. Experience in UI development - Complex views/layouts, custom UI views4. Experience in Web Service Integration, XML/JSON parsing, SQLite5. Exposure to performance engineering, memory footprint management and NDK experience desirable6. Strong knowledge of Core Java and Object Oriented Programming (OOP) concepts7. Experience in at least one code versioning system like SVN, GIT
+The ideal candidate will be a go getter who can work with teams, innovate and lead world class product development.
+

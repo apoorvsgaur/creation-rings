@@ -1,0 +1,31 @@
+
+Required experience includes:
+
+Linux and Windows administration
+Network engineering that includes both LAN and WAN design, not just maintenance
+MySQL, MongoDB, or other database expertise (you name it, we probably use it)
+Experience using Amazon EC2 enough to have a strong opinion
+Automation! We use Chef as well as our own tools. What do you use?
+
+Ideally you can answer most of these questions:
+
+What’s an availability zone?
+RAID-5 or RAID-10?
+Why does Munin not scale?
+What’s worse, jitter or latency?
+How can you use 95p to get free transit? (not that we’ve ever done that)
+What are the (fewest) flags needed for ffmpeg to extract a single audio stream from a WebM file to an audio file that can play on an iPod shuffle?
+
+What about the bonus skills?
+
+Experience with python or ruby
+Extensive knowledge of H.323, SIP, XMPP, and any other buzzworthy technology in video / voice conferencing
+BGP, OSPF, ECMP, other buzzworthy neteng acronyms.
+
+What would a typical day be like?
+
+On-call rotates, just wanted to get that out of the way
+Ops works closely with the dev team and product management, very closely, so you must play nice with others
+Everyone juggles long-term projects with real-time monitoring and triage. How? Communication… so excellent communication is needed all the time
+
+

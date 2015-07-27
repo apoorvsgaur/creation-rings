@@ -1,0 +1,16 @@
+
+Academic Background, Skill Sets and Temperament
+1) Bachelor’s in Computer Science.
+2) 3+ years experience as a full stack software developer.
+3) Have/Achieve in 3 months expert level programming skills in Python/Scala.
+4) Familiarity with continuous delivery and the ecosystem around continuous delivery (Go/Bamboo/Jenkins).
+5) Familiarity with Amazon's Cloud Computing ecosystem.  
+6) Experience with big data and the ecosystem around big data (Hadoop and friends).
+7) Ability and preference to work in a group rather than individually.
+8) Good at understanding/communicating complex ideas/concepts both verbal and written.
+Job Description
+1) Develop and maintain infrastructure for data scientists to extract data from production systems.
+2) Develop and maintain experimental infrastructure for data scientists to build/test models/hypothesis.
+3) Develop and maintain dashboards/reporting infrastructure for models developed by data scientists.
+4) Productionize and take end-to-end ownership of models/data artificts developed by data scientists.
+

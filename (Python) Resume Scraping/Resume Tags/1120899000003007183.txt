@@ -1,0 +1,1 @@
+analytics,api,aws,eclipse,hadoop,hbase,hive,java,linux,map,mongo,mysql,network,nosql,optimization,qlikview,r,sap,scripting,shell,sql

@@ -1,0 +1,29 @@
+
+Must Have:
+
+0 to 2 years of expertise in Objective C &amp; iOS SDK
+Good understanding on the upcoming Swift SDK
+Solid understanding of Mobile Development Life Cycle
+Comfortable using tools like Storyboard,Instruments
+Good understanding of Object Oriented Design and Development
+Good understanding of Data Structures and Algorithm Design
+Good understanding of Relational Database Systems
+
+Good To Have:
+
+Strong understanding in Agile Development process
+An eye for good design
+Decent typing skills
+Basic understanding of Software Development Life Cycle
+Debugging skills
+
+Bonus Points:
+
+Strong knowledge in C &amp; C++
+Familiarity with *nix systems like Linux or Macintosh
+Degree from a reputed university
+
+
+NOTE: Freshers with Internship experience in iOS can also apply.
+
+

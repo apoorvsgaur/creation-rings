@@ -1,0 +1,11 @@
+
+We're currently looking for a talented, self-motivated Developer to join our team in Bangalore working on an exciting platform. Preferred - 6 months to 1 year experience.
+Skills:
+
+PHP, MySQL, HTML, CSS, Javascript, JQuery
+Familiar with Bootstrap and Zend framework ( or any knowledge of any other framework is a must ) 
+Knowledge of Web services, APIs and JSON is a must.
+Knowledge of basic linux commands. 
+Knowledge of NO-SQL databases like mongodb or graph databases is a plus. 
+
+

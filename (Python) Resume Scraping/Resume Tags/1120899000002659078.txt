@@ -1,0 +1,1 @@
+.net,ajax,asp.net,c,c++,css3,html5,javascript,jquery,mysql,oracle,photoshop,php,postgresql,python,sql,ubuntu,wordpress,xslt

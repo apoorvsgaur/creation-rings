@@ -1,0 +1,13 @@
+
+
+
+1+ Years of Experience in Design and development of web based applications using Java/J2e technology Stack. 
+Experience in interacting with Customer to gather requirements. 
+Converting requirements into high level specs and implementing the same. 
+Giving business solutions for the problem customer raise. 
+Strong knowledge in Frameworks such as Struts, Spring and Hibernate. 
+Strong knowledge in Sql. 
+Strong Knowledge in HTML, CSS, Javascript. 
+Good to have Javascript Frameworks React, Backbone, Angular etc.  
+
+

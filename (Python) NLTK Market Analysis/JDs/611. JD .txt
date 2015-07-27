@@ -1,0 +1,22 @@
+
+We need to get our founding engineering team in place. We need to find engineers who have both the technology and philosophy required to build a world class tech company. Basically we need minions with enough firepower to take over the world.
+Required skills -
+
+Good understanding of iOS fundamentals
+Objective C
+Interface building using xCode
+Generic mobile platform philosophy and UX design
+Understanding of XML/JSON
+Knowledge of SQLLite or similar SQL based DB
+Testing methods and processes
+
+Required experience - You must have built and deployed at least one full scale iOS application.
+Desired skills -
+
+REST
+DB optimization
+MongoDB (or any such noSQL DB)
+UI development - HTML5, CSS3
+API integration
+
+

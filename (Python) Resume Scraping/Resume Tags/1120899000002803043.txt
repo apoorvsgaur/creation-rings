@@ -1,0 +1,1 @@
+.net,analytics,angular,c,c++,digital,embedded,hadoop,java,javascript,jquery,matlab,model-view-controller,modeling,mongodb,network,networking,perl,phishing,postgresql,python,qt,r,rdbms,saas,sas,sdlc,security,soa,testing,vb.net,xslt

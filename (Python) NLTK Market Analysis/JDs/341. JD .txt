@@ -1,0 +1,19 @@
+
+Icecream labs is looking for computer vision engineers and scientists to be part of breakthrough products. You will be encouraged to think out-of-the-box, innovate and find solutions to real-life problems. Our culture - like technology - is open and without any boundaries. Responsibilities
+
+Develop models and inference systems, which can extract rich and detailed context from images and videos. This includes facial analysis, object detection, scene analysis, concept recognition, etc..
+Develop multimodal learning to understand video and associated text.
+Work with product managers and business partners to lead the development of products
+Keeps track of developments in field both in academia and in industry.
+
+Requirements
+
+Collaborative, positive, team-oriented, creative mindset and ability to thrive in a fast-paced, dynamic work environment.
+Experience with object recognition and tracking
+Ability to independently and successfully implement cutting edge algorithms 
+Field of Study: Computer Science with experience in one or more of the following areas Machine Learning, Computer Vision, Video Processing.
+Years of Experience: 4-8 years related experience after Bachelors, 2-6 years after Master’s, or 0-3 years after Ph.D.
+Location: Bangalore or San Francisco
+
+Company:Icecream Labs is a technology company that was founded in 2013, which now operates out of San Francisco and Bangalore. We focus on computer vision and deep learning. Our aim is to mimic the human vision system and use it to drive business solutions. Our first product, inPici, is a contextual Visual Ad platform that enables consumers to discover brands based on the photos and videos they are viewing. Currently, the company has patents pending in both computer vision and web technologies. We have a stellar team plucked from great schools like Stanford, IIM and IIT.
+

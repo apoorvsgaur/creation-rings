@@ -1,0 +1,8 @@
+
+Love developing  robust Android applications  ? Hipcask is hiring.
+Hipcask (formerly Indian Wine List) is India's first and only wine focused smart phone app and consumer platform. The app is a digital sommelier for any customer interested in wine in India, providing details of wines, whiskies and craft beers along with tasting and pairing notes.
+Our Requirements
+· You should have fiddled with the Android SDK for 2 or more years · Strong fundamentals in OOPS . . An eye for intutive design.. Knowledge of web applications and MongoDB is an added plus.    
+ ---&gt;Additional brownie points if know your way around GIT and have contributed to github .
+Job perks include wine tastings and an opportunity to work with a cool team towards building an awesome app.
+

@@ -1,0 +1,39 @@
+
+We are disrupting a multi-billion dollar industry and we're breeding the finest tech in the country to make it happen. If you have what it takes and you're committed to code, you're in the right place. Keep reading.
+
+You should have -
+
+Experience developing, releasing, and maintaining native iOS applications (point us to your work in the App Store)
+Deep knowledge of Objective-C
+Experience working in a collaborative team environment
+Experience developing testing suites for mobile applications
+
+
+Brownie points for -
+
+A BS or MS in Computer Science or Engineering from a top school, but a wonderful project list trumps all
+Prior startup experience is fantastic (but not necessary); being scrappy will help you hit the ground running
+Experience developing testing suites for mobile applications
+Experience with web technologies (javascript, CSS, HTML5, ...)
+Experience with iBeacons and/or BLE
+Experience with advanced animations &amp; transitions using Core Animation, UIKit Dynamics and/or Pop
+Experience with Core Data and Magical Record
+Experience with AFNetworking 2.0
+Swift experience
+
+
+Even more brownie points if -
+
+You're a gamer. DOTA fans always find their way to Super.
+You can play an instrument or sing or possess some other such skill that can add interest to our parties.
+You play a mean game of TT.
+
+Job Perks
+What's in it for you -
+
+Excellent pay, equity, great perks, young, talented co-workers, and a kickass office in the heart of Mumbai.
+A flat structure and complete flexibility.
+At Super, you'll be building something that will impact billions of users. It's a product that you, your friends and billions of Indians will actually use someday.
+Super is a startup fully equipped to make it BIG. This could be your chance to grow with us and be part of something truly awesome.
+
+

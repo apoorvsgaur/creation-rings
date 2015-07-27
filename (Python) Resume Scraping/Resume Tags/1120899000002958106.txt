@@ -1,0 +1,1 @@
+bash,hadoop,hive,html,java,javascript,js,linux,mysql,php,python,ruby,scripting

@@ -1,0 +1,1 @@
+aws,chef,devops,elasticsearch,git,hadoop,hbase,hive,java,jenkins,kafka,linux,map,mysql,nagios,nosql,perl,python,redis,ruby,scripting,security,shell,testing,vpn

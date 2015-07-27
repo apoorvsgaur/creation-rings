@@ -1,0 +1,58 @@
+
+How Indeed works
+Indeed works when talented, passionate people come together to get a job done.Come help Indeed work. We are looking to grow our teams with people who share our energy and enthusiasm for creating the best experience for job seekers.
+How a DevOps engineer works:
+Responsibilities:
+
+
+Maintain existing and future custom application code and configuration
+
+
+Regularly interface with developers and team members for capacity and architecture planning
+
+
+Make recommendations for improvements to existing architecture
+
+
+Participate in regular deployments of code updates
+
+Other tasks as assigned
+
+Requirements:
+
+
+Undergraduate degree in Computer Science or similar work experience
+
+
+At least 2 years of proven hands-on experience deploying and maintaining complex, custom, multi-tiered application systems in a complex, global, online operations group
+
+
+Experience with virtualization technologies and AWS.
+
+
+Experience troubleshooting Ruby on Rails platform
+
+
+Experience with provisioning and configuration management tools and technologies such as Ansible, Puppet, Chef, Salt, Rundeck, Spacewalk,  kickstart, and others strongly preferred
+
+
+At least 4 years of experience with Linux as a power user or administrator
+
+
+Strong scripting skills in Python, PERL, Bash or others
+
+
+Ability to research technical problems and solutions online
+
+
+Interest in learning and taking on increasingly complex tasks
+
+
+Strong organizational skills and detail-oriented work ethic
+
+Willingness to work flexible / odd hours at times, based on needs, including on-call rotation
+Strong communication skills (Written/spoken/inter personal)
+
+Job Perks
+Free meals, snacks, beverages, happy hours 
+

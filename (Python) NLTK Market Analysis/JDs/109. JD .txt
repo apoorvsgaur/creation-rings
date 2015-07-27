@@ -1,0 +1,20 @@
+
+We are a no-sweat technical partner for early stage entrepreneurs to launch ideas from scratch and for later stage startups to build more quickly and affordably. 
+<a href="https://medium.com/@launchyard/our-existence-progress-and-goals-b9bc8b7767b0?source=most-recommended" rel="nofollow">In 2 years of our existence, we have established a reputation as a strong technical partner to build products for startups and are ready to launch our flagship product aimed at freelancers and entrepreneurs building mobile and web apps. We're looking for someone to join our front-end engineering team in Bangalore.
+Skills needed
+
+In-depth knowledge of Javascript.
+Hands-on experience to multiple Javascript libraries.
+The ability to hand-code HTML5 and CSS with ease.
+Knowledge of LESS or Sass/Compass or any other CSS-Preprocessor.
+Self-motivated and run efficiently without close supervision.
+Have a good grasp of development tools and environment - Git, Mercurial, et al.
+
+What you get
+
+An exciting career with a growing company.
+Competitive salary, bonuses packages.
+Free lunch as well as endless snacks and beverages.
+We care about having a fantastic culture optimized for doing our best as a team and individuals (not just lip-service).
+
+

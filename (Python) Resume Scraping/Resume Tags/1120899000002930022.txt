@@ -1,0 +1,1 @@
+.net,3d,android,angular.js,apache,asp.net,backbone.js,bootstrap,c,c++,css3,frontend,html5,ios,java,javascript,jquery,mssql,mvc,mysql,native,node.js,oop,php,scrum,sdk,sql,ssis,testing,ubuntu,ui

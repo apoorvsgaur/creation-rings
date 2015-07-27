@@ -1,0 +1,7 @@
+
+Technical Requirements:
+
+Experience of building web applications using PHP (if Yii 2.0 - you are hired with no interview) and MySql.
+Experience working in JavaScript, HTML, CSS, JQuery.
+
+

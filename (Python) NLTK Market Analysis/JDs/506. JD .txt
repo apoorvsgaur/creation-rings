@@ -1,0 +1,24 @@
+
+Skill Set
+
+ 0 to 2 years of hands-on experience in developing software applications using either Java / C++/C#.
+ Demonstrable knowledge on data structures, algorithms, OS and web services  concepts.
+ Working knowledge of HTML5 / CSS/ Java script is plus.
+ Should be in top 1% in coding, analytical and debugging skills
+ Experience or Knowledge of cloud computing, Storage and Virtualization fundamentals is a huge plus !
+ Created at least 5 working projects during his degree using any programming language.
+
+Key Responsibilities
+
+Effectively develop Clean,scalable , well-structured and easily maintainable code in 50% of time than a competent coder..
+Design and/or Develop  UI components and web based applications for enterprise products.
+Operate effectively as an individual for quick turnaround of enhancements and fixes.
+Should be comfortable working in Agile Environment.
+Work closely with the team leads on various aspect of product development.
+Keep abreast of emerging systems/storage management standards in the industry.
+
+ 
+About us
+Vital Labs is fast growing , innovative storage software provider which develops storage management, and backup recovery tools for enterprise storage such as vCenter plugins, SC addins, SCOM Management Pack, MS(SQL,Exchange) application consistent backup tools, SNMP agent, VASA providers, etc . Our mission is to make enterprise storage cloud ready.
+***Please dnt apply if you attended interview in last 6 months
+

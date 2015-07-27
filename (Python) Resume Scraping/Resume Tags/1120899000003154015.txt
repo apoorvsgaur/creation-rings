@@ -1,0 +1,1 @@
+api,chef,eclipse,hibernate,html,j2ee,java,javascript,jboss,jpa,jquery,jsp,kvm,mysql,network,networking,openstack,oracle,puppet,python,redhat,restful,ruby,security,servlets,shell,spring,struts,tomcat,virtualization,vmware,xml

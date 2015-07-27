@@ -1,0 +1,30 @@
+
+Simpli5d Technologies is looking for a Technology Guru to join the core team and spearhead the Tech operations of the company.
+ 
+About the Company
+Simpli5d Technologies Pvt. Ltd. is a product based ad-tech company specializing in Digital Engagement platforms. Started by IIM alumni, in a short span of two and a half years it has already become one of the most preferred advertising platform for global as well as national brands. 
+ 
+The company operates multiple platforms - NLPCaptcha, NLPVideo, NLPMobile and Komentbox. NLPCaptcha is the market leader of Captcha based advertisement platform serving millions of requests on a daily basis.
+Up till recently the Company was focussed on India but now it is going global with operations already started in Europe and the ASEAN region.
+Simpli5d Technologies was selected amongst the Top 5 most promising startups in the Banaglore chapter of Ad-tech, 2012. Also, selected as one of the Asia's Top 100 emerging Companies – 2013 by Red Herring.
+ 
+The company is well funded via experienced and professional investor firm.
+ 
+Location – Gurgaon
+ 
+Job Profile
+Simpli5d Technologies is looking for an Internet Technology Guru who has proven skills in building highly scalable web applications and possesses deep expertise in "all things web".  A technology agnostic person with excellent R&amp;D skills who relishes to face challenges and come up with the best possible solutions in the shortest possible time. Capability to take on the responsibility for the entire gamut of products (from product management to development to handling the servers) and to efficiently lead and manage the tech team.
+ 
+Key Responsibilities
+
+Manage multiple platforms with a common backend to handle billions of ad impressions per month
+Continuous evolution of the architecture and the product features by deciding on the right technologies for the various components within the system
+Hands on coding experience and actually loves do the coding
+Integration with all kinds of platforms – web (Java, .net, ruby on rails, CMS platforms – drupal, joomla etc.) and mobile (all platforms), for smooth product integration with various other platforms
+Excellent understanding and experience in managing Servers - Setup and Scale Servers based on traffic increase to handle peak traffic loads using diverse components such as NGinx, Mysql Galera Xtra-DB Cluster, HAproxy, DNS Failover and Load Balancing, Couchbase Cluster as well as Amazon EC2 \Rackpsace cloud servers and Load Balancers
+Prototyping new ideas and rapidly bringing them to market
+Lead and manage the Tech team by taking on complete responsibility
+
+ 
+Compensation – Salary + ESOPs
+

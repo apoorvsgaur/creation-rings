@@ -1,0 +1,15 @@
+
+QA Engineer
+&lt;h3&gt;Mathletics LLP – Pune, Maharashtra&lt;/h3&gt;
+JD for QA
+• Candidate will be responsible for doing critical end-to-end testing of javascript, jQuery and angularjs also Abobe flash platform based application.
+• Experience in testing and tracing for Hybrid HTML5 development for iOS &amp; Android based application.
+• At least 2 years experienced in eLearning background
+• Also have to be comfortable with initial manual testing of new features of application
+• Provide the status report /bug report to respective developer and accordingly able to give final sign off to the application/activity/game.
+• Candidate will be responsible for functional and GUI testing of an application/activity/game developed.
+• Should be self-directed, team oriented with strong ability to work with the cross functional teams
+• Logs, tracks, and verifies resolution of application/activity/game defects.
+• Should have the ability to handle multiple, complex application/activity/game and have the flexibility to work in a very dynamic environment handling work pressure if required
+• Basic awareness of Abobe flash javascript, jQuery will be added an advantage.
+

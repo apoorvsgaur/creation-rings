@@ -1,0 +1,1 @@
+analytics,modeling,qlikview,r,sas,statistics,testing

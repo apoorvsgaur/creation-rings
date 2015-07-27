@@ -1,0 +1,6 @@
+
+Are you looking to join an exciting fast moving startup which is working on ground breaking software geared for the hotel and hospitality industry. When we say ground breaking, we mean cutting edge algorithm and systems development in a industry which faces daily external factors deciding room pricing and inventory management on a day to day basis. 
+We are more than happy to pay above market salary for Node.JS programmers with at least a year or a couple projects worth of relevant experience. Experience with Express web application framework is a plus.
+Experience with a JavaScript frameworks such as Angular JS, Backbone and Knockout is also a plus but these can be learnt on the job.
+
+

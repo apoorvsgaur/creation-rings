@@ -1,0 +1,13 @@
+
+Position DetailsDESCRIPTION
+Backend web development for a world-class fin-tech service
+Interested in working for an exciting web product that will be launched in multiple countries in 2015? Want to be a part of our mission to transform how people invest? Want to work in the hyper-growth industry of automating the world of B2C investment management?
+We are looking for an enthusiastic backend web developer who will be responsible for the coding of our exciting financial-technology product. You will build various modules of our website from concept all the way to completion from the bottom up, fashioning everything from the home page to complex functions.
+Tasks: * Develop backend modules, and integrate data from various backend services and database using PHP/MySQL/JSON * Write well designed, testable, efficient code
+Mandatory Skills: C Programming
+Experience: 0 to 2 years of relevant experience. Smart and skilled engineering graduates with no prior industry experience are also considered Current Location: Bangalore Notice Period: 30 days or less
+We offer a very competitive salary based on your skill-sets.
+Skill Check ========= Good coding expertise expected MySQL: Should have worked on Stored Procedures and Database/Table Design CodeIgniter: [Preferable] Working knowledge on the specific PHP framework, CodeIgnitor JSON: [Preferable] JSON parsing and generation
+Current team members in the startup QuietGrowth are industry experts based in different countries, with business degrees from Chicago Booth and INSEAD, and engineering degrees from PES Institute of Technology.
+Our parent company is QuietGrowth Inc, based out of the US., and we have a subsidiary company in Australia, QuietGrowth Pty Ltd.
+

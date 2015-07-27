@@ -1,0 +1,12 @@
+
+Magento Developer (2-5 yrs)
+
+Proficient in Magento development and should have worked for eCommerce projects. Other DONOT apply
+Should be a self-starter. Will be the primary resource coding for the eCommerce site using Magento backend.
+Work involves direct responsibility for responsiveness, site speed, load balancing, new product features. To mentor 2 junior developers for development and maintenance of the site.
+Well versed in AWS configuration, setting up architecture and tuning the settings for traffic
+Knowledge of MySql database
+Must know coding in PHP
+Understanding of CSS, HTML5, Java script, jquery. Involves regular work on design and UI.
+
+

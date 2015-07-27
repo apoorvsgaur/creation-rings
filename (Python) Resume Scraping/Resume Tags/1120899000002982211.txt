@@ -1,0 +1,1 @@
+angularjs,bootstrap,c++,html,java,oracle,python,sql

@@ -1,0 +1,47 @@
+
+Why we do?
+We at Squarehoot  (www.rutogo.com) are an angel funded technology startup trying to bring efficiencies to the intercity taxi market.  The Indian outstation taxi market is highly nascent with a market size of $7-9 Billion and growing at 40% per annum. There are roughly 4,00,000 cabs which are unorganized  and mostly operated by boutique operators. We bridge the gap between the end user and the taxi supplier through our technology, which helps the users to have a seamless hassle free and transparent booking.
+The founding team consists of member graduated from IITs, PEC and IIM. We have got hands on experience in multinationals, garage startups and also built products from scratch.
+What we need?
+We are looking for a tech co-founder to join us full time as soon as possible. We operate through mobile and the web app. You will be part of the early founding team. You need to make sure the company's technology strategy serves its business strategy. Need to build a strong technology team from scratch and be responsible for the growth of the company. In short, we are looking for someone who would take the company to the next level.
+What will you do? 
+
+Take active part in hiring future developers
+Architect, design, build, deploy and maintain scalable, re-usable software
+Help us build awesome backend for our mobile apps
+Work on feature development, designing solutions and deployments etc 
+
+What you must have. 
+
+Experience in python, sql, mysql, PostgreSQL and django is mandate
+Strong skills with HTML, CSS, JavaScript.
+Working knowledge of py-redis, celery, jinja would be a big plus.
+Basic knowledge of Linux/Unix is required 
+
+Some things which excite us
+
+Prior entrepreneurial experience would add a lot of weight (even if it is selling lemonades)
+Having a great github profile
+Work on some open source projects
+Experience of using web hosting services like AWS, google cloud etc.
+Front end technologies and frameworks
+
+Other things
+
+The candidate must me located in Delhi NCR preferably Gurgaon
+Join us as soon as possible
+Graduate in any discipline or even if you dropped out
+This is an early stage position with good compensation and esop's
+
+Apply
+
+Mail us with your resume including some of your previous achievements with the job title as the subject line
+
+Job Perks
+Perks &amp; Benefits: 
+
+Stocks Options &amp;/or Salary 
+Lunch will be on us
+Team parties and outings in addition to huge hands on experience you get while building the product to be useful for millions of people.
+
+

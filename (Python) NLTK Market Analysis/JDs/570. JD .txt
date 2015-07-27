@@ -1,0 +1,47 @@
+
+Diet Code, a young vibrant development team from the land of beaches and coconuts in India: Goa, is seeking: JavaScript Developer to work on our exciting mobile product. This opening is for mid-level positions in which you will be working in fast-paced environment that promotes learning, facilitates teamwork, encourages open communication and finding dynamic solutions to issues.
+ 
+Requirements:
+
+You have at least 2 years working experience in developing user interfaces with HTML, CSS and JavaScript.
+Advanced level skills in developing web applications for desktop &amp; mobile devices with AngularJS, Backbone.js, Ember.js or similar JavaScript MVC frameworks
+Have experience and understanding of developing in an Agile Environment
+High level knowledge and practical experience of responsive design techniques
+Great understanding of progressive enhancement and modern approaches to browser support
+Converted to CSS pre-processors (preferably Sass)
+Good knowledge of JavaScript design patterns and best practices
+Experienced with version control via Git
+Great understanding of object-oriented CSS notation
+Experienced with CSS frameworks such as Bootstrap
+Experienced with writing Unit Tests for BDD frameworks such as Jasmine
+Must have a strong attention to detail and a thirst for results-oriented solutions
+Self-starter with the ability to take initiative and manage projects as they arise.
+Strong analytical skills and the ability to evaluate data to enhance decision-making.
+Ability to operate in a production environment as well as manage time for creative thinking
+Obsessive (bordering OCD) when it comes to clean, efficient code
+Passion for writing beautiful JavaScript
+
+ 
+Responsibilities:
+
+You are maintaining and extending our AngularJS based web application with new features and design changes to continuously improve the user experience
+You will be utilizing open source technologies such as AngularJS, Yeoman, Grunt, Sass, Git, Bower, jQuery, Karma, Jasmine, Underscore, JSONP, IndexedDB, Redmine and many more
+You will be working with third party services and APIs such as Sentry, Localytics, Cloudinary, Facebook, Twitter, Google+, Google Analytics, PayPal, Mandrill and UserVoice
+You are Involved in the concept development, planning &amp; implementation of the UI for our web app and homepage
+You ensure that the frontend of our web app is responsive and runs smoothly on mobile and desktop environments
+You ensure a smooth communication between the web app and our PHP &amp; Python based back-end servers via an RESTful API
+You ensure that the app is built using latest technologies and complies with web standards and best practices
+You have a high drive to find the best solutions for the concepts that are delivered.
+You continually communicate and collaborate with QA Manager, Product Manager, Art Director, Marketing and fellow developers in a multinational team based in India and Germany
+
+ 
+About us
+We are placed in Goa, one of the most beautiful state in India, home to lovely beaches, maritime atmosphere and envious bright sunny weather throughout the year. Our office, Diet Code is located at a stone throw away from a beach on fisherman's village. A typical day in Diet Code includes, project work interaction with bodacious dynamo sized colleagues from goa and berlin, glaring at the ocean whilst swinging from strategically placed hammocks at various spots. Additionally, everyone working here gets to actively take part in Team events, Team Outings, Workshops, Hackathons, Innovation Day, BBQ's, Popular gaming nights and so many more activities which embody the culture of working in our open office.Diet code develops a revolutionary application centered around news and personalization for the German and International market. Our passionate &amp; curiously growing development team seeks developers to carry the march forward. We are looking for a Senior Developer, PHP/JavaScript/iOS/Android Developers to join our team. You will work with our team to deliver reliable, efficient services to support new and existing client platforms. Revolutionary products need passionate people, so you will be interested in Diet Code if you are: 
+
+Respectful - Respect and humility towards members of the team is a rigid requirement. 
+Organized - We plan and schedule our work meticulously. 
+Collaborative - We are mirror image of our team, ability to work as a team is vital. 
+An Artist - We strive to develop quality products, and having quality craftsmen in team, keeps pushing the bar higher. 
+Experimental - Challenge the standard and forge your own niche, we embrace forward thinkers
+
+

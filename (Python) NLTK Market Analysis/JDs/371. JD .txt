@@ -1,0 +1,20 @@
+
+Technical requirements:
+
+Min. 2 years experience in iOS Application development for iPhone / iPad.
+Expert in Objective-C, Core Services, Cocoa Touch (Xcode 4 or 5), iPhone SDKs.
+Proficient with iPhone UIKit framework, OOPS Model Development concept
+Shoud have min. 1 iPhone app in the App Store
+You have a solid understanding of the mobile app development lifecycle.
+You love working with other smart people, collaborate and learn
+
+Job description:
+
+You will get involved our in-house projects on iOS application which are cosumer internet applications
+We promise you opportunities to build cool apps
+You will write elegant code and build some of the amazing consumer iOS applications.
+If it interests you, we will even give you opportunities in other technologies beyond iOS (other mobile platforms or server side technologies)
+
+
+Job location: Hyderabad
+

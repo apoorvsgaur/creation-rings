@@ -1,0 +1,1 @@
+analytics,apex,embedded,matlab,matrix,modeling,network,oracle,python,r,salesforce,scripting,scrum,sdlc,shell,sql,statistics,svn,testing,unix

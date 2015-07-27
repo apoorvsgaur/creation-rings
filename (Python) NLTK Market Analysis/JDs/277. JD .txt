@@ -1,0 +1,6 @@
+
+Product startup Clusterdyne is hiring python developers (or C++/java and willing to learn python) with an interest in linux,  distributed computing and web technologies. Full time or contract.http://clusterdyne.comWe will open source some of the work involving cloud computing and python devops, and your name will be associated with these open source products.You will have your freedom to contribute and develop your own ideas, in a lab like environment, and with a rigorous but agile development process.Must haves:* Python programming (or c++ with linux and willing to learn)
+* Linux fluency (could you install HDFS on a cluster?)* Application programming frameworks for python, html5, javascript.* The ability to learn new technologies quicklyDesirable:
+* Cloud services such as EC2 and Google compute
+* Modern web technologies: Bootstrap.js, jQuery, HTML5 etc* Devops tools such as Ansible, Vagrant, Docker.* Frameworks such as flask * PaaS platforms, openshift, openstack. There will be opportunity to learn these technologies if you do not have them. The things we look for are motivation, work ethic, curiosity, creativity, and speed.This role is suited for those with a one or two years of experience with Python (or C++ with linux and willing to learn).Freshers: may apply if you can demonstrate significant project experience.
+

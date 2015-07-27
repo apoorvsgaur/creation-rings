@@ -1,0 +1,22 @@
+
+Summary: Support, manage, co-ordinate and drive building of iphone projects from start to end in given time efficiently. Demo presentations to the clients, walking them through various stages of the project development and resolving complexities.
+ 
+Roles &amp; Responsibility:
+
+Understanding the project requirement and conducting Usability research. Conduct Usability research.
+Allocating task to the team based on the team’s experience and expertise.
+Help developers code the projects perfectly and be available as a mentor to them.
+Testing the applications and ensuring the programs and applications do not have glitches, errors, or low functionality. Fixing bugs, if any.
+
+ 
+Person Specification and Qualifications:
+
+A systematic approach to application integration
+Strong OOPS concept, and knowledge of database and SDLC.
+Defensive coding ability accompanied with strong analytical and creative problem solving skills.
+Knowledge of Xcode, Objective-C, Interface Builder and Cocoa and Cocoa Touch Framework, working with GPS, push notification, In- App Purchase, payment gateway etc.
+Should have used/ worked on Sqlite, Core Data, Webservice, APNS, Local notification, Calender, Facebook/Twitter integration, Graph, Barcode/QR code, Audio/Video streaming, Core Location, ePub/ PDF programming, Basics of core graphics etc.
+Knowledge of iTunes connect and Keychain is desirable.
+Should hold B.E./M.E./B.Tech/M.Tech/Msc-IT degree or any other equivalent qualification.
+
+

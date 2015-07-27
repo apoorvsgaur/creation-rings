@@ -1,0 +1,8 @@
+
+We are a stealth startup at the intersection of hardware, retail, payments and engagement. We use Java/Android, Python, Ruby, C++, assembly code, Docker and Redis to build this platform out.
+We are live and already running in lots of places.
+We are YCombinator funded. 
+We want a hacker who can build products and code the hell out of anything. We see a lot of people with concepts, but very few who can actually code effectively. We put a very high premium on code. We dont make distinctions of "backend", "frontend", etc. We all work at a product level - and work on UI/UX, modeling, code and testing cohesively. Which is why we expect you to have worked on UX or design at some point.
+This is a mobile-centric dev role - we will strongly prefer people with deep experience there.
+US stock options
+

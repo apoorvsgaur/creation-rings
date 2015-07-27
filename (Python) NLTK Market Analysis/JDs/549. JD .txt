@@ -1,0 +1,15 @@
+
+Stealth mode start-up is looking for talented individuals to work in the area of computer vision. Candidate needs to be able to understand research papers, device algorithms, implement the same and work with very little supervision.
+
+Desirable Skill
+1. Good understanding of Image Processing, Computer Vision and Machine Learning with projects to back the same.
+ 
+Required Skill sets
+1. Strong programming experience in C++ and knowledge of at least one prototyping/ scripting language : MATLAB/Octave, Python or R.
+2. Good understanding of Algorithms and Data Structures.
+3. Good knowledge of basics: Linear Algebra, Probability and Statistics.
+4. Good written and verbal communication.
+
+Experience Level. 
+Freshers from Top Colleges to 2 Yrs experience level.
+

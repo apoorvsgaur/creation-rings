@@ -1,0 +1,31 @@
+
+Position Title:
+Software Engineer  - Infrastructure, System Engineering
+How you’ll make an impact here:
+Ensure complex, large-scale systems are healthy, monitored, automated, and designed to scale. We work closely with our development teams from the early stages of design, all the way through identifying and resolving production issues.
+What you’ll draw on to crush it here :    
+
+Passion and energy. Because you love what you do, you bring infectious enthusiasm to all your endeavors. You always perform at your absolute best and see new challenges as an opportunity to contribute, make an impact, and grow.
+Commitment. Mumbai City never sleeps, and neither does BrowserStack. You care tremendously about keeping the BrowserStack experience consistent for customers and strive for the Best.  You are your harshest critic and hold yourself personally accountable, jumping in and taking ownership of problems that might not even be in your team’s scope.
+Primary point responsible for the overall health, performance, and capacity of one or more of our Internet-facing services.
+Solve difficult and open-ended problems, like virtualizing Mac OS X with GPUs, understanding the latency problems in different scenarios between different devices, or improving speed/response time of applications.
+Co-ordinate with external data centers in the event of provisioning, outages or maintenance.
+Acquainted with Rails and deployment tools like Capistrano.
+Assist in the rollout and deployment of new product features and installations, to facilitate rapid iteration and constant growth.
+Write programs/scripts to automate AWS, Ansible and Django based tasks.
+Be aware of current CVEs, potential attack vectors, and vulnerabilities, and apply patches as soon as possible.
+Handle incident responses, troubleshooting and fixes for various products/services.
+Work closely with development teams to ensure that platforms are designed with scale, operability, and performance in mind.
+Participate in a 24x7 rotation for production issue escalations.
+
+What we offer
+
+Competitive salary and benefits, including fully funded health plan
+Opportunity to help shape a big new consumer service and great team from an early stage
+
+@ BrowserStack:
+Build by Developers for Developers
+An online cross-browser testing product launched in August 2011, which provides a cloud platform where developers, testers and designers can test their web applications. We serve more than 1,000,000 registered users worldwide (30,000+ paying customers) including Wikipedia, Microsoft, Ubuntu, jQuery, Citrix, Adobe, Ebay, Stanford University, Lego and more. We're self-funded and profitable, with a team size of 60+ which we plan to scale to 125 in the next 6-12 months. 
+We believe in direct ownership of ideas and responsibilities in an environment where you get to learn a wide array of leading-edge skills. We're looking for talented, passionate and creative people, willing to give their 100 percent to building a high-class web product.
+Visit us at http://www.browserstack.com
+

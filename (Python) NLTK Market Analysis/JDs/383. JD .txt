@@ -1,0 +1,32 @@
+
+We’re looking for an Android developer to join our high-energy team. As an early engineer in the team, you have immense opportunities to grow through responsibilities and roles as we scale.
+We’d like you to have:
+
+1+ years of Android development 
+published at least 2 original Android apps 
+experience with Android SDK 
+experience working with remote data via REST and JSON 
+experience with third-party libraries and APIs 
+working knowledge of the general mobile landscape, architectures, trends, and emerging technologies 
+solid understanding of the full mobile development life cycle.
+
+At Unwired, you will:
+
+design and build advanced applications &amp; libraries for the Android platform
+collaborate with cross-functional teams to define, design, and ship new features
+work with outside data sources and API's 
+unit-test code for robustness, including edge cases, usability, and general reliability
+work on bug fixing and improving application performance
+continuously discover, evaluate, and implement new technologies to maximize development efficiency
+
+Why you?
+
+You're a brilliant developer with a passion for online technologies. 
+You love solving problems by thinking creatively. 
+You're excellent at communicating with your team and with clients. 
+You're great at designing/implementing effective solutions, both large &amp; small. 
+You have extensive experience developing and extending websites and web based applications. 
+You love learning new skills and working with new technology. 
+You're passionate about writing clean, extensible code.
+
+

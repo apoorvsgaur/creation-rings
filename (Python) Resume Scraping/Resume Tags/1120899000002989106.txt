@@ -1,0 +1,1 @@
+.net,angular,angularjs,asp.net,bootstrap,c,html,jquery,js,linq,mvc,rdbms,sdlc,sql,svn,testing,ui

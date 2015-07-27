@@ -1,0 +1,24 @@
+
+The Porter ( https://theporter.in/ ) is a funded early-stage startup disrupting the logistics space in india. We are an online marketplace for surface logistics and are trying to address market inefficiencies and low capacity utilization in the logistics sector, namely difficulty in getting the return trip/fare or idle unused inventory using mobile technology. We are working on cutting-edge scheduling and route optimisation algorithms, payment solutions and fraud prevention strategies that scale.
+We're looking for team players with natural product intuition who can help us build world class solutions for the logistics space in India. As a member of our  technology team, you'll have a direct impact on the customer experience for both customers and drivers.You will be developing various parts of the application that will directly affect the user experience .We are working on some ground-breaking assignment and fleet optimisation solutions, dynamic pricing algorithms, active-geofencing and heat-map analysis. You’ll get an opportunity to work with some of the best minds in the country to make a major dent in the 150 billion dollar surface transport industry.
+
+Desired Skills:
+Strong Knowledge of CSS/CSS3,HTML,HTML5
+Strong hold of key concepts of Javascript and basic libraries like JQuery.
+Working knowledge of MVC Javascript framework like Angular, Backbone, Knockout, Ember, etc.(desirable)
+Experience in Google Maps Javascript API(desirable).
+Experience in writing optimized javascript .
+Experience in frameworks like BackboneJS, RequireJS, LESS (desirable).
+Knowledge of Back end web technologies like Ruby on Rails (desirable)
+Basic Object Oriented Programming, data structures and design patterns
+Knowledge of software development processes &amp; agile methodologies
+Experience in using GIT or other version control systems.
+Strong problem solving and debugging skills
+
+Key Responsibilities:
+Brainstorming &amp; conceptualising the design and interaction layer of products and new features.
+Implement layout designs with functionality for both web and mobile .
+Performance Optimizations for both web and mobile website .
+Job Perks
+Mouth watering snack options and a kick ass team!
+

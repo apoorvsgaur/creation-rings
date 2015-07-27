@@ -1,0 +1,5 @@
+
+Multicoreware has a world-class team of programmers, who create cutting-edge video algorithms for our suite of products. We're poised to become the leaders of HEVC video compression, with a significant chunk of video bytes on the Internet being routed through our software.
+We're looking for strong C/C++ programmers who have an intuitive understanding of signal processing, transforms and all aspects of signal compression.  The ideal candidate would have strong design and algorithm skills, with experience contributing to and managing large codebases.
+If you'd love to make a strong impact in a dynamic and young company, we would love to hear from you!
+

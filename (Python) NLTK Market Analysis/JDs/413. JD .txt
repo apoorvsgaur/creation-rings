@@ -1,0 +1,15 @@
+
+A journey of a 1000 miles begins with a single step. We are on the path to disrupting the enterprise as we know today using deep learning. This is an opportunity to be a part of the journey. 
+As part of this journey we are looking for engineers with an entrepreneurial zeal, that want to be in the thick of action. There will be long hours spent discusssing approaches, design, technologies and products that need to be built. There is the ability as an early member to get your hands dirty playing multiple roles and then the satifaction of coding your ideas and bringing them to reality. hands on developers on the Java Stack is a must, we are starting off with the Java Stack before we move on to other technologies.
+We are looking to build out our first product and take it live in the next couple of quarters.
+Technical Qualification
+At least 3 years of development experience, both building and maintaining java (Java, JSP, Struts, Spring, hibernate, Neo4J, HTML5) applications.
+Needs to be very adept at using tools from the internet to get the task done.
+Ability to find solutions to problems that crop up and we expect to encounter a lot of issues.
+Please apply only if you are convinced that a startup has the capability to meet your career goals.
+Job Perks
+
+Stock Options
+Absolute technical and creative freedom. 
+
+

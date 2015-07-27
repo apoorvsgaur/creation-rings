@@ -1,0 +1,11 @@
+
+We are a multicultural team and we are building a barcode scanning application and are looking for an intern to develop Android version of the app.
+The design of the app is top notch, and we are looking for a top notch programmer from IIT's, BITS, or any other prestigious colleges to come onboard and execute our vision.
+The founding team is multicultural with people from India, Canada and Japan, and having both technical(One of the founders worked at Amazon before) and business experience, and our target market is Japan(initially) and we will go world wide(US, Canada, EU, India, etc.) once we have the pilot working well in Japan.
+Requirements:
+* Strong algorithm skills
+* Experience building complex layouts on Android
+* Experience with basic animations in Android
+This internship will be for a period of two months(starting immediately), with a consolidated salary between Rs. 25000 to Rs. 35000.
+This is a unique opportunity for you undergraduates(3rd years or final years) to showcase your Android chops, which  on completion will certainly boost your resume and an opportunity to be a part of the team in the future.
+

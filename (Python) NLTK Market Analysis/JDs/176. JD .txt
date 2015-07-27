@@ -1,0 +1,32 @@
+
+Capital Mind provides brilliant financial market insights and Analytics to investors and traders in Indian markets. We are looking for an awesome person to join us as our UI/UX developer.
+You will be responsible for:
+
+Building our "Capital Mind Snap" web front end to our proprietary data which is currently on Angular/Bootstrap
+Preparing html/css layouts of our automated Email product
+Using our backend APIs to source and process data
+Developing great visualizations of market data through interactive charts and/or javascript tools like D3
+Working directly with our CTO and CEO 
+
+Skills you will have:
+
+Good and deep knowledge of HTML/CSS and Javascript frameworks like JQuery and/or Angular. 
+CSS elements and layouts. Colour combinations, fonts, colours etc. would be a huge plus, as would familiarity with image editing
+JavaScript modules: Bootstrap, Angular, Jquery, RequireJS, Jquery-UI- Data/Chart JS modules : Eg. Amcharts, D3, DataTable, stockcharts
+Command line tools: npm, nodejs, grunt
+Server software: Apache, Nginx, Monitoring Tools
+Backup / Repository tools : GIT, SVN
+
+What we can provide:
+
+Competitive salary and stock options. We are seed funded and will have more rounds of funding, unless our customers love us so much that we don't need to. Either ways, we'll grow so that your stock options are worth much much more.
+A great working environment - we work in Koramangala and have a neat, quiet office
+A very smart and motivated team to work with. From back-end tech, to market domain knowledge, sales and marketing, you'll love to work here.
+The ability to get in early in a startup which will grow and go places.
+A fast growing market - stock markets are just beginning to explode and we're right at the center of it.
+
+We don't care which college you went to. Or didn't go to. 
+We don't care how many years of experience you have.
+We only care if you're passionate about your work. If you like making money from stock markets, that would work very well. We love it if you carry strong opinions, as long as they're held lightly enough to change if the facts change. We love learning from failure and aren't fazed by it. We are very flat as an organization, though you will sometimes see a few of us in suits which makes us also cringe.
+We think you'll love to be part of this team, so if you do, click to reply. 
+

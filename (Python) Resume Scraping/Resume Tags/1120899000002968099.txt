@@ -1,0 +1,1 @@
+animation,bootstrap,css3,cucumber,digital,git,html5,javascript,jquery,json,mongodb,mysql,photoshop,rails,rspec,ruby,sdlc,stack,testing,xml

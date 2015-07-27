@@ -1,0 +1,1 @@
+.net,c,c++,digital,embedded,java,matlab,multithreading,network,oracle,python,r,scripting,sdlc,shell,testing,unix

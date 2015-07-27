@@ -1,0 +1,1 @@
+c,c++,eclipse,html,javascript,netbeans,oracle,php,sql,testing,ubuntu

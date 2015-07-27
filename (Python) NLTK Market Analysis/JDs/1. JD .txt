@@ -1,0 +1,29 @@
+
+THE ROLE
+Front-end Android lead and founding member of a promising, funded startup
+You will be responsible for building our initial Android app; iterating it through multiple versions based on early user feedback and UI cues; and shipping it to the Play Store.
+You will report to our founder and CTO.
+ 
+WHAT YOU WILL BE
+
+a mobile developer confident about what you know; aware of what you don't; and eager to bridge by the gap by building, shipping and learning
+independent, driven, self-motivated and able to not just handle the chaotic environment of a startup, but to also convince others of your points of view
+someone who's developed and shipped apps for at least 3-5 years
+relies on ethics, honesty &amp; common sense when in doubt
+a nice person
+
+ 
+WHAT SKILLS WE HOPE YOU'LL HAVE, OR PICK UP RAPIDLY
+Front-end &amp; Android – experience building one or more non-trivial Android apps from scratch and shipping it to the Play Store
+Full-stack – additional experience with MongoDB and creating REST and SOAP for consumption services will be a big advantage
+Git – experience with Git, or any other continuous integration and deployment tool or process
+Design – an awareness of good mobile UI design principles is expected; a flair for the same will be an added plus
+ 
+WHAT WE CAN OFFER YOU
+
+a founding role in an early stage product startup and the responsibility for building an Android app that is guaranteed to change conventional wisdom in both its technological prowess and design
+independence, respect and the latitude to experiment, fail, learn and improve
+a competitive salary and generous, transparently-priced stock options
+honesty, respect, fairness, transparency &amp; due credit for your achievements
+
+

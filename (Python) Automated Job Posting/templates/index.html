@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+<form method="POST">
+     Name:<input type="text" name="name"><br>
+     Mobile Number:<input type="text" name="mobile_no"><br>
+     Login ID:<input type="text" name="loginid"><br>
+     Password:<input type="text" name="password"><br>
+     Job Title:<input type="text" name="jobtitle"><br>
+     Job Description:<textarea name="jobdescription" rows="5" cols="50"></textarea><br>
+     No. of Vacancies:<input type="text" name="vac"><br>
+     Company Name:<input type="text" name="comp_name"><br>
+     Company Website:<input type="text" name="comp_website"><br>
+     City:<input type="text" name="city"><br>
+     Min Years of Experience:<input type="text" name="min_years"><br>
+     Max Years of Experience:<input type="text" name="max_years"><br>
+     <br>
+    <select name="Hasjob Category">
+      <option value='1'>Programming</option>
+      <option value='2'>Interaction Design</option>
+      <option value='3'>Graphic Design</option>
+      <option value='24'>Electronics</option>
+      <option value='4'>Testing</option>
+      <option value='5'>Systems Administration</option>
+      <option value='6'>Business/Management</option>
+      <option value='7'>Writer/Editor</option>
+      <option value='8'>Customer Support</option>
+      <option value='9'>Mobile (iPhone, Android, other)</option>
+      <option value='10'>Office Administration</option>
+    </select><br>
+    <select name="Hirist Category">
+      <option value='1'>Online/Mobile/Web</option>
+      <option value='2'>UI/UX/Product</option>
+      <option value='5'>Systems/Product Software</option>
+      <option value='4'>Semiconductor/VLSI/EDA</option>
+      <option value='6'>Enterprise-SAP/Oracle</option>
+      <option value="3">Others</option>
+    </select><br>
+    <select name="Quickr Category">
+      <option value='IT Hardware & Network Engineer'>IT Hardware & Network Engineer</option>
+      <option value='IT Software - Developer'>IT Software - Developer</option>
+      <option value='IT Software - QA/Test Engineer'>IT Software - QA/Test Engineer</option>
+      <option value='IT Software - Web Designer'>IT Software - Web Designer</option>
+    </select><br>
+    Min Salary (Annually in Rs.)<input type="text" name="min_salary"><br>
+    Max Salary (Annually in Rs.)(Less than 4 times Min. Salary)<input type="text" name="max_salary"><br>
+    Photo <input type="file" name = "Photo"/><br>
+    OLX<input type="checkbox" value="OLX" name="check">
+    Quickr<input type="checkbox" value="Quickr" name="check">
+    Indeed<input type="checkbox" value="Indeed" name="check">
+    Hasjob<input type="checkbox" value="Hasjob" name="check">
+    Hirist<input type="checkbox" value="Hirist" name="check">
+    Trovit<input type="checkbox" value="Trovit" name="check"><br>
+    <input type="submit" value="Submit">
+</form>
+</body>
+</html>

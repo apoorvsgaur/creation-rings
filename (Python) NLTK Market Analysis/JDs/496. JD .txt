@@ -1,0 +1,15 @@
+
+Sendd
+The most convenient way to send anything anywhere. Get over the hassles of long queues, packaging and endless delays. We pick up your shipment for free, pack it safely at no extra cost and send it across the world at unbeatable prices. We are a well funded early stage IIT Bombay Startup looking to disrupt the logistics sector. We are based out of Powai and selected interns are expected to work from our office.
+Duration -2 months
+Applicants  should have experience in working with:-
+- CoreData/FMDB+SQLite
+- AFNetworking/NSURLSession or other networking frameworks for making API requests, uploading files
+- CoreLocation, Google Maps integration
+- UIKit
+- Must have sound knowledge of iOS architecture
+- Building App structure and UI, based on the given designs for a native iOS experience
+- Experience in Building iOS Application
+Being a Startup, there will be a lot of opportunities to explore new things and freedom to come up with ideas and implement them. The selected intern can be considered for a PPO as well. Those looking for full time jobs can also apply.
+
+

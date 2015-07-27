@@ -1,0 +1,14 @@
+
+Recruitro is a young and fast growing start-up from New Delhi. We have built a SaaS software in recruitment space.
+We work in an exciting, fast-paced, collaborative atmosphere. At Recruitro, we value open, honest communication, speed, quality products, and great design. Essentially, we love people who are always open to new technologies and are open to learn whatever comes their way.
+You can learn more about us at https://recruitro.com/
+Responsibilities:
+* Implement the next generation user interface using latest technologies and UX practices * Write well organised and sustainable Javascript (AngularJS) code * Follow best practices for agile software development
+Required Qualifications:
+Must Haves:
+* Hands on experience with AngularJS * HTML5, CSSS3, Javascript, Backbone.js, Underscore.js * Must be self-sufficient; able to work independently * Strong collaboration skills * Experience implementing complex responsive modern user interfaces
+Good To Haves:
+* Familiarity with RESTful APIs * Familiarity with Bootstrap CSS framework * Familiarity with Git
+Job Perks
+- Flexible Work Hours- Work From Home Options
+

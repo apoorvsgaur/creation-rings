@@ -1,0 +1,31 @@
+
+We are a young start up and at least 2 people know about us, but that’s the challenge, we want to reach out to millions in the coming days. Based out of Gurgaon we are trying to create a niche in the restaurant reservation industry, in simple words we are developing a website and a mobile app for table booking :)
+Responsibilities
+Translate designs and wireframes into high quality code
+Design, build, and maintain high performance, reusable, and reliable Java code
+Ensure the best possible performance, quality, and responsiveness of the application
+Identify and correct bottlenecks and fix bugs
+Help maintain code quality, organization, and automatization
+
+Skills
+Strong knowledge of Android SDK, different versions of Android, and how to deal with different screen sizes
+Familiarity with RESTful APIs to connect Android applications to back-end services
+Strong knowledge of Android UI design principles, patterns, and best practices
+Experience with offline storage, threading, and performance tuning
+Ability to design applications around natural user interfaces, such as “touch”
+Familiarity with the use of additional sensors, such as gyroscopes and accelerometers
+Knowledge of the open-source Android ecosystem and the libraries available for common tasks
+Ability to understand business requirements and translate them into technical requirements
+Familiarity with cloud message APIs and push notifications
+A knack for benchmarking and optimization
+Understanding of Google’s Android design principles and interface guidelines
+Proficient understanding of code versioning tools, such as Git
+Familiarity with continuous integration
+Job Perks
+
+Flexible Working Hours
+Travel and Medical Allowance
+Fully Stacked pantry for food and beverages
+Young team to work with
+
+

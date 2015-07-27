@@ -1,0 +1,33 @@
+
+About CashCare  We are Mumbai and Pune based big-data start-up working on India's first data-driven  consumer lending platform.
+It is founded by Wharton Business School graduate with prior experience in product startups.
+CashCare is consumer centric and responsible lending platform. CashCare customers can get a loan within minutes by providing basic personal information &amp; linking their online accounts (like Facebook) to CashCare. Unlike the banking community, CashCare uses social &amp; web data (Facebook, Google, etc.) to evaluate credit worthiness of its customers.
+The product is launched in Feb 15 and received an excellent response from customers and investor community.
+Why us?  1.  Opportunity at right time As a fast growing start-up, there will be tremendous growth opportunities. You can actually play crucial role in building the product as well as shaping the business strategies. Learn new technologies by actually working on them.
+Opportunity to be an early member of the founding team and encashing it on success of the start-up.
+2. Opportunity to Learn
+If you are keen on learning new technologies and build your profile, learn how products are designed and build from scratch, CashCare is right place for you. We are working on cutting-egde technologies in Java, Big Data and SQL and in early stage of product development.
+Responsibilities
+We are looking for a rockstar Java-J2EE  Developer with 1+ years of experience who can and take ownership and deliver results.
+Qualifications
+
+Excellent programming skills in Java, J2EE and related web technologies.
+Hands on experience in MVC frameworks.
+Good understanding about Data Structures and Algorithms
+Excellent understanding about relational and non-relational database concepts (MySQL, Hadoop, MongoDB)
+Experience with front-end technologies like HTML, CSS, Javascript as well as JS libraries/frameworks like JQuery, Angular, Ember, D3, etc. is a strong plus.
+Ability to thrive in a dynamic, fast-paced, collaborative, and high-growth start-up environment
+
+Compensation INR 4 to 15 lacs/pa (depending on experience) and/or Generous Stock Options.
+Job Location: 
+Pune/Mumbai
+Job Perks
+
+Generous Stock Options
+Hierarchy free org
+Freedom to do things your own way (as long as it delivers result ;) 
+Experience building a company
+Flexible work timings
+
+ 
+

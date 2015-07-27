@@ -1,0 +1,1 @@
+analytics,hadoop,linux,modeling,optimization,python,qlikview,r,rdbms,sas,sql,statistics,vba

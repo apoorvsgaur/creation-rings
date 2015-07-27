@@ -1,0 +1,22 @@
+
+If you are reading this, chance are that you’re a little bored in your current role and are hoping to find a job that re-ignites your passion for making great products and solving problems at scale.
+ 
+Blume Ventures, India’s most loved and most active VC firm, has funded highly successful companies like TaxiForSure, ZipDial, Zopper, WebEngage, Exotel, Grey Orange Robotics and so on. Some of our portfolio companies are looking to hire high-quality Android developers with more than one years of experience.
+ 
+Requirements:
+
+Should have strong basics in Java, OOPS and related Android Frameworks.
+Excellent design skills and proficiency in developing UI for various Android versions.
+Experience in building native Android Apps.
+Strong fundamentals of Java, XML, JSON and SQL/SQLite databases.
+Experience in developing RestfulAPIs.
+
+Job Perks
+
+Top-class salaries
+Best working culture
+Pleasure of working with a great team
+High growth opportunities
+ESOPs
+
+

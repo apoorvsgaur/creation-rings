@@ -1,0 +1,1 @@
+.net,android,api,c,c++,groovy,ios,java,javascript,jenkins,nodejs,objective-c,oracle,python,qa,r,sap,soap,soapui,tester,testing,ui

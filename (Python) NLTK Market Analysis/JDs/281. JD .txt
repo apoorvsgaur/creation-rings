@@ -1,0 +1,16 @@
+
+Mindvalley (www.mindvalley.com), located in Kuala Lumpur, Malaysia, is the leading global alternative education company. Mindvalley is intent on changing education through innovative and holistic computer and cell phone applications, health and fitness platforms, and online academies. As well as this, they make it accessible to all; whether in infancy, high school, or adulthood. They are the creators of the worlds most popular meditation app, Omvana.Now on to the position. Mindvalley are in need of a mid-senior level web developer. As a mid senior web developer you will be expected to have 3-8+ years of relevant industry experience solving complex problems, leading teams and building high quality, large scale web relevant software.You must have;
+
+solution oriented mindset and are always looking for the absolute best solutions to solve problems
+be more productive in a collaborative team environment. In this role it’s essential to be a team player; we succeed because we catch and support each other in our work.
+appreciate receiving feedback on your work because you know it’ll make you even better at your job and at the same time you will be comfortable assisting your teammates by doing the same.
+
+Your responsibilities core will include;
+
+developing and maintaining web applications
+troubleshooting existing web applications. 
+
+Your tech stack should include Ruby on Rails, nginx, PostgreSQL, Redis with Linode as the host – production/professional experience with any of these technologies will be a big plus.
+With over 30 different nationalities and 200+ employees working from their Kuala Lumpur office, it's not suprizing that Mindvalley were voted WorldBlu's Most Democratic Workplace. It's a once in a lifetime opportunity to be part of a truly international team. Mindvalley is revolutionizing the way that tech companies work, and they want you to be a part of it.
+If this position sounds of interest to you, please reply at your earliest conveniance and we can get this process moving.
+

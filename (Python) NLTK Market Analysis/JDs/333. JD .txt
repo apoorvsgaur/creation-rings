@@ -1,0 +1,28 @@
+
+One plus years of experience in developing enterprise class mobile apps for Android platform.Strong OOPS concepts, component based development and basic computing skills - OS concepts, threads, data structures, networking, RDBMS, SQL and XML.
+
+Familiarity with cross-platform solutions (HTML, Phone Gap, Titanium etc.)
+Hands-on experience with Android (Android Framework and Java
+Experience in implementing secure, transactional applications integrated with web-based services
+Experience in performance tuning and optimizing for constrained mobile devices
+Excellent technical issue diagnosis and problem solving skills
+Familiarity with UI/UX design within the mobile environment
+Experience applying design patterns and solid understanding of Android SDK
+Experience in the design, development and testing of individual modules using Agile methodologies.
+Proficient with developing optimised UI for different android versions and devices
+Experience with Android Google Maps API (desirable)
+Experience with publishing application with at least one published application for Android in Google Play Store (desirable) Experience with Android framework itself (activities, services, related lifecycles, intents, content providers, broadcast receivers etc)
+Knowledge of any one server side programming language - PHP, Python, JAVA, Ruby
+Knowledge of any RDBMS - MySQL, MS-SQL, or NoSQL like MongoDB, Radis.
+
+What are we looking for? 
+
+You should be smart and should be able to get things done. Period. That’s the number one priority. 
+Challenge conventional wisdom. 
+We value curiousness and Inquisitiveness. 
+A track record of being able to ship product, independently and/or as part of a small team. 
+Willingness to provide top-notch support to our customers - everyone at the company is involved in the support directly.
+
+Life at Box8
+Working at Box8 means doing what you love, there are no rules to go about it. We promote an open, fast-paced and fun work environment. Encouraging people to dream big and exceed their potential is core to our philosophy. We don't need to emphasise the benefits of working in a food company, fun and food is omnipresent​.​ We're on our way to building the first big food tech company and we'd like to invite you on this ride.
+

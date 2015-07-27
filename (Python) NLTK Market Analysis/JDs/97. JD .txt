@@ -1,0 +1,29 @@
+
+Job Description
+We are looking for Python developers with 3-5 years of experience for the development of all server-side logic for a very innovative early stage business application startup.
+Responsibilities 
+
+Design and implementation of highly-available, high-performance business application
+
+
+
+Integration with front-end Web &amp; Android application
+
+
+
+Implementation of security and data protection
+Integration of databases &amp; file storage solutions
+
+Skills And Qualifications
+
+
+Expert in Python, with knowledge of at least Python web framework like Django/flask
+
+
+
+Understanding of front-end technologies, such as JavaScript, HTML5, and CSS3
+Knowledge of user authentication and authorization between multiple systems, servers, and environments. Example Google/FB Auth
+Strong unit test and debugging skills
+Familiarity of code versioning tools like Git/SVN
+
+

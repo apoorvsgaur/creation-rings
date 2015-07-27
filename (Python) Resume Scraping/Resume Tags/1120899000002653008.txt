@@ -1,0 +1,1 @@
+.net,git,hadoop,jenkins,jira,modeling,oltp,oracle,r,rdbms,scrum,security,stack,testing,trading,ui,unix

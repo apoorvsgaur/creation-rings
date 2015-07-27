@@ -1,0 +1,1 @@
+bash,c,c++,embedded,flash,git,gnu,kernel,linux,lua,ood,qt,scripting,stack,yocto

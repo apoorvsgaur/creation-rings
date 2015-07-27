@@ -1,0 +1,18 @@
+
+We are Scrunch, a food-delivery/ordering start-up trying to solve the age-old problem of food-ordering/delivery. We are working on an amazing product and are expanding our team.
+Role
+As we have completed the first stage of our product we are looking at the below -
+- Work on the customer facing app.- On – Demand food ordering/delivery.- Infinite choices of Resturants to choose from.- Order completed in a few clicks.- We are looking for a candidate who would work along these lines. It will give you a chance to work with a great team  and be part of something that is remarkable. We would like to hear from you if you posses the skills mentioned below.
+Required Technical Skills 
+Strong Object Oriented design and programming skills in Java.
+Familiar with the Android SDK  Knowledge of SQLite, MySQL or similar database management system and Familiar with Eclipse. 
+In-depth knowledge of Android components (Services,Activities etc), Location APIs, Maps APIs Work with outside data sources and API's. Experience on web service integration (REST, JSON, XML).
+Experience building apps compatible with Android OS from versions 4 Experience optimizing, re-factoring, and debugging views and layout hierarchies.
+
+Optional 
+Understanding of design patterns.
+Basic understanding of HTML 5, JavaScript, Experience using social APIs.
+Using version control tools.
+Debugging and optimization skills.
+
+

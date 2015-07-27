@@ -1,0 +1,34 @@
+
+Transity is a technology startup focused on developing an integrated platform to manage all the transportation needs of organizations and individuals. The vision is to build a platform that enables people/goods to move from point A to point B in a safe, reliable, intelligent and efficient manner by leveraging emerging trends in technology such as web, mobile, analytics, GPS, NFC, Smart Cards etc. Please visit www.transity.co to know more about the company.
+We are looking for bright, enthusiastic and code loving team players who can help us accomplish our vision. We have an immediate opening for a technology leadership  position in our team.
+Responsibilities:
+
+Define technical architecture and design the system considering the technology landscape and business priorities
+Participate in coding, testing and releasing the system along with other members on the team
+Guide, mentor and lead the engineering team
+Define and implement processes that will support agile development
+Work with customers to identify and define features
+
+Requirements:
+
+Engineering Degree with about 4-6  years of experience
+Proficiency with Core Java/J2EE, Spring, Hibernate
+Experience in developing web and mobile applications
+Well versed with technologies such as MySQL, CloudDB, Apache, Tomcat, JavaScript, AJAX, CSS
+Exposure to GWT, Google App Engine preferred
+Experience in Service Oriented Architecture and Object Oriented Design
+Exposure to Mobile Development Frameworks (Sencha, Phonegap)
+Experience with automated testing such as JUnit, FlexUnit
+Well versed with Java design patterns
+Effective Communication Skills
+Has worked in an agile development environment
+
+Benefits:
+
+A highly energetic, fun, flexible work environment
+Opportunity to do some really cool and creative work
+High amount of responsibility and ownership
+Tremendous learning and growth
+Mentored by leaders with significant industry experience
+
+

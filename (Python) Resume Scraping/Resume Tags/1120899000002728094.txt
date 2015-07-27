@@ -1,0 +1,1 @@
+android,bash,hadoop,hive,java,ldap,linux,modeling,mssql,mysql,oracle,php,plsql,postgres,r,rdbms,scripting,shell,sql,ssrs,statistics,testing,tomcat,trading,unix

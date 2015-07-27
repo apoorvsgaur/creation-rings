@@ -1,0 +1,1 @@
+angular,angularjs,bootstrap,css,css3,html,html5,java,javascript,jquery,mysql,netbeans,network,photoshop,php,scripting,tomcat,ui,visualstudio

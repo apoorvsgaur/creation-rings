@@ -1,0 +1,1 @@
+bash,c++,gradle,java,linux,matlab,modeling,networking,opencv,optimization,python,rails,rendering,scala,scripting,shell,spark,svm,tcp

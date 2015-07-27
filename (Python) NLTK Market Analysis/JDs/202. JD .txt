@@ -1,0 +1,27 @@
+
+We're looking for an android developer to join us full time and help us lead the mobile audio revolution.
+A bit about Triveous and Skyro:
+
+Triveous is a small, early stage, Bangalore based startup and we’re working to revolutionise how audio and audio metadata can be captured and shared on a mobile device. People across the world use our product Skyro to record meetings, conversations, lessons, conferences, music sessions and lots more.
+Even though audio recorders are a dime a dozen, the popular productivity blog MakeUseOf has recently called Skyro the best android audio recorder app out there. We want you to help us create the next, more connected version of Skyro and take us to 1+ million downloads.
+Currently the app has over 350k downloads and is available in 15 languages, it has been featured internationally on the play in multiple categories and has been covered in sites like MakeUseOf, Lifehacker, Beautiful Pixels, ProductHunt and multiple other international blogs.
+To know more about Skyro, have a look at our site and this video
+
+Our philosophy
+
+Skyro has been designed, developed and tested by just 2 people. We believe that a small focused team giving its best everyday is probably the best way of creating simple, beautiful, hi-impact and hi-quality applications.
+We try to stay at the cutting edge of android development and we believe in experimenting and adopting new technology at a very rapid pace. (For example: we're experimenting with RxAndroid and Espresso now)
+We’re also big proponents of the android community, we’re active members of Blrdroid, one of the largest android groups in the world and we’ve collaborated with many startups, developers and designers over the years.
+
+What we're looking for
+
+Can-do attitude. Most of the stuff we’re doing seems outright crazy to do at the design/architecture stage, we need someone who is not daunted by the task.
+Experience: We're looking for a person who has worked on android apps before and know's his/her way around android
+Solid java fundamentals
+An app in the play store (or something else like an open source project) to showcase the work you’ve done
+Familiarity with android studio, gradle, the play store, app usage patterns, android ux principles, image loading libraries, networking libraries
+Good to have: Experience with network and data heavy applications, experience with service design
+Good to have: Experience with espresso (or robotium), the new android unit test framework (or roboelectric), spoon
+Good to have: Contribution to open source
+
+

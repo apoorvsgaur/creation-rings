@@ -1,0 +1,33 @@
+
+Lookup is looking out for a seasoned and experienced iOS Developer who possesses a passion for pushing mobile technologies to the limits and will work with our team of talented engineers to design and build the next generation of our mobile applications. We are looking out for someone who can join us on an immediate basis!
+Job responsibilites:
+
+Design and build advanced applications for the iOS platform
+To work independently and develop enterprise level applications.
+Work on bug fixing and improving application performance.
+
+Requirements
+
+Proven working experience in software development
+Working experience in iOS development
+Have published one or more iOS apps in the app store
+A deep familiarity with Objective-C and Cocoa Touch
+Experience working with iOS frameworks such as Core Data, Core Animation, Core Graphics and Core Text
+Knowledge on auto layout and size classes
+Experience with third-party libraries and APIs
+Solid understanding of the full mobile development life cycle
+Experience with xmpp is a big plus.
+
+A bit of who we are and what we do...Lookup is a free and secure messaging app which helps consumers chat with local businesses or shops and get things done with just a message. From making hotel reservations; spa,hospital appointments to availing information about deals, product availability, prices, timings from the offline stores, it your very own personal digital concierge.
+Job Perks
+
+Unlimited caffeine.
+A challenging but nurturing office environment.
+Scope to attend geek meets, conferences, app expos to name a few.
+A Macbook/PC that you like.
+Fun team meets.
+Cool office swags.
+Monthly recognition awards.
+
+And yes, we firmly follow the policy of rewarding good work!
+

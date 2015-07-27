@@ -1,0 +1,154 @@
+
+|OBJECTIVE                                                                  |
+
+To work in a dynamic environment  that  fuels  my  professional  growth  and
+gives  me  challenging  tasks.  Exposure  to  new  methodologies  would   be
+opportunities for me to enhance  my  compliance,  where  I  can  exploit  my
+potential to the best of my skills.
+
+|EXPERIENCE SUMMARY                                                         |
+
+
+NICAL SKILLS
+    . 2+ years  of  competitive  experience  in  IT  industry  with  Design,
+      Development and Maintenance of Android applications.
+    . Sound knowledge in Android  SDK,  Web  Services,  JSON,  Eclipse  IDE,
+      SQLLite  database,  Activities,  Services,  Broadcast  Receivers,   UI
+      Designing.
+    . Experience in multiple stages of implementation of the projects from
+      requirement gathering to deployment.
+    . Good in different versions of android and interaction between various
+      devices.
+    . Planned, coordinated and worked to tight deadlines.
+    . Good in managing a team and task management.
+    . Effective in working independently and collaboratively in teams.
+. Capable to adopt newer technologies.
+
+Technical Skills
+|Operating Systems         |Windows XP, 7,8                       |
+|Programming Languages and |C, C++, PHP, JavaScript, HTML.        |
+|Scripting                 |                                      |
+|Database                  |SQL Server 2008, SQL Lite.            |
+|Development/Productivity  |Eclipse (Indigo & Juno), ADT.         |
+|Tools                     |                                      |
+|Technologies              | Android, Core Java                   |
+|Emulators Used            |Android SDK Emulator                  |
+
+Project Details
+
+Work Experience:
+ TECHNETICO SOFT SOLUTIONS PVT LTD, Bangalore (28/08/2012 to till date)
+Project#1 - Around Me
+Project Description
+"Around Me" application identifies your current position and allows you to
+choose the nearest Food, drinks. Coffee, Shops, Arts, Top Picks. For
+example if you Tap on food item, you can able view the surrounding
+restaurants with address along with ratings from the user.
+
+
+
+
+Project Highlights :
+.  View your Current Location
+.  Based on user location and show nearby information
+.  Retrieve data from Google,
+.  Contains  categories  search  like  Restaurants,  Bars,  ATM's,  Airport,
+Railway Station etc
+.  Social media page integration with Facebook , Twitter etc
+.  View business Reviews and Ratings
+.  Show business locations in Map
+
+
+      Project Technology:
+      Android SDK, Java, JSON Parsing
+
+
+      Roles and responsibilities:
+.  Requirement gathering for application development.
+      .  Developing modules and layouts of the application.
+      .  Complete analysis and prompt resolution of issues.
+      .  Proper documentation of all the requirements and test cases.
+      .  Deployment of application.
+      .  Complete analysis and prompt resolution of issues.
+      .  Proper documentation of all the requirements and test cases.
+
+
+
+
+Project#2 - Chat Channel
+Project Description
+Chat Channel is a messaging application based on android. It allows
+texting, voice messages and Video calls instantly.
+
+Project Highlights:
+.  User registration
+.  User authentication
+.  Adding a new friend by username
+.  Approving a friend
+.  Messaging with a friend in list (Of course)
+.  Shows online and offline users
+.  Runs a background service in order to get messages even when the
+application is closed.
+.  Uses notification area when a new message is received.
+.  Quitting the application(kills the background service)
+
+
+      Project Technology:
+      Android SDK, Java, JSON Parsing
+
+
+      Roles and responsibilities:
+.  Analyzing the scope of the requirement.
+.  Creating and designing new layouts on the application.
+.  Developing modules of the application.
+.  Complete analysis and prompt resolution of issues.
+.  Proper documentation of all the requirements and test cases.
+
+
+
+Work Experience: Delta Power Solution,Gurgaon (March 2011-May 2011)
+
+Project Description:
+
+Delta Group is one of the most prestigious power management solution
+providers. This project was to provide a view to employees of organization
+wherein they can see all their relevant details. These details include
+information of their project, time tracking, vacation tracking, transport
+management system, assets issued, online trainings etc.
+
+Project Highlights:
+
+.  Analyzing the scope of the requirement.
+.  Creating and designing new pages on the portal.
+.  Maintaining and modifying already existing pages.
+.  Navigation through other sites like payrolls and Bonus information
+sites.
+.  Involved in data base design changes.
+.  Writing SQL scripts to automate the processes.
+.  Maintaing the database.
+.  Unit testing and documenting the work done.
+
+
+      Project Technology: C#.Net, ASP.NET 3.5, MS Visual Studio  2008,  AJAX
+      SQL Server 2005, SQL Server Management Studio.
+
+Education/Training
+|Qualification    |University                       |Year           |
+|M.C.A.           |D. Y. Patil College, Pune        |2008-2011      |
+|                 |University                       |               |
+|Course Name      |Institute/Organization           |Year           |
+|Advance Computer |C-DAC                            |Feb            |
+|training         |                                 |2012-July2012  |
+
+Personal Details:
+Mail Id: tnihar22@gmail.com
+Phone: 91- 8860031778
+Date of Birth: 22-03-1985
+Address: 108/11 Shastri Nagar, Meerut, U.P.
+
+-----------------------
+Nihar Tiwari
+tnihar22@gmail.com
+91- 8860031778
+
+

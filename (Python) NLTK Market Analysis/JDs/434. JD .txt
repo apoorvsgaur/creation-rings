@@ -1,0 +1,11 @@
+
+
+Teemac is focused on improving the quality of education at brick and mortar institutes around India with strategic consulting, easy to use technology products and training services. We help them usher in new ways of educating suited to the unique needs of the 21st century.
+We are looking for a web developer to join our tight team.
+
+Basic Requirements-Strong core-concepts in Computer Science.-Experience working with PHP, Javascript, HTML, CSS best practices.-Ability to learn new things quickly.
+Bonus Points-Have worked with the Laravel framework.-Have frontend skills and know how to work with various frontend frameworks.-Have alternate interests and hobbies that you passionately pursue.-An interest in the field of education.Job Description-Write elegant, secure code in PHP and/or Laravel.-Collaborate with your team to deliver quality code on time.-Participate in group reviews to ship the best product we can.-Keep abreast of the latest developments in the field of web development.
+
+Job Perks
+Read more about the work culture and perks at Teemac - http://teemac.in/our-work-culture/
+

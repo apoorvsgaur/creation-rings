@@ -1,0 +1,8 @@
+
+- Toolmart is an early stage startup in the industrial ecommerce space seeking Senior PHP and Frontend UI developers to join our small and agile team.
+- It's been a year since we got started building the platform, and successfully entered beta rollout phase this month.
+- Going forward we require fresh thinking minds who can join the team and enthusiastically build further. 
+- If you have good development skills in a PHP MVC framework or Frontend MVC frameworks such as AngularJS or EmberJS then PLEASE APPLY !
+- If you like working in a dynamic environment with a strong entrepreneurial culture that values individuals who take ownership, provide transparency and have integrity, then Toolmart is the right place for you.
+- We believe great companies are built on great teams and value members impacting the business.
+

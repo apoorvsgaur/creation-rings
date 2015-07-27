@@ -1,0 +1,15 @@
+
+Looking for Rock Star technologists in cloud, mobile, device engineering to help us build next generation of platforms and tools with a design lead approach. We beleive in being language agnostic and looking for smart folks with sharp learning curve who would like to be part of our growth. Apply if you are a Rock Star in any of the following:
+- Ruby on Rails, ASP, PhP
+- Android/IOS/Windows 
+- HTML 5/ SASS / CSS (Designers are welcome!)
+- JS: Angular JS, Node JS, BackboneJS/ JQuery
+- Python
+- C# + XAML / Xamarin / Windows 10
+- Domain Experts: In love with IoT? Image Processing? NUI? Security?  
+Why would you want to work with us?
+- Get into ownership, problem solving and consulting mode- we respect your technical capability and need you to accelerate what you are passionate about. Get involved in technical decision making- and getting out of comfort zone. 
+- Partners we work with: we would love to showcase what we have done till now :) Systems we have built are being used by a huge population- and we haven't really done boring stuff. 
+- Bootstrapped journey: We are completely self funded in a California-Bangalore story, and in course of our time we have been able to create a balance between services and our own line of products. We are a very small team of 15 people and looking forward to make it 25.
+- Value of Association: With our current acceleration and learning curves, we can promise a technically challenging environment. We beleive in being full stack engineers rather than programmers and provide all with multiple platforms to learn and work with.  
+

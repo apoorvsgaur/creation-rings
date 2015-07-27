@@ -1,0 +1,26 @@
+
+encircle.io is an exciting technology start-up developing platform to build IoT Experiences. We are based in Ahmedabad, Gujarat. Our journey has begun with the thrilling Beacon technology that fits very well with our vision of a multifunctional Sense-Connect-Cloud platform. Our Proximity Platform help Retailer Brands, Museum and Event organizers to deliver context-aware, most relevant content and in-location experiences for improving their customer engagement and influencing customer behaviour to drive more loyalty.
+We’re agile, with an aggressive roadmap. So, We need you to lead or contribute to design and development of front-end of our platform. If you join us, the work will not be work anymore, It’ll be all fun and have a pride to be part of something big.
+You Have :
+
+A deep familiarity and experience with Angular JS, Java scripts, HTML 5, CSS 3.
+Working knowledge of the general web front-end landscape, trends, and emerging technologies.
+Startup-culture mind state and flexible to work in agile and collaborative environment.
+Passion and dare to build something great. Love designing web interfaces and understands basics web UI components.
+
+You Do :
+
+
+Visualize and design interactive web interfaces for our web part of product which meant to be used by our brand customer. Features mainly includes configuration of context and manage localized experiences.
+
+
+Client-side coding to integrate front-end app with our cloud REST web services.
+
+
+Collaborate with the team to define features for our next generation platform for connected things.
+
+
+Imagine. Implement. Iterate. Improve; Get things done.
+
+
+

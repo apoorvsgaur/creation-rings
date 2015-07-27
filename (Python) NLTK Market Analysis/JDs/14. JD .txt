@@ -1,0 +1,37 @@
+
+What is Pleroma?
+Pleroma is a startup that churns out companies. We help people with ideas develop a minimum marketable product via lean methodology .
+What are we looking for?
+Cultural Fit (more important to us than just functional qualifications):
+
+You naturally enjoy challenges, freedom, innovating and continuous self-learning
+You can work independently, quickly and are proactive with both ideas &amp; implementation of code.
+You don’t just identify problems, you offer solutions
+You understand you will be working at a startup and the amount of time commitment and energy it takes to win - you are not looking for just 9am-5pm Monday to Friday only. We work evenings and weekends, if needed, to get great product shipped to our users.
+You obsess over details and are excited to continuously incorporate the latest technology, open source solutions to improve scalability, user experience and funtionality.
+You're constantly pushing your limits and searching for opportunities to become better.
+Your team communication and collaboration skills are unparalleled - over-communication is a good thing
+You thrive in an environment with short feedback loops and can iterate quickly
+You're a self-starter who actively seeks ways to make the Morph Ventures product experience both visually appealing and easy to use.
+You want to work on a fun, high energy team with the highest standard for themselves and those around them, building products that millions will use every day! 
+
+Technology Fit ( native android development ) :
+
+Design, build and deploy advanced applications for the Android platform
+Collaborate with cross-functional teams to define, design, and ship new features
+Work with outside data sources and API's
+Unit-test code for robustness, including edge cases, usability, and general reliability
+Work on bug fixing and improving application performance
+Continuously discover, evaluate, and implement new technologies to maximize development efficiency
+
+Why Pleroma?
+The what answers the why.
+One doesn't search for a mouse to go hunting together.
+Job Perks
+
+An insanley passionate environment
+You get to work on cool projects every three months
+Exponential learning curve
+Health Insurance - to treat your bruises working on cutting edge technologies
+
+

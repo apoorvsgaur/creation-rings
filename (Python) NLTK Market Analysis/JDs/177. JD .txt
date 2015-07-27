@@ -1,0 +1,50 @@
+
+Position Title: Technical Consultant
+Why you should work with us?
+We innovate in every work we do and even if it a regular thing we intend to do the same with improvements.  We help build softwares that help organizations improve in their efficiencies. If you have the zeal to innnovate and work in challenging atmospher this is the place you should be
+What will be your role?
+
+Analyze, design, and audit design of applications and suites of applications
+Design and develop new software; modify and enhance existing software for clients’ systems.
+Design and construct custom internal solutions for extending the value for Sales force / Net suite applications.
+Coordinate the design deliverables between the architects and development teams.
+Communicate directly with Tvarana clients to understand fully their requirements and specifications.
+Review completed software designs or prototypes with clients and ensure process mapping for SF / NS applications
+Conduct user acceptance testing to ensure the program can be used easily, quickly and accurately
+Test software and ensure that the requirements are completely met.
+Work in conjunction with other team members on development projects and ensure that their work is compatible
+with, and does not duplicate the work of others.
+Continuously monitor work of the team and mentor them towards adapting to best practices
+Participate in knowledge share exercises to enable the team to learn and improves new methodologies and practices.
+Responsible for diagnosing software problems and providing troubleshooting support for all customers efficiently and effectively.
+Provide end-user technical documentation and participate in test-plan development, integration, and deployment.
+Plan large virtualized systems infrastructure roll-outs and migrations
+Conduct technical research and evaluation of tools and methodologies.
+Develop a relationship with the technical peers for the technology they support and related technologies in order to ensure improved collaboration and satisfaction in support.
+Work with team to recreate and resolve customer cases. 
+Demonstrate thought leadership in cloud computing and virtualization and their application.Training the team.
+Take initiative in internal projects and research &amp; development for building the team
+
+Desired Skills
+
+2-3 years’ work experience in Java
+Web applications and web services
+Strong knowledge of object oriented design and analysis based on Design Patterns and corresponding implementation techniques in Java.
+Must have web services experience
+Ajax/JSON/Ruby will be beneficial
+Data structures &amp; algorithms
+Working with Object Oriented Design and programming
+Experience in building enterprise business applications in CRM/ERP/SCM or related domains is an add on advantage.
+
+Whats in offer for you?
+
+Competitive Salary 
+Challenging Tasks for you to prove
+Career that makes your friend envy you
+Uneding opportunities if you are the right fit
+
+About Tvarana
+Tvarana began its journey with customization of cloud platforms. Over the years, we have explored and specialized our services into implementation , integration , product development and managed services . Innovation at Tvarana does not stop here! We have moved on to invent cloud applications on Salesforce, NetSuite, Amazon and Heroku. Our journey has been gaining momentum backed by a committed team and workforce and shall sail towards more technical expeditions. 
+We are 60+ strong team and soon to reach 100. Our organization wide average age is 24 years. We are an equal opportunity employer. We provide facilities which only a few organizations of our size can offer.
+
+

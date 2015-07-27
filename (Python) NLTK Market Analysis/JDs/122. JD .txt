@@ -1,0 +1,23 @@
+
+About Us
+Indigo Quotient Labs is a startup in the Internet of Things domain focused on the Home Automation space. We're passionate about Science and Technology, and how to go about using it to enrich people's lives. Our team is young, dynamic, and always looking to push the envelope on technology. Our engineers are a mixed group ranging from college interns to PhD holders but are united through our love of technology and the shared vision of bringing IoTs into the lives of people. If you share the same passion as us, and willing to work in a startup that's trying to make a difference, we'd love to hear from you!
+Learn more about us at http://indigoquotient.com
+
+Skills required
+
+Building front ends with AngularJS and node.js
+Familiar with MongoDB (and the ODM mongoose)
+Must be proficient in Core Javascript. Concepts of OOP in Javascript particularly
+Familiarity with a framework such as express.js
+Must be able to use a unit testing framework such as Mocha / Jasmine
+
+
+Bonus skills
+
+If you have deployed web sites at production level, it is a huge plus
+Familiarity with AWS and Git
+Strong analytical and problem solving skills
+Open source contribution or personal projects on GitHub / BitBucket are a plus
+
+
+

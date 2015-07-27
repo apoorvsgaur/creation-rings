@@ -1,0 +1,1 @@
+c,git,gnu,linux,native,network,oracle,scripting,sdlc,security,shell,testing,unix

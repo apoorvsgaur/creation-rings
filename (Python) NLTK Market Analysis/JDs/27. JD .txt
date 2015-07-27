@@ -1,0 +1,23 @@
+
+Paperman is a technology based startup that is working towards changing the way people manage their trash. We are the world’s first trash-funding platform.
+Check us out at: http://www.paperman.in
+Key requirements
+
+4 years of experience in developing and testing android apps.
+Problem solver with an entrepreneurial mindset.
+Commitment to work – 50+ hours a week.
+Open to experimenting new ideas.
+
+Technical Skills
+
+Thorough understanding of Android architecture platform and OOPS
+Experience working with remote data via REST and JSON
+Hardware Interfacing
+Location services
+Web socket
+Experience with push notifications and integration of Google GCM and its APIs with mobile app
+Experience in working with third-party libraries.
+
+Job Perks
+Competitive salary and stock option for deserving candidates.
+

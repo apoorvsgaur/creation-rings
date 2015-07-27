@@ -1,0 +1,31 @@
+
+What are we looking for?
+We are looking for someone with high energy and enthusiasm for working in a fast growing, customer-oriented organization in the internet space.
+Requirements
+
+We are looking for individuals preferably with an experience of 1- years (minimum1 years)
+The ideal candidate has required experience in PHP 5.0, MYSQL 5.0, Apache
+Knowledge of OOPS will be an added advantage.
+Experienced with HTML, CSS and Jquery is must.
+Experience of creating JSON based API for mobile applications.
+Knowledge of Web Application development.
+Knowlwdge of version controling tools like git, bitbucket
+Excellent PHP Scripting skills are essential.
+Designing and maintaining MySQL databases and tables.
+Fine-tuning and optimization of PHP code.
+Must have Strong communication skills.
+Solid track record delivering successful web applications.
+E-learning domain expeience will be an addon.
+Candiates who can join immediately will be preferred.
+
+Responsibilities
+
+Work on different projects parrally and handle a team of php developers.
+Managing individual projects priorities, deadlines and deliverables.
+Design, develop, test, deploy, maintain, and enhance software solutions.
+Understanding business requirements from clients and devising a solution.
+Ensuring foolproof performance of the deliverables.
+Sending regular updates about project status, review product needs &amp; specifications.
+Ability to Conceptualize, Conduct Project research, and Visualization.
+
+

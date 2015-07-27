@@ -1,0 +1,37 @@
+
+UI Developer Javascript JQuery @ Jifflenow
+Experience: 3 – 5 years
+ 
+Jifflenow is hiring Senior UI Developers with JQuery, Javascript, and Javascript frameworks to join our talented development team. You are responsible for executing the next-generation front-end experiences to the Jifflenow business users. You are a strong technologist, up-to-date on the latest web UI technologies, and a passion for developing user-delighting experiences.
+ 
+This is what we're looking for,
+
+4+ years designing and implementing fast, scalable and modern web applications.
+Experience with MVC Frameworks such as AngularJS, ReactJS, BackboneJS
+Work with designers &amp; back-end developers to create standards-compliant, cross-platform compatible front-end code using JQuery, Javascript, AJAX, HTML-5, CSS(3) / CSS Preprocessors (we use SASS). 
+You must be REALLY good and fast at HTML/CSS.
+Familiarity with responsive design.
+Source Code control tools experience, especially git.
+Ability to code HTML Email templates with understanding of limitations, and standard practices.
+Excellent communication skills, and ability to collaborate
+Good to Have Ruby on Rails experience.
+
+ 
+As a UI Developer, you will
+
+Work with the designer and back-end development team to implement interactive or dynamic front-end functionality.
+Develop standardized components that interact with the server side
+Develop quality front-end code, following industry standards and best practices
+Ensure that features are supported across a variety of web browsers and platforms
+Update and maintain documentation in an organized manner
+Identify new technologies that improve product development and the user experience
+
+ 
+Location : Bangalore
+Salary    : Best in the industry
+ 
+ 
+ 
+ 
+ 
+

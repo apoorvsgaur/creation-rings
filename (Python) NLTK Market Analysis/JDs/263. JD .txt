@@ -1,0 +1,20 @@
+
+Poshmark is looking for a talented and creative full time mobile engineer. The candidate is expected to love creating mobile applications that have a simple user interface and solid code that touches the lives of millions of users. If you have a passion for developing new user experiences, solving difficult problems and creating delightful solutions, this is a perfect job for you. As an early employee, you have the unique opportunity to shape the direction of the product.
+PS: If you have not developed mobile applications before but have experience in developing web applications, understanding of event oriented programming and user experience, we would love to talk to you as well.
+Responsibilities
+
+Work with the product and design team to understand and iterate on feature requirements.
+Develop features, performance improvements and bug fixes for our android app.
+Write high quality and maintainable code and test cases.
+
+Ideal Candidate
+
+Top notch Java programming and software design skills.
+Experience in building native Android apps.
+Knowledge of Android's common software design patterns.
+Deep understanding of the internals of Android frameworks.
+Understanding of design and use of RESTful web services to create connected applications.
+Experience in any of the following highly desirable - Git, Rails, HTML5, jQuery, Objective C.
+BE/BTech in computer science or related discipline
+
+

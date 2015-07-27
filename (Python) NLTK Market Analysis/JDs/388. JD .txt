@@ -1,0 +1,47 @@
+
+About Germin8:
+Germin8 is a Social Media Intelligence company situated in Mumbai focused on helping you understand and act in real time on the gazillions of conversations by your stakeholders. 
+Germin8 Social Listening™ is a proprietary stakeholder insights, engagement and social media listening platform that collects and analyses conversations in real time from public sources and private sources, and converts them into industry-specific actionable insights and leads.
+For more information, please visit: www.germin8.com
+ 
+Why work with Germin8? 
+We are currently in a very interesting phase of our product's life-cycle, on business as well as development life cycle fronts. We are already adding value to 100+ brands in their daily decision making process, bringing them more close to their customer's expectations. We have aggressive plans to target new market segments and new geographies. We need excellent engineers who can work towards making our products reach thousands of brands and millions of users. We have just switched to Agile SDLC paradigm, which has brought in a lot of streamlining and excitement in the development phase. We are planning to incorporate the new age processes like Continuous delivery that will entail a lot of interesting stuff at all phases of Product development.
+ 
+Title: Software Engineer
+1 – 3 years of experience
+Mumbai
+Package: 
+ 
+Responsibilities: 
+
+Responsible for development, maintenance and quality related activities of front-end of web based software application.
+Influence every step of the delivery process and take ownership for what you build
+Collaborate and work closely with other members in the team, solution architects, scrum masters, UX expert and product owners
+Problem solving and thinking laterally as part of a team, or individually, to meet the needs of the product
+Estimating efforts for feature development and timely delivery of the same.
+Ability to adjust your work hours to meet the timelines.
+
+
+ 
+Profile Description:  Experience of 1 - 3 years of Front End development
+BE / BTech / ME / MTech with good academics
+Strong analytical and problem solving skills
+
+Strong foundation and Hands on experience on HTML / HTML5, CSS / CSS3 and Javascript is required.
+Expert knowledge in Responsive Design
+Ability to convert the UI designs in to fully-functional interactive prototypes
+Expertise with AJAX, jQuery, Angular, Backbone will be an added advantage
+Understanding of cross-browser compatibility and accessibility standards (W3C Guidelines)
+Good understanding of scrum and agile based processes
+Interest in social media technologies
+
+ 
+ 
+ 
+Job Perks
+
+Fun Fridays - Every fortnight everyone joins in for a fun event in office....with free food
+Internal Hackathons - Have an awesome idea? Build it with the team in our internal hackathons
+Free Coffee (you will have to make it yourself though)
+
+

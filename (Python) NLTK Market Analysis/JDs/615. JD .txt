@@ -1,0 +1,33 @@
+
+Are you looking for the next exciting challenge in your career and are you ready to join our world-class team? Are you looking for a job where you are fully responsible for
+
+Conceptualizing and execute solutions for distributed systems in conjunction with teams.
+Defining a common architecture, which guides the development of multiple applications around it.
+Playing a key role in setting-up architecture, coding practices and design guidelines for enforcing best practices across the company.
+Working with the sales/business analysis team to propose business solution(s) for prospective clients.
+Proactively solicit and maximally leverage the technical inputs for multiple projects/applications.
+Take initiative for the overall development of the engineering team (by conducting on-the-job training, mentoring program and so on).
+Providing inputs and guidance to technical architects to analyze, research and design projects keeping in mind the frequently changing requirements of the client.
+Bringing in maturity and understanding of system maintainability and extensibility.
+Perceive and communicate unstated customer requirements.
+Demonstrate true mentoring capabilities and provide technical guidance to team members.
+Take up the role of a technical evangelist outside the project architecture responsibilities.
+Provide technical inputs to the program manager/ business analysts to facilitate in understanding customer requirements.
+Analyze and evaluate infrastructure and performance requirements of the client.
+
+
+Desired Skills &amp; experience:
+
+Well versed in at least one or more of following technologies: Java, Ruby, JavaScript and or Python.
+Hands on experience with functional and post-functional languages such as Scala and Clojure will be added plus
+Experience with one or more caching mechanisms:  Varnish, memcache, redis
+Experience with non-relational Databases: Mongo, Cassandra, or Neo4j, aerospike
+Experience with MPP databases, such as Redshift or Bigquery
+Good to have: Experience on Hbase, Hadoop, Storm, Kafka, ETL
+Search: Solr, Sphinx, Elasticsearch
+Source Code versioning: GitHub, Bitbucket
+Hands on experience with shared-nothing architectures and functional programming techniques, such as MapReduce
+Well versed with Continuous integration, Continuous deployment using Jenkins
+Code quality checks with Sonarqube
+
+

@@ -1,0 +1,23 @@
+
+   Languages                   :- JAVA (J2SEandJ2EE), C, C++, C#, ASP.NET
+
+Framework                   :-Struts, Hibernate, Spring, Spring Data, Jersey (RESTful Web
+
+   Services ),  REST,
+                                        Web socket (jsr), Jaggery (HTTP web services),
+                                        AngularJS.
+
+Operating Systems      :-Windows XP, 7, Linux, UNIX.
+Database                     :-Oracle 11g, MySQL
+NoSQL Database        :-MongoDB
+Web Technology         :-HTML, CSS, JAVASCRIPT, XML, JSON, AJAX
+Source Control tools    :-SVN, GIT, Stash(Git repository management), Bitbucket.
+Tools and IDE              :-JIRA, Eclipse, Bitwise, MyEclipse.
+Protocols                        :-HTTP, SOAP, TCP, JMS, WS
+Servers                        :-Apache Tomcat, WSO2 Application Server, WSO2 Enterprise                                            Service Bus, WSO2 Data Services Server
+Testing Framework      :-Junit4, JMeter, SOAPUI, TestLink.
+Message Broker          :-Apache ActiveMQ
+Build tools                    :-Maven, Ant
+Payment Gateway       :-PayPal
+
+

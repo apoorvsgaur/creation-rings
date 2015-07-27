@@ -1,0 +1,50 @@
+
+Hi we are looking for CTO for edu-tech startup that focuses on building new era in education sector. This startup is basically focuses on instant tutoring, location based tutor finding, coursework, analytics, social learning and more.
+
+&lt;h3&gt;Job description&lt;/h3&gt;
+Position Summary
+The Technology CoFounder (CTO) reports to the Managing Director, and is responsible for establishing the company’s technical vision and leading all aspects of the company’s technology development and services delivered to company's customers. The CTO is the top technology executive, playing an integral role in the company’s strategic direction, development, and future growth.
+Job Description
+The CTO serves as the company's Chief Technology Officer and has overall responsibility for the long- range direction of technological planning and development.
+He/she is responsible for entire technology development for the products and services with other technology team.
+The CTO is also responsible for corporate technology architecture for production technology systems, and ensures that the architecture can support the growing and changing needs of the business.
+The CTO works closely with all offshore offices and assures service delivery by heavily involving offshore resources and expertise.
+He/She is responsible for building and maintaining project management and technical expertise
+The CTO heavily influences products and services regarding technical expertise needed to be preserved and developed to maintain business. CTO is responsible for  new technologies, knowledge and experience.
+Position Requirements:
+Formal Education &amp; Certification
+
+University degree in the field of computer science, information technology or another rigorous discipline. An advanced degree in one these fields is a plus.
+Wide IT background and understanding modern IT and application based technologies
+Practical experience in :
+
+IT infrastructure 
+Systems integration
+Software development
+Web, Mobile Application Development 
+IT Product Development 
+
+
+Practical experience with deployment, optimization and operation is good.
+
+
+Experience leading large-scale network deployment and optimization projects.
+Proven leadership ability.
+Ability to set and manage priorities judiciously.
+Excellent written and oral communication skills.
+Excellent interpersonal skills.
+Ability to articulate ideas to both technical and non-technical audiences.
+Exceptionally self-motivated and directed.
+Keen attention to detail.
+Superior analytical, evaluative, and problem-solving abilities.
+Exceptional service orientation.
+Ability to motivate in a team-oriented, collaborative environment.
+
+ 
+Work Conditions:
+
+Be ready for a lot of Overtime. 
+
+&lt;h3&gt;Desired Skills and Experience&lt;/h3&gt;
+SCALA, Java, Hbase, HTML5, Mobility solutions, Backend, Frontend, End to end technology development, Hadoop, Json, JavaScript, jQuery, APIs Integration etc;
+

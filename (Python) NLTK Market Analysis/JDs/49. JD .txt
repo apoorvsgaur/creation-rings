@@ -1,0 +1,26 @@
+
+We are Sandieago based Product/Services based Start-Up, hiring a couple of Full-Stack Rails Developer. With atleast 1 Year of Experience.
+Skills Required.
+
+Should be aware of Rails 3/4 Framework.
+Should be well aware of Routes, MVC Pattern, Gems and other Rails Sepecific Tools.
+Knowledge about GIT
+Creating Servers on AWS, Deployment Experience.
+No-SQL MongoDB with Mongoid Integration.
+jQuery, bootstrap, and other UI Elements.
+
+Your Role.
+
+Your Job wouldn't be to do Maintenance, or stuffs like that, You would be responsible for Complete Product Development, right from the start till the End. Most of our project, we do it from Scratch.
+
+There is lots of learning associated, if you are ready to learn, and quickly be ready to scaleup, Send in your resume/Github Profile. Lets Chat.
+Note: Though this is a Chennai only job-posting, we are open to Remote-Workers ( If their profile is reallly good )
+Thanks,
+Job Perks
+
+MacBook for ever one,
+Friendly Work-From home Policy, ( We don't mind, until the work gets done.)
+No Managers,
+No Appraisals, ( Thats evident in BlueChip Company)
+
+

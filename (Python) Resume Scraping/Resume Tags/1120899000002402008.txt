@@ -1,0 +1,1 @@
+3d,eclipse,gnu,java,linux,matlab,opengl,oracle,perl,python,scripting,shell,sql,svn,testing,trading,unix

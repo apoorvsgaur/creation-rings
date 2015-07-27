@@ -1,0 +1,1 @@
+android,api,bash,c,digital,embedded,git,graphics,html,java,kernel,linux,middleware,mvc,network,perl,python,qt,rtos,scripting,sdk,security,shell,smtp,stack,ui,unix,voip,wan

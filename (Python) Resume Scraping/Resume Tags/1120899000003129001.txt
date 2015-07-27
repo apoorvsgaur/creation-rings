@@ -1,0 +1,1 @@
+android,css,css3,debian,eclipse,flash,graphics,html5,java,javascript,jquery,linux,mysql,netbeans,oracle,photoshop,php,python,sdk,sql,testing,ubuntu,virtualization,vmware

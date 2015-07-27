@@ -1,0 +1,37 @@
+
+We are looking for an experienced Senior PHP Programmer who is self-motivated, goal orientated and a strong team player. You take pride in your work and know what it means to take responsibility and deliver quality focused products.
+You have the knowledge and ability to visualize how things should work, and how to translate this into a functioning solution.
+If these are values that you are passionate about, then you might just be the person we are looking for.
+
+Responsibilities
+
+Design and Develop PHP Applications that meet customer needs satisfactorily
+Manage projects, lead your teams and mentor your juniors
+Strive to innovate - providing out-of-the-box solutions to problems faced in development everyday
+Come up with new ideas - discuss them with fellow employees and convert them into products
+Learning something new every day and share what you learn
+Take responsibility for the work assigned to you and results that you give
+Be a part of company's growth - you grow with your company
+Be a team player - possess a good attitude and be self-disciplined
+
+Skill Set
+
+Basic Knowledge of Algorithms and their Design
+Ability to create good Database Designs
+Expert knowledge of Apache Server Configuration
+Excellent analytical and problem-solving ability
+Fast learner and self-starter
+Excellent Communication Skills and fluency in English
+Excellent interpersonal skills and team orientation
+
+Requirements:
+
+Holding BE/B.Tech in Computer Science/Information Technology or graduation with certification in PHP Development
+Excellent skills with PHP. Working knowledge in core PHP is must
+Experience with other web technologies including JavaScript, HTML, CSS, jQuery, AJAX, Bootstrap, etc.
+Experience with MySQL database including Key Constraints, Joins, Triggers, Aggregate Functions, etc.
+Expertise in one of the MVC frameworks - CakePHP, CodeIgniter, Laravel etc.
+Expertise with CMS and eCommerce platforms Wordpress and Magento
+1-3 year working experience required
+
+

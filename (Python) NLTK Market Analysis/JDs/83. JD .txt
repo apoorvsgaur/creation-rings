@@ -1,0 +1,23 @@
+
+Job Description:
+Be part of a revolutionary 5 day iterative product development cycle building one of the most innovative marketplace products in the world. Will be responsible for the development of the webapp, UI, data engine and the core ecommerce engine. Should be flexible and willing to learn new technologies in a dynamic start-up environment.
+The right candidate must possess great problem solving ability and should be good in programming, data structures, algorithms and object oriented design and development.
+ 
+Tasks:
+- Requirements gathering
+- Estimating time for tasks and planning for execution
+- Attend Scrum meetings to update daily status
+- Work with the Design team to build products with awesome UX
+- Work with Testing team to understand and fix bugs
+- Troubleshooting issues faced while using the product
+- Perform unit testing
+- And of course, write code and develop great product
+ 
+Requirements:
+- Passionate about creating memorable experiences for customers
+- Enjoy working with technologies such as Ruby, Rails, Redis, Javascript, Bootstrap, HTML, AJAX, Backbone, SASS and CSS (Having these skills is a plus, not mandatory)
+- Embrace a test-driven development and code review culture
+- Design and write well-structured, easily maintainable, well-documented code that balances beauty and pragmatism
+- Experience: 0-2 years
+- Good programmer profile (github, stackoverflow, open source contributions, etc)
+

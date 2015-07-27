@@ -1,0 +1,8 @@
+
+At moviebuff.in, we believe that the Indian movie audience deserves much more than half-baked information from a foreign database and ad-plastered gossip sites. We're designing and building the best online movie database experience, specially tuned for our country; a definitive source of information on all movies that release in India — Hollywood, independent and of course, Indian movies in every language.
+We are looking for a full stack Web Developer (Ruby on Rails + Javascript + Databases) to work with us on enhancing our product and service offerings. MovieBuff is being built by a team of talented people who are equally passionate about cinema and software development. The ideal candidate would be comfortable with various aspects of web development. Below is a brief list of technologies that you should be comfortable with.
+Database: MySQL / PostgreSQL. Knowledge of NoSQL datastores like Redis/MongoDB is preferable.
+Languages: Ruby/Python/Node
+Frameworks: Rails/Sinatra/Django/Express or equivalent
+We're a small and very focused team and we're just looking for smart people who are fun to work with.
+

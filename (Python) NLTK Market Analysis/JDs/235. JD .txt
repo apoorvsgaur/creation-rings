@@ -1,0 +1,5 @@
+
+About us
+LogBase is a startup that builds cutting edge Big Data Analytics and Machine Learning products. LogBase was founded in 2014 and co-located in Sunnyvale, US and Coimbatore, IN.We’re looking for a programming ninja who is a self starter/learner and passionate about programming and solving problems.Requirements
+Experience: 0-2 yrs.Tech Skills: Java / Python along with DBMS knowledge.Programming knowledge mandatory for freshers.Having projects to showcase in your GitHub is an added advantage.
+

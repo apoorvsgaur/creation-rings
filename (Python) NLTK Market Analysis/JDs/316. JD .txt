@@ -1,0 +1,17 @@
+
+Storytrails (www.storytrails.in) is looking for talented mobile app developers to design a travel related application. Engagement model could range from a short-term/freelance project to a venture partnership, based on experience and fit for the role. These are the basic requirements:
+ 
+
+Experience in Java, Javascript, PHP, Xcode, Cocoa, Objective C , Swift
+Familiar with IOS and Android APIs
+Experience of working in a structured app building environment
+Aware of standard practices for Cocoa coding conventions.
+Experience in Application Architecture design
+A good understanding of C, C++
+Experience in Object Oriented Design Pattern application in Objective C.
+Experience with version control software like Git
+
+Best Regards
+Vijay
+
+

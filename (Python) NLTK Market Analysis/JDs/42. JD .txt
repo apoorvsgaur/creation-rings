@@ -1,0 +1,37 @@
+
+Appngage is the upcoming Hybrid SaaS platform for Mobile App developers. We will be providing  User Engagement, Growth Hacking and monetization solutions for Mobile Apps. We are based in Banashankari 2nd Stage (Bangalore). We are a team of 3, to make it sound better we are a Family of 3 members. There are zero restrictions or limitations for you working with us. Work the way you want, work from where ever you want. The only thing we care about is being exceptional at what you do, and completing the missions way before the deadline! We are looking for an "Android Superhero" who has deep knowledge and experience with the Android SDK and other amazing technologies to help us build exceptional products that don't exist yet in the world. Our android library will be used by thousands of applications across the world. The Android superhero we hire will have complete ownership of the libraries and will be responsible for its future growth.
+Our Engineering Culture:
+
+We believe in "Get Shit Done". No matter what, if we decide we need to build something, we will just do it and never give up.
+We try to make two people work together i.e Collaborate and work, it results in higher productivity, better codes and definitely fun, not boring!
+We believe in Rapid iteration. If we find we have built something better that what's live, then we just ship it.
+We write tests for things that are mission-critical, prone to failure or cause paranoia. 
+We believe in knowledge is power and learning, a never ending process. So, you always have the freedom to learn new things. Once you learn something new, share it with the whole team.
+We always laugh at Deadlines. We always love to ship before the deadline.
+Monthly internal hackathons, build something useful for Startups and open-source them.
+We love Beer+Code. I don't think this needs any more explanation.
+
+What are we looking for:
+
+At least 2-3 years of experience building, testing, deploying, and maintaining Android applications (show us your apps on Google Play!)
+Deep understanding of Java and Android SDK
+Good knowledge about Memory management and multi-threading. Our library will be running in thousands of applications and should be flawless
+Good interpersonal and communication skills
+A continuous learning approach and willingness to share knowledge with the team
+Attention to detail
+Creative problem solving — we’re looking for people who aren’t afraid to push the boundaries
+You code as fluently as you speak
+Experience on web service integration (SOAP, REST, JSON, XML)
+Plus points: Contribution to OpenSource, iOS Development, Web Development, party freak and being geeky.
+
+What will you do if you are selected:
+
+Be involved in developing android SDK and android integration code for our platform
+Build prototype apps at various stages of work
+Be highly motivated and take complete ownership of your work
+Ensure high quality and scalable code
+Keep up to date on the latest industry trends in the mobile technologies
+Provide valuable inputs in key technology decisions for the platform
+Party every week!
+
+

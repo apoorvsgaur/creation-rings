@@ -1,0 +1,1 @@
+c,c++,embedded,java,linux,middleware,mysql,network,oltp,oop,oracle,perl,scripting,shell,solaris,sql,tester,testing,unix

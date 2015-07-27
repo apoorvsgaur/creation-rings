@@ -1,0 +1,3 @@
+
+Looking to update corporate website -www.script.com.sg. The new website should be able to play video in the background like - www.heroesofscience.com and www.vanitee.com. Website should have CMS, optimised for mobile, prefereably parallax or single scroll
+

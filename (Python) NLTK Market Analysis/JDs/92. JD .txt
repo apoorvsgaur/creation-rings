@@ -1,0 +1,5 @@
+
+Our current IT systems have already scaled up to support 100,000 users. We are looking to recruit outstanding engineers from top technical schools to scale up the systems further and create outstanding online learning experience to learners. 
+The ideal candidate will have a Bachelor's Degree in Computer Science or equivalent degree/diploma and a minimum of two years of software development experience, preferably in Java. Strong experience in developing highly scalable applications using Python or C# or C++ can also be considered if the candidate is willing to adapt. The job responsibilities will including creating and maintaining highly scalable REST services and APIs to interact with MySQL and NoSQL databases. 
+Our team consists of more than 12 people from IIMs and other top MBA schools such as MDI Gurgaon and SP JAIN, and a technical team that comprises engineers from IIIT Hyderabad and other prestigious institutes, with work experience in companies like Bloomberg, IBM, Cisco among others. 
+

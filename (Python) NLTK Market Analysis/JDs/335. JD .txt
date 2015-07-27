@@ -1,0 +1,32 @@
+
+Responsibilities
+
+Design systems architecture for projects using Linux and Linux application stacks (LAMP, Ruby, Postgres, Java, Python etc)
+Capacity planning
+Design and implement continuous integration and continuous delivery platforms.
+Design and implement internal cloud infrastructure
+Automation and implementation of permanent resolutions to prevent outages / downtimes
+Responsible for architecting deployments for High Availability, scalability and reliability
+Design and implement platforms for monitoring, log processing, metrics collection and data visualization.
+Script and code tools (in shell/perl/ruby/python etc) for automation and efficient management of sites/products
+Infrastructure and platform security.
+Puppet configuration management.
+Lead and mentor a team of Operations Engineers.
+Liaise with application development teams to drive operational best practices.
+
+Skills
+You are an expert/master in some of the below tools/skills -
+
+Linux: In depth Linux/Unix fundamentals, Good understanding the various linux kernel subsystems (memory, storage, network etc), Understanding of various distributions nuances (RHEL/Centos etc), Package management etc
+Fundamentals: DNS &amp; Networking Fundamentals, TCP/UDP, IP Routing, HA &amp; Load Balancing Concepts.
+Storage: RAID, DAS, SAN, NAS
+Application Stacks: LAMP, Nginx/HAproxy/ATS, Wackamole, Email Platforms, Tomcat.
+Cloud Infrastructure : OpenStack
+Databases: SQL/RDBMS, MySQL/NDB, Postgres, MySQL/Postgres/Slony Replication.
+Configuration management : Puppet
+Tools/Utilities: Nagios, Cacti, Ganglia, Kickstart/Cobbler, Mcollective, Yum, RPM, GIT/SVN
+Scripting/Programming: Multiple scripting/programming languages - Bash/PERL/Ruby/Python/PHP.
+Others: Regular expressions, Excellent troubleshooting skills.
+Systems/Hardware: LOM/IPMI/IP KVMs, Dell Hardware.
+
+

@@ -1,0 +1,1 @@
+c,c++,eclipse,java,linux,multithreading,network,oracle,perl,qa,scripting,shell,soapui,solaris,svn,testing

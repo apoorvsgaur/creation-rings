@@ -1,0 +1,1 @@
+.net,ajax,asp.net,c,css,git,html,java,jquery,jsp,linq,mvc,netbeans,nunit,oop,optimization,oracle,php,rdbms,security,servlets,soa,soap,splunk,sql,t-sql,testing,tfs,wcf,winforms,xml

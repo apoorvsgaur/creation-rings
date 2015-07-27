@@ -1,0 +1,28 @@
+
+Sciera is a rapidly growing big data analytics company based in Atlanta,GA with offices in Chicago, London and Chennai. with a growing business, a working business model and a seasoned executive team. Our products are being used by some of the largest telecom companies in the world. We’re changing the way the world thinks about marketing data and we are looking for talented engineers to join our development team in Chennai.
+If you’re passionate about distributed systems, large scale non-relational data stores, database performance, dimensional modeling, state of the art reporting systems and multi terabyte data warehouses, and are interested in joining a world class engineering team you might well be the person we’re looking for. This hands-on role contributes to the organization's success through expertise in large scale map-reduce systems, data modeling, advanced database programming, and database architecture and configuration.
+Sciera is looking for developers with min 3 years experience with the following qualifications:
+MUST HAVE SKILLS
+
+At least 2 - 4 years experience with JS (AngularJS) and NodeJS + Drupal &amp; PHP , MongoDB + MySQL
+Hands-on experience with at least one MVC &amp; MVW framework
+Experience in single web front-end using HTML(5), CSS(3) and JavaScript (AngularJS), node.js (Express), Websockets
+Be proficient with advanced JavaScript concepts; AngularJS directives, services, promises and JavaScript design patterns, callbacks, classes
+Experience with REST/JSON APIs
+
+NICE TO HAVE SKILLS
+
+Good communication skills in English, both written and Oral
+Strong Knowledge of any other language like Java, Python, Perl, Ruby as well
+Good Analytical Skills
+Responsive Web Design
+
+
+EDUCATIONAL QUALIFICATIONS*
+
+Bachelors Degree in Engineering or Bachelors degree ( BSC) in Computer science or MCA or any Bachelors in Mathematics/Physics/English with a passion for computer science with atleast 65% aggregate in their Bachelor's degree
+Passion to grow, excel and achieve something in lifeWillingness to work long hours.
+Knowledge of MapReduce would be highly desired but not necessary
+Also mention the current salary that you are drawing, the best numbers to reach you as well as the best time to reach you. Serious candidates can also showcase the best work they have done which they are proud of.
+Interested candidates need apply. Shortlisted candidates will undergo a written aptitude test and 2 rounds of interview.
+

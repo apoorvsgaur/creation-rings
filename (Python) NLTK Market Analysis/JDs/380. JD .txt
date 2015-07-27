@@ -1,0 +1,12 @@
+
+FitNut is a New Delhi based startup driven to change the way people pursue and achieve fitness. No longer does it need to be about paying exorbitant gym and personal training fees to get the information you need. FitNut brings a certified personal trainer and nutritionist directly to a users iOS or Android device. 
+Through game changing UI, we will provide customized plans that take into account the profile and goals of each user. Our team of fitness experts analyze the users information and apply their knowledge to create a routine that aims to empower the user to achieve their goals. Users can track their workouts and the FitNut team will analyze the tracking data to provide optimize routines month on month.
+We are looking for passionate, driven and talented team members that can add value to as well as learn about an industry that is poised to hit INR 1 trillion in 2015. We want a CTO to lead us into the future being way ahead of the game and present/soon to come competition. Person must possess the following skills:
+
+Full Stack Development
+2-3 years experience in leading application development projects
+Must have worked on live customer oriented/ enterprise applications
+Experience with iOS and Android Application Projects
+
+Along with the above, we welcome anyone passionate about fitness, nutrition and wellness to get in touch with us to set up a chat and we can take it from there! We hope to hear from you soon. In the meantime, don't forget to eat clean and work out hard and often :).
+

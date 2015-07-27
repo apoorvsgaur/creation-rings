@@ -1,0 +1,34 @@
+
+Grofers is looking for someone to own our Android App which means leading the entire development process so that shopping from local stores through the app becomes a seamless experience.
+ 
+SOME BASIC REQUIREMENTS FOR THE ROLE:
+
+Excellent knowledge of Java Technology Stack, Mobile Development and Android eco-system.
+Good exposure to SQLite.
+Capable of handling web service integration - RESTful, JSON, SOAP, XML
+A focus and passion for Mobile UI &amp; UX to make apps exciting for the user.
+Excellent debugging and optimization skills.
+Rapid prototyping skills for getting product feedback.
+Atleast one year experience with Android development.
+
+ 
+WE WOULD LOVE IF :
+
+You believe that going the last mile is what creates the magic
+You have worked on large Android App through scaling and performance issues
+You have built one or two amazing apps on Play Store.
+You already love and use Grofers.
+You have great work ethics.
+
+
+ABOUT GROFERS:
+Grofers is a hyper-local delivery platform. We are building a delivery marketplace that connects consumers with local merchants for express deliveries.We are currently present in Delhi NCR and Mumbai.
+Grofers started in January 2014 and currently employees over 200 people. The company is backed by Sequoia Capital and Tiger Global. 
+Job Perks
+WHAT YOU GET AT GROFERS:
+
+Competitive salary and equity based on experience. 
+Laptop and peripherals of your choice.
+Working with a kick-ass team that is passionate about making shopping easier for lazy folks like ourselves.
+
+

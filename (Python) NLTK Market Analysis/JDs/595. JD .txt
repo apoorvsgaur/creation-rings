@@ -1,0 +1,34 @@
+
+Want to be part of the most disruptive, innovative mobile commerce start-up in India with world-class team, long-term vision, and top global investors backing it up? Don’t just dream it. droom it !
+As Lead/Senior Software Engineer, you will be working with cutting edge product development using PHP, MySQL, memcaache, varnish, and other open source technologies to deliver highly scalable enterprise class application. In this role you will be responsible for driving high visibility and high impact projects from start to finish. You will be responsible of handling all the key aspects of product development such as technical design of the feature, implementing highly scalable systems, work/lead other engineers to complete the product development, research, prototype, implement new technologies &amp; concepts, etc. 
+As an engineering resource at droom, you will work on new challenges on daily basis, you will focus on problem solving, and you will interact with our Silicon Valley based technology team on a regular basis. We will operate in world-class and very fast-paced engineering environment and you will be learning new things and making huge impact at the same time.
+An ideal candidate will possess following:
+
+5+ years of experience developing E-Commerce/consumer internet technologies using PHP, Apache/Nginx, Memcache, Redis, Solar, Varnish, etc.
+Good at Object-oriented Programming and Design Principles (OOPs, SOLID, OOA/D)
+Strong commercial experience of Object Oriented PHP
+Excellent knowledge of MVC framework either Laravel or Symfony (preferably Laravel)
+Experience of NoSQL technologies such as MongoDB.
+Exposure UNIX/LINUX development environmen.
+Exposure to scalability and high availability issues would be beneficial
+Experience with GIT/SVN management and maintenance of code base and deployment using the same.
+Working knowledge of the mobile landscape, architectures, trends, and emerging technologies
+Strong hold of key concepts of Javascript and basic libraries like JQuery.
+Proficiency in Client Server Model is a huge plus JavaScript/HTML5/CSS/xml:
+Attention to detail and ability to conceptualize a concept.
+Extremely good communications and interpersonal skills.
+Project Management skills required
+Ability to collaborate across departments.
+Result oriented and ready to take ownership.
+Desire to make impact and high work ethics.
+This role requires working directly with senior management team. 
+
+droom offers competitive compensation, stock options, great learning &amp; exposure, and merit based career path. Your career growth will be in your hands and your role will be what you carve out.
+ 
+About droom 
+Founded in April 2014 in Silicon Valley, droom is India’s first mobile marketplace to buy and sell used and new automobiles.
+At droom, passion, energy, innovation, and customer centric approach are always welcome. We are passionate about building mobile consumer technologies, enabling automobile sellers to sell online, and offering the world-class mobile shopping experience.
+droom is non-formal, fun, collegial, non-hierarchical and high-energy environment. At droom you can deliver the best work of your career without having to worry about work politics, delays, biases or slowness.
+We believe that the best mobile shopping experience can be built only with the most customer centric and passionate people. If this sounds like you - we want you.  
+
+

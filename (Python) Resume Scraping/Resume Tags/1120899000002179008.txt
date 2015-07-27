@@ -1,0 +1,1 @@
+ajax,apache,cms,css,drupal,flash,hibernate,html,j2ee,java,javascript,jboss,jquery,json,linux,mvc,mysql,oracle,orm,perl,php,postgres,postgresql,rails,rest,ruby,scripting,selenium,shell,soap,stack,svn,testing,ubuntu,vmware,wordpress,zend

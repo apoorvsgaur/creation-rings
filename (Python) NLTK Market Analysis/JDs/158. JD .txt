@@ -1,0 +1,25 @@
+
+Company Profile: 
+Fabfresh is an online professional laundry service initiative by a bunch of Bachelors who are techies based in Bangalore. Having very well through with the trouble of doing their not so appealing laundry themselves, our tech nerds wanted to solve this problem for zillions of other professionals and homemakers who find this chore equivalent to yet another gig of a day.
+Skills required :
+
+Involve in android mobile apps development, creation of XML web service, handle Google play store for APPS release. 
+Fluency in Java related technologies.
+Experience in Database development.
+Experience in network programming.
+Familiar with Architecture, Memory, Caching.
+Familiar with network protocols/ protocol servers.
+Web Services, SDK, Data Structures, Multi-threading.
+Real-time internet based systems.
+XML/JSON in all variations.
+Experience using mobile platform programming environments such as Eclipse.
+
+Job purpose :
+
+End to end ownership of the mobile product you work on including but not limited to design,development, testing and delivery.
+Strong cross-functional contribution in defining and delivering the roadmap for our product on mobile and tablet devices.
+Software engineer with strong analytical skills and verbal as well as written communication skills.
+Self-starter with ability cope with sharp learning curves.
+You should be able to communicate clearly, and keep us informed of progress, keeping to schedules and deadlines.
+
+

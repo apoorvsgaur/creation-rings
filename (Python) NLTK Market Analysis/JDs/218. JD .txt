@@ -1,0 +1,8 @@
+
+Booking.com - planet Earth’s #1 accommodation website - is looking for a Senior Linux System Administrator to join our headquarters in Amsterdam, NL. As a member of our IT Production Team you’ll be given the freedom to make meaningful and measurable improvements impacting millions of people. You’ll be working on 7000+ boxes placed in different live operating data centers around the world.
+You will be part of one of the biggest e-commerce companies in the world and work with some of our industry’s smartest people. You will work on a wide range of technologies which include UNIX, Linux, CentOS, puppet, chef, Perl, Python and more. By proactively thinking about scalability we can ensure the growth of Booking.com.
+http://grnh.se/egcy74
+
+Job Perks
+This position is open to worldwide candidates and in the case of relocation, we will assist you with a generous relocation package, ensuring a smooth transition to working and living in Amsterdam.
+

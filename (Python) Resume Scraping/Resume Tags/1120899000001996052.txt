@@ -1,0 +1,1 @@
+3d,android,api,c,c++,css,debian,eclipse,embedded,graphics,html,java,javascript,linux,opencv,opengl,photoshop,php,python,qt,r,spring,sql,webserver,xml

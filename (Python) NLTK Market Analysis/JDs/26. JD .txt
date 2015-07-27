@@ -1,0 +1,47 @@
+
+About You
+We believe a lot in personality, more than experience.
+
+
+Are you passionate about programming? Please share your Github profile or Stack Overflow Profile Name.
+
+
+Very shrewd when comes to making algorithmic choices
+
+
+Excellent communication skills, both verbal &amp; written (You can refer us to a blog that you maintain) .
+
+
+Can defend incessantly, if you feel your solution is right.
+
+
+Never gives up
+
+
+Are you a person who hates “status-quo”?
+
+
+Get stuff done
+
+
+Programming is not the only thing you do. We would like to listen from you what do you think are the most important things in life.
+
+
+ 
+About Us
+We are a 2 person team. Vishal and Senthil. We are looking for an awesome technology person to join us.
+
+Top Skills
+
+
+
+Python, Django, PostgreSQL, JS, AngularJS, KnockoutJS, jQuery is what we do day-in and day-out.
+
+
+If you are accustomed to any other web framework, but ready to switch to Python Django PostgreSQL, you are most welcome.
+
+
+Must have enough knowledge in Javascript, jQuery, CSS3, HTML5, Bootstrap to pull off features and enhancements.
+
+
+

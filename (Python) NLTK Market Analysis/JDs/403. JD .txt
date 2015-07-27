@@ -1,0 +1,4 @@
+
+We're looking for a reliable individual who has 1 to 2 years of industry experience, a good UX sense, very good hands-on in AngularJS, LESS, CSS3/HTML5 and who can quickly build fully functional product. - Experience in other Javascript Framework is added advantage. - Knowledge on AWS hosting and NodeJS development is a bonus. - You will mainly be working on AngularJS/NodeJS powered web app. - You will be solely responsible for building and managing UX/UI of webapp. - You will get to prototype many new concepts in event industry.
+- Being Batman fan is a plus.Note: Don't Apply if you don't have inclination to work with a startup.
+

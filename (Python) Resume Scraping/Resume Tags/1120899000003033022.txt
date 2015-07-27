@@ -1,0 +1,1 @@
+.net,android,c,c++,digital,java,javascript,jira,linux,matlab,network,nunit,oracle,python,r,rest,scrum,sdk,spring,sql,vmware,wpf

@@ -1,0 +1,23 @@
+
+Quikchex is on a mission to automate Indian backoffice HR operations. Leveraging the power of beautiful, intuitive software, we simplify the way Indian companies pay and manage their employees.
+We have built a product that our customers love, and we are looking for talented engineers to continue building out the best HR product in the Indian market.
+At Quikchex, you will
+
+Work with our product and operations team to design key modules of the product
+Architect the backend to create a scalable, efficient product
+Convert mockups into beautifully executed code
+Work with our business development and customer support teams to understand customer pain points, come up with solutions, and then prototype, iterate and launch frequently
+Integrate 3rd party APIs into the product, including Google, Dropbox APIs
+Integrate billing, invoicing and account management tracking into the product
+
+
+We’re looking for people who:
+
+Are passionate about creating memorable experiences for customers
+Enjoy working with technologies such as Ruby, Rails, MongoDB, Redis, Javascript, Bootstrap, HTML, AJAX and CSS
+Can turn wireframes and mockups into elegantly executed code
+Have a successful track record building distributed, high-throughput applications that scale
+Embrace a test-driven development and code review culture
+Design and write well-structured, easily maintainable, well-documented code that balances beauty and pragmatism
+
+

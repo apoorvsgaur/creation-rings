@@ -1,0 +1,29 @@
+
+Us:
+Mesitis empowers individual investors and their advisors with account aggregation and visualization across asset classes and banks. Our application Canopy accepts trading information and bank statements in any electronic format and generates consolidated, relevant analysis that helps investors make sense of and act on their financial portfolio. Our aim is to marry technology and finance to make every investor more aware and better equipped when they invest their hard-earned money.
+We have set out to solve the hardest problem first. So our current target market is high net worth individuals and their advisors and wealth managers; they invest across asset classes, currencies and markets. Next, we want to take the product to mass affluent investors. We have started in Singapore, but our ambition is to be global.
+You:You will be responsible for the .NET piece, and will be tasked with making it better, more powerful and more robust. As the owner of this piece, you will be key to making Canopy scale rapidly to thousands of users, while new features are continuously tested and implemented.
+You must have:
+
+Extensive experience in using VB.NET and VB, along with a degree of comfort with HTML/CSS and Javascript
+No minimum number of years of work experience required, but the applicant needs to have successfully shipped apps using .NET framework
+Familiarity with SQL databases, in particular Post greSQL
+Proficiency in using Github and experience in Agile methodologies
+Experience in writing automated tests to support new software
+Experience in debugging problems appearing on existing production systems
+Proven skills in working with both technical and business colleagues (some of them could be remote) to ensure business requirements are correctly implemented
+
+It will be nice if you have:
+
+Knowledge of Server, Network, Hosting Environment + Security across the layers
+
+PS: Recruiters and outsourcing companies: please don't waste your and our time. We will only respond to potential candidates
+Job Perks
+
+The best hardware you can ask for (iMac, Aeron chairs ... you name it; we got it. Ok, scratch that: no Apple watches) 
+Choice of espresso or filtered coffee (the odd beer bottle has also been spotted in our fridge)
+Flexible working hours as long as you consistently surpass expectations
+Freedom to attend and present at workshops and meetups, without affecting normal-course work
+Stock options for the right candidate
+
+

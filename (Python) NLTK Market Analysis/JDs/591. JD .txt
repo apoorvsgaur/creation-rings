@@ -1,0 +1,24 @@
+
+**This is a full time salaried position in Khar (W), Mumbai**
+We are actively recruiting PHP Developers to take over feature development and enhancements for an education product built in Laravel 4.2. Qualified candidates would have the following experience / knowledge:
+
+Proven ability is preferred over years of experience / academic qualifications
+Excellent knowledge of Laravel &amp; The Eloquent ORM
+Working knowledge of Blade Templates
+Strong knowledge of HTML5, SCSS, Javascript and popular tools/libraries (bower, jQuery, etc.)
+Working knowledge of MySQL, Redis
+
+Candidates can expect:
+
+40 hour work week with an emphasis on work-life balance
+Opportunities for growth - product development, architecture, new platforms &amp; technologies
+Time away as needed
+Team Events
+
+
+Interview Process:
+
+Written application
+Technical interview (in-person)
+
+

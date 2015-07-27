@@ -1,0 +1,20 @@
+
+We are looking for a Front-End Web Developer for a San Mateo/Bangalore based startup who is motivated to combine the art of design with the art of programming. Responsibilities include:
+
+- Able to collaborate with the design and product team to translate visual mock ups into efficient front-end components in HTML/CSS/ Javascript.
+- Build reusable code and libraries for future use.
+- Apply front-end design patterns, trends and best practices to maximize bandwidth performance, cross-browser compatibility and high usability.
+- Experience in responsive web design and development.
+Required Technical Skills:
+- 2+ years of experience. FRESHERS NEED NOT APPLY.
+- Excellent grasp over web markup, including HTML5, CSS3.
+- Ability to understand and convert photoshop/ Sketch mockups into HTML interactive pages.
+- CSS3 responsive design experience.
+- Proficient understanding of client-side scripting and JavaScript frameworks, including jQuery
+- Basic mobile UI development experience.
+
+
+
+Job Perks
+Free lunches and snacks. Relocation can be negotiated.
+

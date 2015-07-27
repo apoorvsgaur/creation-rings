@@ -1,0 +1,17 @@
+
+About HatchForce:
+HatchForce is a digital boutique firm focused on helping early stage and game changing product companies being their technical partner to build their next big thing. We help out companies to take napkin ideas to market launchable product and support to drive in achieving product goals by finding the product market-fit with iterative methods of Lean &amp; Agile.
+We support and engage our customers through multiple stages which include but are not limited to Wireframing, UI/UX Design, Product architecture and build, performance and scaling, user testing and load testing.
+Our specialization is currently geared towards building scalable web applications built on Ruby on Rails and native mobile applications in iOS and Android.
+Present Requirement:
+ We currently need a ASP.Net developer to work on an assignment. We need the candidate with the expertise in the following skills:
+
+ASP.Net mvc 4 or 5
+Angularjs
+jquery
+webservices
+
+ Candidate must be able to maintain professionalism and deliver the things on demand and accurately. It is a freelancing or part-time work.
+Job Perks
+It is a part time or freelance job. Perks will be on hourly or daily or assignment basis.
+

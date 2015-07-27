@@ -1,0 +1,1 @@
+backbone,css,flash,frontend,html,illustrator,jira,js,mvc,photoshop,sass,testing,ui,ux

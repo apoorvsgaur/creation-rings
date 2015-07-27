@@ -1,0 +1,29 @@
+
+World's largest &amp; fastest growing data science community is looking for a CTO. The challenges would be un-matched and so would be the rewards! If you get excited by intellectually stimulating problems and know what it takes to create Web scale products - look no more.
+We are looking for highly skilled hackers to lead our tech efforts in this exciting journey. Some of the exciting work you will be responsible for includes:
+
+Designing, creating and rolling out first of its kind mobile app for Analytics Vidhya
+Leading product development and design for mobile and web apps
+Defining and implementing the targeting and machine learning strategy for various functions
+Creating a social network for analytics professionals with features like peer review, consultation, challenges
+Defining and implementing the targeting and machine learning strategy for various functions
+
+
+Technical Skills required: 
+
+Experience of creating web scale architecture and infrastructure to support our growth
+Python / Ruby - Full stack with expertise in at least one web framework (Django, Flask, web2py, Rails etc.)
+Experience of creating / leading a mobile app on iOS &amp; Android
+Knowledge of PHP and Wordpress would be an advantage, especially migration from Wordpress
+MongoDB (or other NoSQL databases like Neo4j)
+Knowledge of Javascript and AngularJS
+Knowledge of machine learning is Desirable
+Managing and migrating web hosting on the cloud (AWS)
+
+
+Other qualifications:
+
+Passion for startups and technology
+Experience in leading startups in past is desirable
+
+

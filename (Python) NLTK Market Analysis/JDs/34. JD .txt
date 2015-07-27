@@ -1,0 +1,31 @@
+
+The Sr. Android Developer position is for the Bikes Business (BikeDekho) at CarDekho. BikeDekho is  one of the fastest growing two-wheelers research destination in India with over 1 Million users accessing it every month. With BikeDekho, our vision is to enable the 16 Million+ two-wheeler buyers (every year) in India, to make well informed and hassle-free bike purchases.
+BikeDekho is a budding startup within the CarDekho ecosystem. As a product, we are mobile-focused and are looking at some major product implementations in the time to come, with a vision to change the way people buy bikes in India. 
+For more information, please reach out at piyush.taneja[at]girnarsoft[dot]com
+
+Role Description
+We are looking for an Android/Java Developer with 2-3 years of relevant experience and a strong background in computer science. As an engineer, you be leading the android development of one of the fastest growing consumer apps in the country.  This opportunity is for people who have a certain obsession with developing high-quality android apps and are looking to work in a hyper-growth ecosystem.
+The position is based out of Gurgaon and the Developer will be reporting to the Product Head.
+Moving forward, we would want the candidate to become the Android Lead and oversee/manage the overall Android strategy and execution.
+
+Key Requirements
+
+Minimum 2-3 years of development experience in Android/Java
+Bachelor's degree in Computer Science/IT or equivalent practical experience
+Ability to ideate, architect, develop, and quality test the app from scratch
+Strong grasp of algorithms, scalability and multi-threaded programming
+Experience with SaaS platforms for mobile development like Flurry, Cloud Storage, Ad platforms, Push Notifications and so on
+Experience working with remote data via REST and JSON
+Knowledge of android layout optimisation tools and performance optimisation tools
+Experience with push notifications and integration of Google GCM and its APIs with mobile app
+Good product design sense, and a certain obsession with minute details
+Ability to work as part of the team and also be able to work independently when required
+High sense of product ownership, and all the issues and bugs that come with it. 
+
+
+Benefits
+
+Compensation will be up to the market level, and won't be a constraint for the right candidate.
+Relocation assistance available
+
+

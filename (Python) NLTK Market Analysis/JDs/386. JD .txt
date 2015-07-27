@@ -1,0 +1,9 @@
+
+We are looking for someone who:
+1. Loves building great applications and learning new skills. 2. Passionately want to be part of an Early-stage startup. 3. Is looking to build a career as a Full Stack Engineer. 4. Really cares about user experience, when building and using apps. 5. Can work in a high pace development &amp; growth environment.
+Technical Requirements:
+1. Experience of building web applications using PHP and MySql. 2. Experience working in JavaScript, HTML, CSS, JQuery. 3. Should be able to work on live server environments. 4. Good working knowledge of using AWS services is a plus.
+Prior experience of building web applications and API integrations using RESTful services is a MUST.
+Perks &amp; Opportunities:
+1. Tremendous learning opportunity for building global products. 2. Will be working directly with our highly talented Chief Engineer. 3. Exposure to the best of the startup community in Bangalore. 4. Great working environment. 5. Competitive pay and perks
+

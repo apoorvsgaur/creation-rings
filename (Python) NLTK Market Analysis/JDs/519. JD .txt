@@ -1,0 +1,36 @@
+
+We're looking for thoughtful Front-end Dev with an eye for design &amp; experience.  
+What you’ll do:
+You will:- 
+Create the best possible user experience for features on desktop &amp; web. To do this, front-end dev acts as an interface between requirements and product.
+The finer print:-
+
+Write Reusable code
+You’ll collaborate with your team via git using feature branches in a continuous deployment environment.
+Your code will be reviewed by your peers and you will be expected to provide meaningful code review feedback to others. 
+
+What you are good at:-
+
+Familiarity with JS productivity tools like Bower, Grunt, Broccoli and Yeoman
+Solid experience developing applications using Javascript-based MVC frameworks like ExtJS, Angular JS, Dojo, Backbone.js, Ember.js.
+Experience with a CSS preprocessor like Sass or LESS
+Design decent &amp; Implement- WebApps with RESTful API support
+Frontend heavy &amp; backend lean. 
+
+About us:
+At Azoi our days are spent in the pursuit of innovation, excellence and problem-solving. We have set out to tackle the mounting challenges in healthcare through the use of sophisticated, yet easy-to-use, and readily accessible monitoring technology. We leverage nascent digital health technology to put the power to manage one’s health and wellbeing in every consumer’s hand. And we do this with the dedication of our amazing and dynamic team of domain experts, engineers, scientists, designers and strategists.  As a part of the team, you will be expected to give your very best every day; challenged to think outside the box; and contribute meaningfully to the solutions we seek. We are a startup, and we are growing up fast…are you ready to grow with us? 
+What we have:
+
+Innovative, participative, transparent &amp; vibrant culture
+An ever-growing, inspiring environment
+Platform to utilize your potential to the fullest-Help us keep our learning curve high
+We are always open to your feedback &amp; suggestions
+Opportunity for growth-Free meals
+Comfort is of paramour importance to us hence we do not follow a dress code, wear what is comfortable. Plus we encourage the use of equipment which make your functioning more comfortable
+Celebration at Azoi include Birthday Half days/Birthday Spa'; parties, pot lucks, game nights, festival celebration, food fests
+Rewards &amp; recognition at Azoi include, Spa’s; incentive, attractive coupons, trips, dinner with family-Open forums, team activities, team lunches/dinners
+There’s always candy at your disposal at Azoi (for all your sweet tooth cravings) 
+
+
+Looking forward to hear from you!!
+

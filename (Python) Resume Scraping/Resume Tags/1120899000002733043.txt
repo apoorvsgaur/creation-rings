@@ -1,0 +1,1 @@
+android,c++,css,debian,eclipse,git,html,ios,java,javascript,jira,linux,map,network,python,qtp,scripting,sdk,selenium,sql,tcp,testing,tfs,ui,xml

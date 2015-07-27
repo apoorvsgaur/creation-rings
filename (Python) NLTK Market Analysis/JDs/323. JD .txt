@@ -1,0 +1,38 @@
+
+You’ll be a critical member of a small engineering team working directly under VP ( Engineering). You will : 
+
+Develop, scale, and own significant components of Plash's core platform infrastructure.
+Design and create services, system architectures, and data storage schemas for core backend
+Brainstorm and contribute ideas to our product
+Develop new services and features and provide ongoing support for those features throughout the product lifecycle.
+Ensure efficiency, quality, and operability of a large-scale distributed system
+Optimize the application for maximum speed and scalability
+
+&lt;h3&gt;Desired Skills and Experience&lt;/h3&gt;
+
+Bachelors / Masters  degree in Computer Science, Electrical Engineering, Mathematics from top academic Institutes like IIT, NSIT,NIT, DCE,BITS etc
+Desired Experience : Min 1 yr to 4 yrs exp in Java Development.
+Strong in Designing, Core Java programming, Algorithm, Data Structures
+Good Knowledge of Struts/Spring/Play/Hibernate/Multithreading / SQL &amp; NoSQL
+Responsive on the expectation and needs of clients within the project requirement
+Abillity to work under tight deadlines
+Completes assigned specific tasks from Detailed Development Plan
+Testing to verify that the programs function correctly and to ensure that modifications have not caused error in other parts of the program, interfacing programs and interfacing systems.
+Resolves technical issues through debugging, research and investigation.
+Should be good learner with positive attitude. 
+
+Job Perks
+Benefits 
+
+Options of ESOPs
+Competitive salaries
+Paid time off
+Medical insurance
+Life insurance and disability benefits
+Company sponsored tech talks
+Amazing Workspace
+Bar on Terrace with Happy hours.
+Breakfast, lunch, and dinner
+Much more...
+
+

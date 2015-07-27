@@ -1,0 +1,1 @@
+.net,c,c++,eclipse,java,linux,network,networking,optimization,oracle,perl,rtos,scripting,sdk,shell,smtp,solaris,sql,stack,svn,testing,ui,unix,vxworks,xcode

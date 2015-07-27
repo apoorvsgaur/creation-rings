@@ -1,0 +1,36 @@
+
+We at Roposo.com are looking for happy front-end developers to become a part of our core team.
+About Roposo:
+Roposo is a fashion-focused social networking website. We pledged a year ago to become India’s first unique fashion discovery platform for women and today, they call us Google of Indian fashion market. 
+Speaking of team, we are a bunch of sleep deprived, daydreaming youngsters constantly looking for a way out of the rat-race. Our team consists of witty and creative brains from India's top institutions. We function in 3 troupes; Beautiful coders (they believe life isn’t bad, it is in BETA), Fashion geeks (they will never miss the details) and Mad ad-men (they will rope you into things before you know it). We place our faith in versatile individuals and go-getters. If you see yourself fitting well in a pack where people stay up all night watching sitcoms or movies and still show up in the morning with crazy ideas to work on, we will welcome you with our arms wide open. 
+We’re looking for someone who has experience with:
+
+Javascript (strong experience required)
+Angular.js (Or Other MVC frameworks such as Backbone, Ember etc)
+HTML5 &amp; CSS3
+CSS preprocessors (SASS and LESS)
+Responsive Web
+Webpage optimization
+
+At Roposo you will:
+
+Work in an agile environment that fosters daily design iterations and code builds.
+Build and polish modular, scalable, responsive HTML/CSS
+Work closely with Designers, backend developers to create the final product.
+Implement dynamic front-end features using Angular.js (or other MVC frameworks)
+Optimize existing functionality for improved User Experience
+
+Other things that would be nice to have:
+
+Contribution to any open source project is a big plus
+Familiarity with git and github
+Familiarity with node.js
+Prior experience in a startup is a plus
+
+Job Perks
+
+Join a fast-growing company with a vibrant, developer-led office culture
+Competitive Pay
+Fully stocked kitchen
+
+

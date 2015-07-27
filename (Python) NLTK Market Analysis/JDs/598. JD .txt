@@ -1,0 +1,22 @@
+
+Must have:
+1.Must have 7+ years of experience in mobile development.
+2.Strong OO design and programming skills in Java (J2EE/ J2ME).
+3. Familiar with the Android SDK Knowledge of SQLite, MySQL or similar database management system.
+4. Familiar with Eclipse.
+5. Strong OO design and programming skills in Objective-C.
+6. Familiar with iOS SDK (UIKit, Cocoa Touch, Core Data, Core Location, etc).
+Good to have :
+1. Understanding of other compiled languages.
+2. Experience on web service integration (SOAP, REST, JSON, XML).
+3. Experience of development using web technologies.
+4. Good understanding of OO programming and design patterns.
+5. Good understanding of HTML5, JavaScript, jQuery.
+Bonus points :
+1. Acting as lead iOS and/ or Android developer. Depending on the skills set can be lead on one platform and play a    supporting role across the other.
+2.Create compelling device specific user interfaces and experiences.
+3. Standardising the platform and in some cases apps to deliver across multiple brands with minimal duplication of        effort Optimising performance for the apps.
+4. Keep up to date on the latest industry trends in the mobile technologies.
+5. Deliver across the entire app life cycle –concept, design, build, deploy, test, release to app stores and support.
+
+

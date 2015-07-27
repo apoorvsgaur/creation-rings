@@ -1,0 +1,20 @@
+
+We are a startup working on an extremely innovative online application that has seen highly impressive growth over the past year with 60+ prestigious paying clients including many really big names (we've had 85%+ conversion rates). We will be happy to discuss the product over a conversation.
+The company is currently a garage setup of 15 persons working from an apartment, and is run by an IIT/IIM graduate. It feels like family here very soon - we care a lot about our people, and you'll love the warmth, freedom and challenge. We'll pay you well, and, if you stick around long enough, offer stock or stock options - these are all negotiable though we've given indicative figures as part of this ad. As we make it big, we want our people all to be part of the party.
+We are looking for people with PHP programming skills (and not just on CMSs like WordPress, Drupal or Joomla). Our work requires a good understanding of and experience in direct, core PHP programming - we do not use any CMS. So you'll need to be very good with arrays, object-oriented programming, PHP functions etc.
+Specifically, we are looking for someone with good:
+1. MySQL skills (making queries run in even lesser time is a typical challenge), with good experience in database design,
+2. Core PHP programming skills, with exposure to MVC and sound understanding of OO concepts,
+3. Javascript skills (jQuery and AJAX) with DOM manipulation experience, and
+4. Modern HTML/CSS programming knowledge.
+Linux skills, and experience with AWS and email servers, would be a big plus.
+An experience of 3 years would be good, more would be welcome.
+The indicative monetary salary for this position (excluding stock) is Rs. 4 - 6 lakhs per annum. We'd prefer that you join in a maximum of 2 weeks if selected.
+We are open to people who want to take up a contract position, too.
+Apply to us if you would like to work on a modern website and cutting-edge challenges, be part of the growth of a highly promising and ethical company, and have an outside shot at becoming rich.
+This is a full-time job from our office located at Masab Tank (the beginning of Banjara Hills Road No. 1) in Hyderabad.
+When you apply, please make sure you answer the following specific eight questions:
+1. Are you working anywhere right now?2. If you are, have you already resigned from your job (i. e. are you serving your notice period)?3. How many days will you take to join if made an offer?4. Which city are you based in right now?5. How do you commute (public transport / bike / car)?6. If you live in Hyderabad, which part of Hyderabad do you live in?7. Are you single or married?8. What salary are you expecting?
+We look forward to hearing from you!
+
+

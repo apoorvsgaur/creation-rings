@@ -1,0 +1,1 @@
+angular,apache,api,aws,css,digital,eclipse,hibernate,html,html5,j2ee,java,javascript,jboss,jenkins,jquery,js,jsp,junit,maven,memcache,mysql,rest,spring,svn,testing,tomcat

@@ -1,0 +1,1 @@
+aws,bigdata,c,c++,hadoop,hive,java,linux,mysql,netbeans,opengl,oracle,storm,ubuntu

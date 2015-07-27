@@ -1,0 +1,21 @@
+
+Android Developers:
+Location - Goa
+Requirements: 
+
+Expert level understanding and knowledge of Android application architecture, at least 3-years developing Android applications
+Strong with Java, Eclipse, OOP Design, JSON, Javascript, Android Studio
+Strong understanding of algorithms and data structures.
+Knowledge of Android Material Design
+High proficiency with development tools and workflows (modern source control systems, unit testing, continuous workflow, and so on)
+Understanding of performance testing and optimization techniques
+Experience with Android sensors will be a huge plus
+
+An Introduction:
+Prototyze is a startup with a difference. We were off the ground in October 2014, and are already now working on a slew of mobile-first products. While we may be a young start-up, we have an organizational history that is 15-years old, with Synapse (http://www.synapse.co), ScreenRoot (http://www.screenroot.com), Visual Juju (http://www.visualjuju.com) as sister organizations. Our strong lineage and profitable years means that we are able to seed fund all these products ourselves, and already have a strong organizational infrastructure and support.
+ 
+Know more about all of us through:
+http://www.privateunlimited.com: This is a history of our organization for calendar year 2014
+http://www.facebook.com/privateunlimited: A fun compendium of what we, and our people, do in Goa
+http://www.prototyze.com: That's our website, it's still in stealth mode.
+

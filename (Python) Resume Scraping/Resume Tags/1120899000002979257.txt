@@ -1,0 +1,1 @@
+.net,ajax,bootstrap,c,c++,cms,css,debian,frontend,git,html,java,javascript,jquery,kernel,linux,mvc,mysql,nunit,oop,optimization,oracle,perl,php,scripting,sdk,soa,sql,ssrs,stack,t-sql,testing,ubuntu,ui,ux,xml,xslt

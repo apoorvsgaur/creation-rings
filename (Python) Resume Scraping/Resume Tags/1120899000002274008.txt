@@ -1,0 +1,1 @@
+.net,ajax,angular,asp.net,bootstrap,c,c++,cms,codeigniter,css,html,j2ee,java,jquery,js,jsp,mvc,mysql,oracle,php,scripting,sql,svn,ui,vb.net,wordpress

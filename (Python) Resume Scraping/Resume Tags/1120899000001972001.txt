@@ -1,0 +1,1 @@
+android,boost,c,c++,ios,java,javascript,jsp,linux,mysql,native,oop,opengl,perl,python,qt,stack,svn,testing,xamarin

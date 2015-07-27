@@ -1,0 +1,1 @@
+android,api,bootstrap,capistrano,css3,git,html5,javascript,jquery,js,linux,mysql,nginx,rails,ror,ruby,scrum,ui,unix,ux

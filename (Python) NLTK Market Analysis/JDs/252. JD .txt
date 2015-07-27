@@ -1,0 +1,35 @@
+
+Eligibility : Any Graduate, BE/B.Tech
+Location : Delhi
+Job Category : Core Technical, StartUp, Others, 1 to 3 Yr Exp
+Last Date : 1 August  2015
+Job Type : Full Time
+Hiring Process : Face to Face Interview, Telephonic Interview
+Skills: Java / J2EE, Android Development, Embedded System, Artificial Intelligence
+Mad Machines - Job Details
+Looking for Mobile Application Developer (Android)
+Responsibilities :
+
+Development of our Application () for Android platform focussing on front end 
+Supporting, deploying, and maintaining critical product applications
+Troubleshoot complex system issues and fix software defects when required
+Database programming, including SQL queries, schema, table and view creation
+Continuous integration of code into (GIT) source code control systems
+Work with Product and IT Leadership on strategic software and development planning
+Collaborate with Designers and Product Managers for product development
+Collaborate with C Developers to integrate product libraries using Android NDK.
+Ability to work independently while participating in a team environment.
+Effective decision-making and the ability to come up with innovative technology strategies is important
+
+Basic Qualifications:
+
+Expertize of XML and OpenGL ES( Open GL for Embedded System)
+Android: Strong Java skills with extensive knowledge of the Android SDK and NDK
+Experience in Game Development is preferred. Candidates should have worked on SDK or third party Game Engines such as UnrealEngine4,Unity3D,Marmalade, Cocos2Dx,AndEngine,ibgdx or AppGameKit.
+Exposure to Agile Development Principles is preferred.
+
+This Job is ExpiredCompany Profile
+Mad Machines is a young Product based start-up. We deal in designing products for companies using Machine Learning. Our exploits so far include working in verticals such as write intelligent software to automate and improve processes.
+We work across domains such as Travel,Food and Beverages, Medicine etc. Our founding team consists of alumni of IIT Delhi.
+
+

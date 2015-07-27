@@ -1,0 +1,16 @@
+
+Scooperb is a local search and offer discovery service mobile app which provides a personalized local search experience for its users. By taking into account the places a user goes, the things they have told the app that they like, and the advice of other users they trust, Scooperb aims to provide highly personalized recommendations of the best offers around the user's current location and area of interest.
+Roles and Responsibilities:
+- Gather Requirements from Business community and convert to technology solutions
+- Work with agressive timelines
+-  Need to Enchance existing functionality and build new features
+- Need to be a quick learner and aware of the growing technology trends
+
+Mandatory Skills:
+- Extensive LAMP experience - Good exposure on Git - Working Experience deploying on the Google cloud
+
+Education: - BE or MCA from reputed university
+ 
+Experience:
+- 2+ years of experience 
+

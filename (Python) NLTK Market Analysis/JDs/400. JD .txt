@@ -1,0 +1,11 @@
+
+We are looking for a self driven iOS Lead developer to own and build our mobile apps on the iOS platform. We are a fast growing company, we expect you to be comfortable working in small, lean teams without needing much supervision
+
+You will build, maintain and publish all our mobile offerings and will also be in touch with our customers to gain constant feedback on the products
+You will interact with the backend team to get the necessary APIs built for the same
+We expect you to know the iOS developement framework in detail
+You will also be curious about desiging clean API interfaces
+Knowledge of responsive design, html5, css, javascript will be an advantage
+We expect you to be fun, and join us in hacking non production code from time to time
+
+

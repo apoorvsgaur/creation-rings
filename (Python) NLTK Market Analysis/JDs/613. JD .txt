@@ -1,0 +1,28 @@
+
+Right now, we are developing our best products ever. Some are the first of their kind, others are remarkable innovations. The pipeline is pretty and the team is excited.
+With this high energy, comes rapid growth, and that's where you fit in. Game changers are a rare breed but we know you are out there. We love how your relentless passion and ambitious drive moves you. You question everything.
+Your vision is different than others, your approach to solving a problem doesn't come from a text book, you know there are better ways. You see the big picture. And you know you can make it a reality.
+Degrees are cool, but they don't matter here. We hire talented people, not CV’s.
+Website:  http://tlkn.com/
+Website: http://www.novanet.net/ 
+Experience:  1+ years.
+Roles &amp; Responsibilities:
+
+Test Planning, Test Cases, Black-Box &amp; White-Box Testing, Manual Testing, Test Environment Setup/Teardown, Defect Logging &amp; Verification.
+Establishing and maintaining automated scripts to ensure quality of production releases.
+Evaluating complaints from our beta users and reproducing errors that need to be escalated to developers.
+Establishing and maintaining testing documentation of all our products and automated testing tasks
+
+Skills required:
+
+1+ years of experience testing on mobile devices with strong experience of testing on Android and iOS platforms
+Basic understanding of PHP, Java, and/or Objective-C  is a huge plus
+Experience using Bug Tracking softwares like JIRA/Redmine
+Comfortable working in a fast-paced, constantly changing atmosphere
+Extremely self-motivated; able to identify opportunities for improvement and tackle them, without external direction.
+Efficient and timely bug tracking
+Follow up with Dev team for bug fixes
+Environment preparation (Deployments on test and stage environments)
+
+
+

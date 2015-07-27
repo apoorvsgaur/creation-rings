@@ -1,0 +1,28 @@
+
+Channelyst is a two year old, bangalore based, venture funded startup in the process of building the world's largest cloud-based B2B marketplace for companies, distributors and retailers to discover, transact and manage their interactions. 
+We believe we are potentially building a business which will improve profitability, reduce cost, and add value to the $ 490 Bn consumer product market in India that comprises of 15 Mn Retailers, 1 Mn Distributors and over 20 K Companies. More importantly, we believe that our model will help structuring the unorganised retail space in India and other emerging economies , through technology.
+We are on the lookout for a bright android developer who could help us to take this exteremely intricate and challenging marketplace to android mobile devices.
+
+Responsibilities
+
+Design and build advanced applications for the Android platform
+Collaborate with cross-functional teams to define, design, and ship new features.
+Work with outside data sources and API's
+Unit-test code for robustness, including edge cases, usability, and general reliability.
+Work on bug fixing and improving application performance.
+Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+
+ 
+Requirements
+
+3-5 yrs experience in total; minimum 3 yrs experience in Android development
+Proven working experience in Android development
+Have published at least one original Android app
+Experience with Android SDK
+Experience working with remote data via REST and JSON
+Experience with third-party libraries and APIs
+Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies
+Solid understanding of the full mobile development life cycle.
+
+ 
+

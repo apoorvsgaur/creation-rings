@@ -1,0 +1,1 @@
+.net,android,asp.net,c,css,eclipse,html,java,linq,mysql,photoshop,php,rails,rdbms,ruby,testing,unix,xml,xslt

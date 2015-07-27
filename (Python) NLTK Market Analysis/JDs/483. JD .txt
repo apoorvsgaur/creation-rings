@@ -1,0 +1,8 @@
+
+This is a full time short-term assignnment of product development for a well funded tech startup based in Delhi. Run by founders with extensive global experience in Technology, Hospitality and Banking.
+About the project - The project involves developmet of a complete product, very much like an OTA allowing hotel bookings. Hence needs dynamic data interface with inventory, availability, live bookings etc.
+The work involves a variety of problem solving relating to design, development, and is purely a function of the developer's interest and skills. 
+This is an interesting project for someone to get fantastic experience building scalable applications from ground up!
+Please revert with some references of past work, availability and background.
+Best
+

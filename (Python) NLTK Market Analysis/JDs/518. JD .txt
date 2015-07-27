@@ -1,0 +1,38 @@
+
+eezyrent.com is a 2 year old startup created to make your rental search – faster, easier, cheaper – be it for a place (exclusive or shared), or a tenant / flatmate for your place. We are broker-free. We are already generating significant revenue, and our roadmap is very clear.
+We are looking for young, energetic, extremely talented software engineers to to help us bring the real estate industry into the 21st century – by building a smart product that understands what the user needs, and with features make rental search truly reliable &amp; effortless.
+Our office is on Link Road, Malad West (near Mindspace). 
+
+RESPONSIBILITIES
+Your job will be to take up business problems and deliver tech solutions for them.
+
+Work in a team to quickly understand, prototype and deliver a robust, scalable solution. 
+Build scalable web based systems
+Handle extension &amp; maintenance of existing systems
+Develop test cases &amp; test suites
+Collaborate with product mgmt team to define features and build products that will delight our customers, and help our operations team be highly productive.
+Participate in the entire engineering process, from design through to integration testing, deployment and monitoring.
+Learn to define &amp; design systems; develop detailed implementation plans, and coordinate cross-team dependencies.
+
+
+You will work closely with co-founders to get an in-depth understanding of the business. Your growth will depend entirely upon your willingness &amp; ability to understand the product and the business, take responsibility to enhance it, and deliver high quality work within the agreed timelines.
+
+REQUIREMENTS
+Minimum 1 year hands-on development experience in the use of .NET technology and Object Oriented Programming, including (not limited to) ASP .net, C#, ADO .net, Web Service, WCF, Windows Service, MVC framework
+
+AJAX, jQuery, JavaScript, JSon, XML, CSS Knowledge would be an added advantage.
+Hands-on experience with .Net Framework
+Minimum 1 year of hands-on experience in relational database design and development, preferable SQL Server 2008 R2.
+Excellent experience of using IDE like Visual Studio .NET (2008 onwards).
+Experienced using source control programs, preferably TFS and Visual Source Safe.
+Familiar with the structure and operation of Microsoft Internet Information Server (6.0 and higher).
+Hands-on experience on product development and familiar with product development life cycle
+Display a high degree of inquisitiveness and an eagerness to learn at a detailed and abstract level.
+Highly self-motivated with a strong business sense to capture and fulfill the business requirements for all products and articulate in an architecture model.
+Good analytical, communication and interpersonal skills.
+Strong academic background
+Loves to learn new technologies and is a fast learner.
+Be extremely customer centric. Should like going the extra mile to make the customer happy
+1-3 years of experience 
+
+

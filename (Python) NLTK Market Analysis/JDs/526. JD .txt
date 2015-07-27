@@ -1,0 +1,26 @@
+
+          &lt;h4&gt;Series A funded startup looking for a proficient frontend developer to work full-time on a project for 6 weeks. Candidates willing to work from our office with our engineering team will be preferred. Open to exploring longer-term engagement based on performance on this project.&lt;/h4&gt;
+&lt;h4&gt;Responsibilities&lt;/h4&gt;
+
+Create the User Interface of products - internal and external using the best development practices.
+Quickly create prototypes of new products. Use available tools to do quickly do the prototyping.
+Demonstrate a dedication to code quality.
+Profile and optimize the code to get the best possible performance across browsers and operating systems.
+
+&lt;h4&gt;  Skill Requirements&lt;/h4&gt;
+
+Strong fundamentals of CSS and HTML.
+Familiar with HTML semantics and HTML5 specifications.
+Strong JQuery Skills &amp; Experience is a must have.
+Strong portfolio of work showing experience developing standards-compliant front-end code for web and mobile web.
+Expert-level skill in HTML (4 and 5), CSS (2 and 3) and JavaScript (libraries including JQuery or AngularJS ); the ability to write standards-compliant code from scratch.
+Experience with version control systems like git.
+Good knowledge of XML and XML Schema.
+Familiarity with templating tools a plus.
+
+&lt;h4&gt;  Educational Qualifications&lt;/h4&gt;
+
+Bachelor degree in Computer Science, IT, Electronics or equivalent will be good-to-have.
+The first point does not apply, if you have proven experience with the above mentioned skills.
+
+

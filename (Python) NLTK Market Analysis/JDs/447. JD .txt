@@ -1,0 +1,28 @@
+
+Who we are:
+
+We are GrexIt (http://grexit.com). We are revolutionizing how people use email to collaborate! Our product turns Gmail into a collaboration platform.
+We are profitable, growing and have lots of paying customers across the world. You will find ambitious and passionate people here who love to build things and keep adding awesomeness to our product.
+Work environment is relaxed, fun and casual. Shorts with flip flops are our preferred way of dressing
+
+Job description:
+Our engineering team is looking for our first QA engineer with atleast 1 year of experience testing Web based applications. This role would involved working closely with engineering team to identify and create test cases for our web app and browser extension. You will participate in test case creation, manual testing and automated testing for our product.
+We are looking for you if:
+
+Atleast 1 year of experience with testing web based apps (preferably SAAS products)
+Basic understanding of web apps, mobile apps and internet in general
+Knowledge about version control (git, specifically github)
+Familiarity with scripting languages (bash/python ect)
+Familiarity with automated testing frameworks like Selenium
+Extra points for familiarity with linux environment.
+
+
+Job perks: 
+
+The most positive and cheerful work environment that you can think of
+Market level (or better) salary
+All meals while you're in office
+Very frequent outings
+Occasional work from outside office
+
+

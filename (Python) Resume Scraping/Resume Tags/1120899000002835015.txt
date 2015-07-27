@@ -1,0 +1,1 @@
+ajax,apache,c,c++,css,eclipse,elasticsearch,hibernate,html,j2ee,java,javascript,jboss,jenkins,jms,jquery,jsf,jsp,linux,maven,mongo,mvc,mysql,nosql,oracle,orm,postgresql,python,rest,scripting,scrum,servlets,shell,soap,spring,struts,testing,tomcat

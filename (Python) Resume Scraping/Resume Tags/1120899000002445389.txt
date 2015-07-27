@@ -1,0 +1,1 @@
+.net,analytics,asp.net,c,c++,eclipse,graphics,java,javascript,linux,mcp,network,oracle,qa,rendering,scrum,scrummaster,sdk,sdlc,security,soap,solaris,sql,stack,svn,testing,tfs,winforms,xcode,xml

@@ -1,0 +1,34 @@
+
+Who we are?
+We at RankWatch are a completely bootstrapped yet very fast growing fast growing software company with 30,000+ active users. Our client base is in 119 countries at the moment, thus imagine the reach of our product in global landscape. 35 People strong, based in a cool office in Udyog Vihar, Gurgaon. We are on a mission to revolutionize Digital Marketing. RankWatch provides you a platform to work with an excellent team and with cutting edge technologies. Mongodb, postgresql, Big Data, NLP and other hadoop based systems to name a few. What we are looking for:
+ Understanding Web Services, RPC, XHR, SOAP
+ Good command on Frameworks based on MVC pattern
+ Core knowledge of PHP or JS things like: a. Version Update and Importance/Improvements in eachb. Inbuilt PHP array &amp; string functionc. Profilersd. Debugging, Memory Allocation, Deallocation and more.
+ Loves solving problems related to Scale and Big Data.
+
+
+
+Job Perks
+
+What we offer you: 
+
+
+1. Completely flexible working culture in a really cool office.
+2. Opportunities to think beyond the standard approach for example, integrate C with php, write php extensions
+
+
+3. Opportunity to research and bring more value to yourself and us, we always support you in all possible ways to attend and organize Tech meetups. 
+4. Brilliant team of co-workers who are extremely passionate about what we do.
+5. Opportunity to lead products.
+
+
+6. An upcoming office in Pipe in Goa. 
+
+
+Off the record, we have an amazing terrace, which turns into a party zone every other weekend. ;)
+
+
+Let's connect asap, send us your resume, github url, LinkedIn profile and have a quick call, if we find the frequency suitable, we will catch up for a beer/coffee. 
+
+
+

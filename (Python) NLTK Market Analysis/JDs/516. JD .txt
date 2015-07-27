@@ -1,0 +1,19 @@
+
+Experience : 0 - 2 years.
+We are looking for someone who loves building, maintaining and monitoring applications on the MEAN stack. You’ll be working as part of a team, creating innovative new features and maintaining existing ones on a number of web applications and services. The perfect candidate will need a keen eye for details and high standards for code quality and efficiency. Knowledge of best practices in building scalable applications is highly desirable. 
+What you’ll do
+
+    Build web services for mobile and web applications
+    Write and test interactive, clean, secure and efficient solutions
+    Maintain existing features by improving and scaling supporting code
+    Solve non-trivial coding and architecture problems with simple and innovative solutions
+    Implement the newest cutting edge technology, tools and frameworks
+    Integrate with third party applications and APIs   
+
+What you will need
+
+    Degree in Computer Science.
+    Knowledgeable in object-oriented programming
+    Passion and a love of what you do!   
+
+

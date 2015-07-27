@@ -1,0 +1,1 @@
+ajax,angular,bootstrap,c++,codeigniter,css,css3,d3.js,eclipse,git,html,html5,java,javascript,jboss,jquery,json,linux,magento,map,mvc,mysql,netbeans,oop,php,sql,tomcat,visualization,wordpress,xml

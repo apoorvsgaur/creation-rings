@@ -1,0 +1,1 @@
+.net,3d,analytics,android,angularjs,api,backbone.js,bootstrap,c,c++,css,d3.js,elasticsearch,frontend,git,hadoop,html,java,javascript,jquery,linux,mysql,nginx,nlp,parse,postgresql,python,r,rabbitmq,redis,rest,scikit-learn,spark,stack,storm,testing,visualization

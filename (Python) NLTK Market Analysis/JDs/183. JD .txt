@@ -1,0 +1,16 @@
+
+We do have multiple opportunities from a Jr. Developer to Lead Developers / Architect at our Bangalore Development Center. 
+
+Should have 3 - 10 years of experience in using HTML, CSS, JavaScript, JQuery
+Expertise at JavaScript is the mandatory (OOJS, Coding, Frameworks)
+Must be comfortable using standard tools to accomplish tasks using the above skills (e.g. tools for development/coding and debugging).
+Should demonstrate eagerness to learn new skills (e.g. new frameworks and technologies in this space)
+Good Communication Skills
+
+ Nice to have skills: 
+
+Knowledge and experience on core java is added advantage.
+Knowledge on testing frameworks like jsUnit, jsTest Drivers, web test.
+Experience on Agile processes and test driven development.
+
+

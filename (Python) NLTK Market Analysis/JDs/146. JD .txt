@@ -1,0 +1,25 @@
+
+SUMMARY
+Python Application development lead accountable for managing and coordinating resources, project workload, and processes to deliver software and web applications, while participating in defining the strategy for the development teams including the development methodologies, technologies (language, databases, and support tools), implementation, testing hardware/software environments.
+RESPONSIBILITIES
+- Plan, coordinate, and supervise all activities related to the design, development, and implementation of organisational information systems and software applications
+- Responsible for the prioritisation of projects and tasks assigned to the Application Development team.
+- Responsible for architecting and developing software solutions, projects, status reporting.
+- Responsible for the complete development lifecycle of software systems, including gathering requirements, database management, software development, testing, implementation, user follow up, support and Project Management.
+- Responsible for the Integrity, Maintenance and changes to the Application Development Servers and Databases.
+- Provides reporting and decision support required for management decision processes. 
+- Does supervise the work of the Web Developer and junior programmers.
+
+QUALIFICATIONS
+- BS in computer science or IT related field.
+- Must have at least 7+ years’ experience in Python.
+- Knowledge in web development and MVC architecture using Django.
+- Database Design and Analysis required.
+- Problem-solving skills, and knowledge of best practices to guide development team on issues related to the design, development, and deployment of mission-critical information and software systems
+- Strong communication skills required.
+- Knowledge in Linux platform, JavaScript, JQuery, Ajax, MySQL, Nginx, and Apache is a plus.
+- Ability to understand and analyze complex business problems in order to define and develop technology-based solutions 
+- Ability to code and contribute to on-going development
+- Deep hands-on technical expertise
+- A record of successful delivery of software applications as an individual or team leader
+

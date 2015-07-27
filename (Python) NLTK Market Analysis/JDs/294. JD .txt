@@ -1,0 +1,4 @@
+
+Help explore various methods to virtualize real spaces for the web.
+We need someone with experience in 3D, image processing. You must have prior experience with kinect or other depth sensors, pcl and openni libraries. 
+

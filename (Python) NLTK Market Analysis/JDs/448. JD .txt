@@ -1,0 +1,9 @@
+
+Required a freelancer or team to handle ongoing development in eCommerce website.
+Following skills required (by person or team)
+1. PHP, MySQL
+2. Javascript
+3. HTML/CSS
+4. Payment Gateway Handling
+Compensation to be given on monthly basis, as per mutually agreed upon terms
+

@@ -1,0 +1,1 @@
+.net,analytics,api,c,c++,delphi,eclipse,frontend,html,java,jenkins,jira,jquery,linux,map,middleware,multithreading,mysql,network,nunit,oracle,qa,qt,rdbms,rest,scrum,svn,testing,tfs,unix,wan,xml

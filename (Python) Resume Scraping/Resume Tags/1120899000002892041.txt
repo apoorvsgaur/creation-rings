@@ -1,0 +1,1 @@
+3d,analytics,c,c++,java,linux,mysql,optimization,oracle,python,r,redshift,sql,ubuntu

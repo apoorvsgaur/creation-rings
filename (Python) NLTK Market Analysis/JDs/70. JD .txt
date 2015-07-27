@@ -1,0 +1,21 @@
+
+Cerebrate is seeking Software and Associate Software Engineers with prior experience or interest in buidling great Mobile Applications in high complexity environments. The ideal candidate has a passion for buidlng real products that thousands of users interact with daily.
+Responsibilities:
+Design and architect features / components for mobile application and write re-usable code
+Optimize existing code and pay keen attention to performance.
+Work round the clock with teams spanning multiple locations and timezones.
+Learn new technologies and get up to speed fast
+Required Skills and Qualifications:
+0 to 1+ years of full-time experience developing Mobile Apps for iOS/Android
+Experience with Ruby on Rails a plus
+Front-end technologies like HTML, CSS, Javascript, Flash, a plus
+Experience of having worked with RDBMS. 
+Strong Communication Skills – Ability to communicate effectively (Problems, Timelines, Blockers, Concerns, etc..)
+Should have strong basics in Software Programming, Web Development, Operating Systems
+Comfortable working in US working hours
+Good to have:
+Experience With Git and Github
+Working Knowledge of XML and Web Services
+Working experience of UNIX/LINUX
+Experience of working on analytics applications is a strong plus
+
