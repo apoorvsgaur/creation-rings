@@ -32,4 +32,5 @@ def hirist_retrieve():
              response = br.open(link.get('href'))
              with open('resume.txt', 'w') as f:
                  f.write(response.read())
+                 x++
 hirist_retrieve()
