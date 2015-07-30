@@ -44,12 +44,14 @@ def hirist_retrieve():
                   filename, headers = br.retrieve(link.get('href'))
                   content_type = headers.get('Content-Type', '').split(";")[0]
                   extension = mimetypes.guess_extension(content_type)
-                  br.retrieve(link.get('href'), os.path.expanduser("~/Desktop/Job Postings/Hirist/" + name_of_job.strip().replace("/","_") + "/" + names_list[i] + extension))[0]
+                  if not os.path.exists(os.path.expanduser("~/Desktop/Job Postings/Hirist/" + name_of_job.strip().replace("/","_") + "/" + names_list[i] + extension)):
+                     br.retrieve(link.get('href'), os.path.expanduser("~/Desktop/Job Postings/Hirist/" + name_of_job.strip().replace("/","_") + "/" + names_list[i] + extension))[0]
                   i = i + 1
+          k = k + 1
                  #print extension
 
                  #with open('resume.txt', 'w') as f:
                     #   f.write(response.read())
-      else: 
+      else:
               break
 hirist_retrieve()
