@@ -1,0 +1,60 @@
+<!DOCTYPE html><html><head><script src="https://cdn.optimizely.com/js/7275028.js"></script><title>Employers | Indeed.com</title><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><meta name="robots" content="noindex" /><link rel="stylesheet" type="text/css" href="https://d1ewxbznfa539k.cloudfront.net/draw/s/c5b86cf/app-compiled.css" media="all" /></head><body><div id="wrapper"><div id="g_nav"><table width="100%" cellpadding="0" cellspacing="0"><tr><td nowrap><style type="text/css">#p_nav a.selected {font-weight:bold;text-decoration:none;color:#000 !important;}</style><div id="p_nav"><span class="navBi"><a href="http://www.indeed.co.in/" id="jobsLink">Find Jobs</a></span><span class="navBi"><a href="http://www.indeed.com/resumes" id="rezLink" onmousedown="this.href=appendParamsOnce(this.href,'?co=IN&sid=draw-IN&kw=draw-nav&hl=en&sp=0')">Find Resumes</a></span><span class="navBi"><a href="http://ads.indeed.com" id="empLink" class="selected">Employers</a></span></div></td><td align="right" nowrap><div id="u_nav">
+            <script type="text/javascript">
+                function isUserOptionsOpen() {
+                    return document.getElementById('userOptions').className == 'open';
+                }
+                function hideUserOptions(label,options) {
+                    options.className = '';
+                    label.className = 'navBi';
+                }
+                function toggleUserOptions(e) {
+                    var options = document.getElementById('userOptions');
+                    var label = document.getElementById('userOptionsLabel');
+                    if ( isUserOptionsOpen() ) {
+                        hideUserOptions( label, options );
+                        if ( !e.keyCode ) {
+                            label.blur();
+                        }
+                    } else {
+                        options.className = 'open';
+                        label.className = 'navBi active';
+                        document.onclick = function() { hideUserOptions(label,options); document.onclick = function() { }; };
+                        if (e.keyCode && e.keyCode == 13) {
+                            var fL = gbid('userOptions').getElementsByTagName('a')[0];
+                            if (fL) { fL.focus(); }
+                        }
+                        else {
+                            label.blur();
+                        }
+                    }
+                    stopPropagation(e);
+                }
+                function stopPropagation(e) {
+                    var e = e || window.event;
+                    e.stopPropagation ? e.stopPropagation() : e.cancelBubble = true;
+                }
+                function appendParamsOnce(url, params) {
+                    var useParams = params.replace(/^\?|\&/, '');
+                    if (url.match(new RegExp( '[\\?|\\&]' + useParams ) ) == null ) {
+                        return url += (url.indexOf('?') > 0 ? '&' : '?' ) + useParams;
+                    }
+                    return url;
+                }
+            </script>
+            <div><div id="user_actions"><div id="contact-us">Need help? <a href="https://ads.indeed.com/contact_indeed?hl=en&co=IN" target="_blank">Contact us</a></div><span style="position:relative;display:inline-block"><span class="navBi" id="userOptionsLabel" tabindex="0" onclick="toggleUserOptions(event);" onkeyup="if (event.keyCode == 13) { toggleUserOptions(event); }"><span class="bold">saranya@venturesity.com</span><span class="arrowStub"><!-- --></span></span><div id="userOptions" onclick="stopPropagation(event);"><div id="account" class="userOptionItem"><a rel="nofollow" href="/account/view?hl=en&cc=IN" target="_blank">Account</a></div><div id="billingInfoNavContainer" class="userOptionItem"><a rel="nofollow" href="https://billing.indeed.com?return=https%3A%2F%2Femployers.indeed.com&hl=en&cc=IN" >Billing Information</a></div><div id="billingHistoryContainer" class="userOptionItem"><a rel="nofollow" href="https://ads.indeed.com/account/billing?hl=en&cc=IN" target="_blank">Billing History</a></div><div class="userOptionGroup"><div class="userOptionItem"><div class="userNameRepeat">saranya@venturesity.com</div></div></div><div class="userOptionGroup"><div class="userOptionItem"><a rel="nofollow" href="/account/do-logout">Sign out</a></div></div></div></span></div></div></div></td></tr></table></div><div id="indicators"><span id="loadingIndicator" class="hidden">Loading...</span><span id="errorIndicator" class="hidden">Server error, please try again later</span></div><div id="page_frame"><div id="page_content"><div id="logo"><a href="/m#jobs"><img src="/draw/s/53a3710/indeed.png"/></a></div><div id="nc"><div class="ncContent" data-section="global-header"><span class="postJob" data-component="post-job"><span class="iB button_outter button_small"><span class="iB button_inner"><a href="#post-job"id=postJobButton data-element="post-job">Post a Job</a></span></span></span><span class="search" data-component="candidate-search"><form id="search" action="/search" method="GET"><input id="_q" name="_q" value="Find Candidates..." type="text" class="example" disabled/><input id="q" name="q" value="" type="text" class="exemplifiable noBgImg"/><span class="iB inwrapborder gray-flat button_small"><span class="iB inwrapbordertop"><input class="input_submit" type="submit" value="Search" data-element="candidate-search"></span></span></form></span><div class="leftContent"><span class="leftTab"><a href="#dashboard">Overview</a></span><span class="leftTab jobTab"><a href="#jobs" class="active">Jobs</a></span><span class="leftTab"><a href="#candidates">Candidates</a></span></div></div><div class="clear"><!-- --></div></div><div class="clear"><!-- --></div><div class="page-wrapper"><div data-section="alerts"><div id="ac" data-component="alerts" class="hidden"></div></div><div id="mc"><h2 style="font-style:italic">Loading...</h2></div></div></div><div class="clear"></div></div><div style="height:80px"></div><div id="page_footer"><div class="tophat_link_footer clearfix"><span class="pull-left"><a href="http://www.indeed.co.in/hire/sponsor-jobs">Products</a>&nbsp;&ndash;&nbsp;<a href="http://www.indeed.co.in/hire/research">Resources</a>&nbsp;&ndash;&nbsp;<a href="http://www.indeed.co.in/hire/faq">FAQ</a>&nbsp;&ndash;&nbsp;<a href="http://blog.indeed.com/">Blog</a></span><span class="pull-right"><a href="https://ads.indeed.com/contact_indeed?hl=en&co=IN">Contact</a>&nbsp;&ndash;&nbsp;<a href="http://www.indeed.co.in/legal?hl=en">Cookies Use, Privacy and Terms</a>&nbsp;&ndash;&nbsp;&copy2015&nbsp;Indeed</span></div></div></div><input id="hT" name="hT" type="hidden" value=""/><div id="responsiveCheck"></div><iframe id="hIF" src="/history" frameborder="0" style="position:fixed;top:0;left:0;z-index:0;width:0;height:0"></iframe><span id="noscriptMessage"><noscript>JavaScript is required. Please enable it in your web browser.</noscript></span><div class="js"><script type="text/javascript">var _sift = _sift || []; _sift.push(['_setAccount', '05df167439']); _sift.push(['_setUserId', '3edaaa1be6142837']); _sift.push(['_trackPageview']);
+(function () {
+    function ls() {
+        var e = document.createElement('script');
+        e.type = 'text/javascript';
+        e.async = true;
+        e.src = '//cdn.siftscience.com/s.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(e, s);
+    }
+    if (window.attachEvent) {
+        window.attachEvent('onload', ls);
+    } else {
+        window.addEventListener('load', ls, false);
+    }
+})();
+</script><script type="text/javascript" src="https://d1ewxbznfa539k.cloudfront.net/draw/s/cf38a30/en_US.js"></script><script type="text/javascript" src="//tinymce.cachefly.net/4.1/tinymce.min.js"></script><script type="text/javascript" src="https://d1ewxbznfa539k.cloudfront.net/draw/s/f35947e/app-compiled.js"></script><script type="text/javascript">indeed.draw.start('{"v":"c9aca0d32263","tk":"19reodu851jjd995","csrf":"Gbm6nTU0dyLo7xCTeWG944QnXeZcD37J","co":"IN","hl":"en","locale":"en_US","rseco":["AE","AR","AU","BE","BR","CA","CO","ES","FR","GB","IN","IT","MX","NL","US"],"rsehl":["de","en","es","fr","it","nl","pt"],"gftp":true,"advNum":"5637549586505302","showDashboard":true,"showSnapHopPage":false,"showScreeningPage":false,"jobSearchUrl":"http://www.indeed.co.in/","groups":{"draw_askexperience":4,"draw_suggestedcandidates":2,"draw_hiremodalchoices":1,"draw_tophatfooterlinks":1,"draw_candidatemessagetos":1,"advw_optimizely":1,"draw_sponsorafterpost":1,"draw_dashboard":1,"drat_feedbackreq":1,"draw_showcandidatestabheader":1,"drat_sandmanenabled":1,"draw_hiremodalhide":1,"draw_trueftp":1,"draw_mobile":0,"draw_dashunread":1,"draw_dashsuccessfulemployermessage":2,"tophat_homepageredesign":1,"draw_ukmediacom":1,"draw_tagmanager":1,"draw_moneyback":2,"draw_dremremailreplace":1,"advw_marketobeacon":0,"draw_forceadditionalinfo":1,"draw_locationfilter":0,"draw_hideemptypricing":1,"draw_india":1,"draw_emailmessage":3,"draw_confirmedaccount":2,"draw_maxdailybudget":1,"draw_rejectnext":0,"draw_pdfjsresume":0,"draw_viewjobnav":1,"rexdrasselecttst":1,"draw_mobilecss":1,"drat_dremrcandemail":1,"draw_askjobtype":0,"draw_autoapplicationquestions":1,"draw_candinboxview":1,"drat_killjobislive":1,"draw_jobdashredesign":2,"passcompanyemailpreferredtst":1,"draw_disablephoneverif":1,"draw_autorejectionletter":1,"draw_candidatesourcereport":0,"advw_usebwapp":1,"draw_companyac":1,"draw_mysqlfilter":1,"draw_bulkui":1},"dailyBudgetThresholdLM":"625.00","currencyCode":"INR","showPerformanceWidget":false}');</script><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M9QWHN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script id="gtmscript" src="//www.googletagmanager.com/gtm.js?id=GTM-M9QWHN" async></script><script>(function(w,l){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});})(window, 'dataLayer');</script></div></body></html>

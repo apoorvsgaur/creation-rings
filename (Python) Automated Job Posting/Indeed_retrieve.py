@@ -14,13 +14,15 @@ def indeed_retrieve():
   br.set_handle_referer(True)
   br.set_handle_robots(False)
   br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
-  br.addheaders = [('User-agent', 'Chrome')]
+  br.addheaders = [('User-agent', 'Firefox')]
   br.open('https://secure.indeed.com/account/login')
   br.select_form(name="loginform")
   br['email'] = 'saranya@venturesity.com'
   br['password'] = 'Venturesity@123'
   br.submit()
-  response = br.open('https://employers.indeed.com/m#jobs?sort=date&order=desc')
+  response = br.open('https://employers.indeed.com/m#jobs')
+  with open('response.html', 'w') as f:
+      f.write(response.read())
   soup = response.read()
   print soup
   soup = BeautifulSoup(soup, "html.parser")
