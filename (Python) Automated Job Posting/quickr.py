@@ -15,7 +15,7 @@ def quickr(Job_Post):
     #Post an ad
     driver.get("http://www.quikr.com/post-classifieds-ads/?postadcategoryid=18230061")
     element = driver.find_element_by_id("title")
-    element.send_keys("Looking for a " + Job_Post.job_title)
+    element.send_keys("Looking for " + Job_Post.job_title)
     element = driver.find_element_by_id("Company_Name")
     element.send_keys(Job_Post.company_name)
     select_box = Select(driver.find_element_by_id("Role_newpap"))

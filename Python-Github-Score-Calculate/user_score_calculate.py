@@ -31,7 +31,7 @@ def github_score(user):
             #print data
         for x in data:
                 try:
-                   print x['full_name']
+                   #print x['full_name']
                    if x['fork'] == False:
                        repo_score = repo_score + 1
                        fork_score = fork_score + x['forks']
@@ -55,13 +55,13 @@ def github_score(user):
                             data = json.loads(html)
                             forks_repo = 0
                             forks_repo = data['forks']
-                            forked_repo_score = forked_repo_score + math.sqrt(commit_repo*forks_repo)
+                            forked_repo_score = forked_repo_score + math.sqrt(float(commit_repo)*float(forks_repo))
                         except:
                             pass
                 except:#    print score
                     print x
 
-    print (followers_score,repo_score,fork_score,star_score,forked_repo_score,number_lines)
+    return [followers_score,repo_score,fork_score,star_score,forked_repo_score,number_lines]
 
-github_score("hemanth")
-#print score
+score = github_score('rstacruz')
+print score

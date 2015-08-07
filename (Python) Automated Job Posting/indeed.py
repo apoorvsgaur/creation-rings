@@ -26,13 +26,14 @@ def indeed(Job_Post):
     ## Switch back to the "default content" (that is, out of the iframes) ##
     driver.switch_to_default_content()
     element = driver.find_element_by_id("location")
+    element.clear()
     element.send_keys(Job_Post.city)
-    element = driver.find_element_by_id("experienceType[0]")
+    element = driver.find_element_by_id("experienceType")
     element.send_keys("IT Software - Developer")
-    select_box = Select(driver.find_element_by_id("experienceYears[0]"))
+    select_box = Select(driver.find_element_by_id("experienceYears"))
     time.sleep(1)
-    if (Job_Post.min_years > 5):
-        select_box.select_by_value("5")
+    if (Job_Post.min_years > 10):
+        select_box.select_by_value("10")
     else:
         select_box.select_by_value(Job_Post.min_years)
     driver.find_element_by_id("postFormSubmit").click()
