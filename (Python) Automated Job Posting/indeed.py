@@ -10,7 +10,7 @@ def indeed(Job_Post):
     element = driver.find_element_by_id("signin_email")
     element.send_keys(Job_Post.login_id)
     element = driver.find_element_by_id("signin_password")
-    element.send_keys(Job_Post.password)
+    element.send_keys(Job_Post.password) 
     driver.find_element_by_class_name("input_submit").click()
     driver.get("https://employers.indeed.com/m#post-job")
     element = driver.find_element_by_id("company")
