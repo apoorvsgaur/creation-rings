@@ -36,6 +36,11 @@ def hasjob_co(Job_Post): #Job_Post
    br['job_location'] = Job_Post.city
    string = Job_Post.job_description.replace("\n","<br>")
    br['job_description'] = string
+   # except:
+   #     try:
+   #         br['job_description'] = string.decode('utf-8')
+   #     except:
+   #         br['job_description'] = string.encode('utf-8')
    br['job_pay_type'] = ['2']
    br['job_pay_currency'] = ['INR']
    br['job_pay_cash_min'] = Job_Post.min_salary

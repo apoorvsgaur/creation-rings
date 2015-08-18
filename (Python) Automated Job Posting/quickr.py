@@ -12,6 +12,7 @@ def quickr(Job_Post):
     element = driver.find_element_by_id("PasswordId")
     element.send_keys(Job_Post.password)
     driver.find_element_by_id("SubmitBtn").click()
+    time.sleep(5)
     #Post an ad
     driver.get("http://www.quikr.com/post-classifieds-ads/?postadcategoryid=18230061")
     element = driver.find_element_by_id("title")
@@ -50,7 +51,10 @@ def quickr(Job_Post):
     driver.find_element_by_id("singleSelLoc").click()
     time.sleep(2)
     driver.find_element_by_css_selector("div[id='customSingleSelLoc'] span").click()
-    driver.find_element_by_css_selector("div[class='AudioDescr-GrayBox text-descr-box']").click()
+    try:
+      driver.find_element_by_css_selector("div[class='AudioDescr-GrayBox text-descr-box']").click()
+    except:
+        pass
     time.sleep(1)
     element = driver.find_element_by_id("description1")
     element.send_keys(Job_Post.job_description.decode('utf-8'))

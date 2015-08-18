@@ -10,8 +10,9 @@ def indeed(Job_Post):
     element = driver.find_element_by_id("signin_email")
     element.send_keys(Job_Post.login_id)
     element = driver.find_element_by_id("signin_password")
-    element.send_keys(Job_Post.password) 
+    element.send_keys(Job_Post.password)
     driver.find_element_by_class_name("input_submit").click()
+    time.sleep(5)
     driver.get("https://employers.indeed.com/m#post-job")
     element = driver.find_element_by_id("company")
     element.clear()
@@ -28,12 +29,18 @@ def indeed(Job_Post):
     element = driver.find_element_by_id("location")
     element.clear()
     element.send_keys(Job_Post.city)
-    element = driver.find_element_by_id("experienceType")
+    try:
+       element = driver.find_element_by_id("experienceType[0]")
+    except:
+       element = driver.find_element_by_id("experienceType")
     element.send_keys("IT Software - Developer")
-    select_box = Select(driver.find_element_by_id("experienceYears"))
+    try:
+        select_box = Select(driver.find_element_by_id("experienceYears[0]"))
+    except:
+        select_box = Select(driver.find_element_by_id("experienceYears"))
     time.sleep(1)
-    if (Job_Post.min_years > 10):
-        select_box.select_by_value("10")
+    if (Job_Post.min_years > 5):
+        select_box.select_by_value("5")
     else:
         select_box.select_by_value(Job_Post.min_years)
     driver.find_element_by_id("postFormSubmit").click()

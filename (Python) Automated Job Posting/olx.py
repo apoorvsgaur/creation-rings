@@ -12,6 +12,7 @@ def olx(Job_Post):
     element = driver.find_element_by_name("login[password]")
     element.send_keys(Job_Post.password)
     driver.find_element_by_id("se_userLogin").click()
+    time.sleep(5)
     #navigating to the post_job
     driver.get("http://olx.in/posting/?fillBaseCategory=56")
     #filling the 'type-of-ad' drop-down menu

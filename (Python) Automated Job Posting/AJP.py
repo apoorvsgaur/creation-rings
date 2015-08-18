@@ -64,7 +64,7 @@ def post_details():
          print "Trovit started"
          trovit(Job_Post)
          print "Trovit done"
-     return request.form['Photo']
+     return "Done."
 
     #  print "OLX started"
     #  olx(Job_Post)

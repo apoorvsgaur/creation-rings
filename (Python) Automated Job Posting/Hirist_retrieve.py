@@ -54,4 +54,3 @@ def hirist_retrieve():
                     #   f.write(response.read())
       else:
               break
-hirist_retrieve()
